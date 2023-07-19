@@ -1,0 +1,212 @@
+# Translation of ISO-639 (language names) to Northern Sotho
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Zuza Software Foundation
+#   Translations from kde-i18n by
+#   Jerry Thobejane <jerry@translate.org.za>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-11-08 11:22+0200\n"
+"Last-Translator: Jerry Thobejane <jerry@translate.org.za>\n"
+"Language-Team: Northern Sotho <sepedi@translate.org.za>\n"
+"Language: nso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta2\n"
+
+msgid "ISO_639-2.AF"
+msgstr "Seburu"
+
+msgid "ISO_639-2.AK"
+msgstr "Seburu"
+
+msgid "ISO_639-2.AR"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-2.AV"
+msgstr "Se-Arapo"
+
+msgid "ISO_639-2.AZ"
+msgstr "Se-Azerbaijani"
+
+msgid "ISO_639-2.BE"
+msgstr "Se-Belarusian"
+
+msgid "ISO_639-2.BG"
+msgstr "Se-Bulgarian"
+
+msgid "ISO_639-2.BH"
+msgstr "Se-Korean"
+
+msgid "ISO_639-2.BR"
+msgstr "Se-Breton"
+
+msgid "ISO_639-2.BS"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-2.CR"
+msgstr "Segerika"
+
+msgid "ISO_639-2.CS"
+msgstr "Se-Czech"
+
+msgid "ISO_639-2.CY"
+msgstr "Se-Welsh"
+
+msgid "ISO_639-2.DA"
+msgstr "Se-Danish"
+
+msgid "ISO_639-2.DE"
+msgstr "Se-German"
+
+msgid "ISO_639-2.EN"
+msgstr "GB ya Sekgowa"
+
+msgid "ISO_639-2.EO"
+msgstr "Se-Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Se-Estonian"
+
+msgid "ISO_639-2.EU"
+msgstr "Se-Basque"
+
+msgid "ISO_639-2.FI"
+msgstr "Se-Finnish"
+
+msgid "ISO_639-2.FR"
+msgstr "Se-French"
+
+msgid "ISO_639-2.GA"
+msgstr "Se-Irish"
+
+msgid "ISO_639-2.HE"
+msgstr "Seheberu"
+
+msgid "ISO_639-2.HR"
+msgstr "Se-Croatian"
+
+msgid "ISO_639-2.HU"
+msgstr "Se-Hungarian"
+
+msgid "ISO_639-2.HY"
+msgstr "Se-Bosnian"
+
+msgid "ISO_639-2.ID"
+msgstr "Se-Indonesian"
+
+msgid "ISO_639-2.IS"
+msgstr "Se-Icelandic"
+
+msgid "ISO_639-2.IT"
+msgstr "Se-Italian"
+
+msgid "ISO_639-2.JA"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-2.JV"
+msgstr "Se-Japanese"
+
+msgid "ISO_639-2.KO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-2.KR"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-2.KU"
+msgstr "Se-Kurdish"
+
+msgid "ISO_639-2.LG"
+msgstr "Se-Venda"
+
+msgid "ISO_639-2.LT"
+msgstr "Se-Lithuanian"
+
+msgid "ISO_639-2.LV"
+msgstr "Se-Latvian"
+
+msgid "ISO_639-2.MI"
+msgstr "Se-Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Se-Macedonian"
+
+msgid "ISO_639-2.MT"
+msgstr "Se-Maltese"
+
+msgid "ISO_639-2.NN"
+msgstr "Se-Norwegian (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Se-Korean"
+
+msgid "ISO_639-2.PL"
+msgstr "Se-Polish"
+
+msgid "ISO_639-2.PT"
+msgstr "Se-Portuguese"
+
+msgid "ISO_639-2.RM"
+msgstr "Se-Romanian"
+
+msgid "ISO_639-2.RU"
+msgstr "Se-Russian"
+
+msgid "ISO_639-2.SC"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-2.SE"
+msgstr "Ya Lebowa la Sami"
+
+msgid "ISO_639-2.SK"
+msgstr "Se-Slovak"
+
+msgid "ISO_639-2.SL"
+msgstr "Se-Slovenian"
+
+msgid "ISO_639-2.SR"
+msgstr "Se-Serbian"
+
+msgid "ISO_639-2.SS"
+msgstr "Seswati"
+
+msgid "ISO_639-2.SV"
+msgstr "Se-Swedish"
+
+msgid "ISO_639-2.TA"
+msgstr "Se-Tamil"
+
+msgid "ISO_639-2.TH"
+msgstr "Se-Thai"
+
+msgid "ISO_639-2.TR"
+msgstr "Se-Turkish"
+
+msgid "ISO_639-2.UK"
+msgstr "Se-Ukrainian"
+
+msgid "ISO_639-2.VE"
+msgstr "Se-Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Se-Vietnamese"
+
+msgid "ISO_639-2.WA"
+msgstr "Se-Walloon"
+
+msgid "ISO_639-2.XH"
+msgstr "Sethosa"
+
+msgid "ISO_639-2.ZH"
+msgstr "Se-China"
+
+msgid "ISO_639-2.ZU"
+msgstr "Se-Zulu"

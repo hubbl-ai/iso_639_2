@@ -1,0 +1,467 @@
+# Translation of ISO-639 (language names) to Tatar
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-10-21 15:20+0300\n"
+"Last-Translator: Albert Fazlí <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afarça"
+
+msgid "ISO_639-2.AB"
+msgstr "Abxazça"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestança"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikança"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharça"
+
+msgid "ISO_639-2.AR"
+msgstr "Ğäräpçä"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamesçä"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymarça"
+
+msgid "ISO_639-2.AZ"
+msgstr "Äzerçä"
+
+msgid "ISO_639-2.BA"
+msgstr "Başqortça"
+
+msgid "ISO_639-2.BE"
+msgstr "Belarusça"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgarça"
+
+msgid "ISO_639-2.BH"
+msgstr "Ğosman telläre"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislamaça"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalça"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetçä"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonça"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosniçä"
+
+msgid "ISO_639-2.CE"
+msgstr "Çäçänçä"
+
+msgid "ISO_639-2.CH"
+msgstr "Çamorroça"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikça"
+
+msgid "ISO_639-2.CS"
+msgstr "Çexçä"
+
+msgid "ISO_639-2.CV"
+msgstr "Çuaşça"
+
+msgid "ISO_639-2.CY"
+msgstr "Welşçä"
+
+msgid "ISO_639-2.DA"
+msgstr "Dança"
+
+msgid "ISO_639-2.DE"
+msgstr "Almança"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongxaça"
+
+msgid "ISO_639-2.EN"
+msgstr "İnglizçä"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonça"
+
+msgid "ISO_639-2.EU"
+msgstr "Basqça"
+
+msgid "ISO_639-2.FA"
+msgstr "Farsıça"
+
+msgid "ISO_639-2.FI"
+msgstr "Finçä"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fijiçä"
+
+msgid "ISO_639-2.FO"
+msgstr "Farosça"
+
+msgid "ISO_639-2.FR"
+msgstr "Fransça"
+
+msgid "ISO_639-2.FY"
+msgstr "Frisçä"
+
+msgid "ISO_639-2.GA"
+msgstr "İrişçä"
+
+msgid "ISO_639-2.GL"
+msgstr "Galisçä"
+
+msgid "ISO_639-2.GN"
+msgstr "Guarança"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujaratça"
+
+msgid "ISO_639-2.GV"
+msgstr "Manksça"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausça"
+
+msgid "ISO_639-2.HE"
+msgstr "Yähüdçä"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindçä"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroatça"
+
+msgid "ISO_639-2.HU"
+msgstr "Macarça"
+
+msgid "ISO_639-2.HY"
+msgstr "Ärmänçä"
+
+msgid "ISO_639-2.HZ"
+msgstr "Hereroça"
+
+msgid "ISO_639-2.ID"
+msgstr "İndonesçä"
+
+msgid "ISO_639-2.IE"
+msgstr "İnterlingue"
+
+msgid "ISO_639-2.IK"
+msgstr "İnupiaqça"
+
+msgid "ISO_639-2.IO"
+msgstr "İdoça"
+
+msgid "ISO_639-2.IS"
+msgstr "İslandça"
+
+msgid "ISO_639-2.IT"
+msgstr "İtalça"
+
+msgid "ISO_639-2.IU"
+msgstr "İnuktitutça"
+
+msgid "ISO_639-2.JA"
+msgstr "Japança"
+
+msgid "ISO_639-2.JV"
+msgstr "Javaça"
+
+msgid "ISO_639-2.KA"
+msgstr "Görceçä"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuyuça"
+
+msgid "ISO_639-2.KK"
+msgstr "Qazaqça"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannadça"
+
+msgid "ISO_639-2.KO"
+msgstr "Koreyçä"
+
+msgid "ISO_639-2.KS"
+msgstr "Kaşmirçä"
+
+msgid "ISO_639-2.KU"
+msgstr "Kördçä"
+
+msgid "ISO_639-2.KV"
+msgstr "Komiçä"
+
+msgid "ISO_639-2.KW"
+msgstr "Kornişçä"
+
+msgid "ISO_639-2.KY"
+msgstr "Qırğızça"
+
+msgid "ISO_639-2.LA"
+msgstr "Latınça"
+
+msgid "ISO_639-2.LB"
+msgstr "Lüksemburgça"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingalaça"
+
+msgid "ISO_639-2.LO"
+msgstr "Laoça"
+
+msgid "ISO_639-2.LT"
+msgstr "Litçä"
+
+msgid "ISO_639-2.LV"
+msgstr "Latça"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasça"
+
+msgid "ISO_639-2.MH"
+msgstr "Marşallça"
+
+msgid "ISO_639-2.MI"
+msgstr "Maoriça"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonça"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalamça"
+
+msgid "ISO_639-2.MN"
+msgstr "Moğolça"
+
+msgid "ISO_639-2.MR"
+msgstr "Maratça"
+
+msgid "ISO_639-2.MS"
+msgstr "Malayça"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltesçä"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmesçä"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauruça"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebeleçä, Tönyaq"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalça"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndongaça"
+
+msgid "ISO_639-2.NN"
+msgstr "Norwejçä (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Norwejçä"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebeleçä, Könyaq"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromoça"
+
+msgid "ISO_639-2.OR"
+msgstr "Oriyaça"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetinçä"
+
+msgid "ISO_639-2.PA"
+msgstr "Punjabça"
+
+msgid "ISO_639-2.PI"
+msgstr "Palçä"
+
+msgid "ISO_639-2.PL"
+msgstr "Polça"
+
+msgid "ISO_639-2.PS"
+msgstr "Puştu Farsıçası"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugalça"
+
+msgid "ISO_639-2.QU"
+msgstr "Queçuaça"
+
+msgid "ISO_639-2.RM"
+msgstr "Romança"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundçä"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldavça"
+
+msgid "ISO_639-2.RU"
+msgstr "Urısça"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwandaça"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskritçä"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardinçä"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindihçä"
+
+msgid "ISO_639-2.SE"
+msgstr "Tönyaq Sami"
+
+msgid "ISO_639-2.SG"
+msgstr "Sangoça"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovakça"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovençä"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoaça"
+
+msgid "ISO_639-2.SN"
+msgstr "Şonaça"
+
+msgid "ISO_639-2.SO"
+msgstr "Somaliçä"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albança"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbçä"
+
+msgid "ISO_639-2.SS"
+msgstr "Swatça"
+
+msgid "ISO_639-2.ST"
+msgstr "Sothoça, Könyaq"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundanesçä"
+
+msgid "ISO_639-2.SV"
+msgstr "İswäcçä"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahiliçä"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilça"
+
+msgid "ISO_639-2.TE"
+msgstr "Teluguça"
+
+msgid "ISO_639-2.TG"
+msgstr "Tajıqça"
+
+msgid "ISO_639-2.TH"
+msgstr "Tayça"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinyaça"
+
+msgid "ISO_639-2.TK"
+msgstr "Törekmänçä"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalogça"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswanaça"
+
+msgid "ISO_639-2.TR"
+msgstr "Törekçä"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsongaça"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatarça"
+
+msgid "ISO_639-2.TW"
+msgstr "Twiçä"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahitçä"
+
+msgid "ISO_639-2.UG"
+msgstr "Uyğurça"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrainça"
+
+msgid "ISO_639-2.UR"
+msgstr "Urduça"
+
+msgid "ISO_639-2.UZ"
+msgstr "Üzbäkçä"
+
+msgid "ISO_639-2.VE"
+msgstr "Vendaça"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamça"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapükçä"
+
+msgid "ISO_639-2.WA"
+msgstr "Walonça"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolofça"
+
+msgid "ISO_639-2.XH"
+msgstr "Xosaça"
+
+msgid "ISO_639-2.YI"
+msgstr "Yidiş"
+
+msgid "ISO_639-2.YO"
+msgstr "Yorubaça"
+
+msgid "ISO_639-2.ZH"
+msgstr "Çinçä"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zuluça"

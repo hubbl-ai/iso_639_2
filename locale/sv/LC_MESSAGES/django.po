@@ -1,0 +1,591 @@
+# Swedish translation of ISO 639 language names.
+# Copyright © 2004, 2016 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Christian Rose <menthos@menthos.com>, 2004.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016.
+#
+# Many of these names are taken directly from
+# http://www.softwolves.pp.se/misc/spraklista.html, a page maintained by
+# Peter Karlsson <peter@softwolves.pp.se> which contains an extensive list of
+# ISO-639 language names in Swedish. A big thanks to him.
+#
+# Additionally, most Swedish language names are taken from
+# http://www.libris.kb.se/tjanster/katalogisering/formathandbok/sprakkoder.htm
+#
+#
+# Please note that many common language names in Swedish as a general rule
+# usually end in "ska". Nationality adjectives on the other hand usually end
+# in "sk". Please don't confuse the two.
+#
+# She speaks Japanese.    <=> Hon talar japanska.
+# She has a Japanese car. <=> Hon har en japansk bil.
+#
+# In addition, and as the example above shows, language names in Swedish should
+# always be written entirely *lowercase*, the exception of course being if it's
+# the first word in a sentence.
+# But since this is a list, rather than language names used inside
+# sentences, these translated language names use capital initial letters.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2016-08-22 02:34+0200\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abchaziska"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestiska"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Akan"
+
+msgid "ISO_639-2.AM"
+msgstr "Amhariska"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonska"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabiska"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamesiska"
+
+msgid "ISO_639-2.AV"
+msgstr "Avariska"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbajdzjanska"
+
+msgid "ISO_639-2.BA"
+msgstr "Basjkiriska"
+
+msgid "ISO_639-2.BE"
+msgstr "Vitryska"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgariska"
+
+msgid "ISO_639-2.BH"
+msgstr "Biharispråk"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengali"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetanska"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonska"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosniska"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalanska; Valencianska"
+
+msgid "ISO_639-2.CE"
+msgstr "Tjetjenska"
+
+msgid "ISO_639-2.CH"
+msgstr "Chamorro"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikanska"
+
+msgid "ISO_639-2.CR"
+msgstr "Cree"
+
+msgid "ISO_639-2.CS"
+msgstr "Tjeckiska"
+
+msgid "ISO_639-2.CV"
+msgstr "Tjuvasjiska"
+
+msgid "ISO_639-2.CY"
+msgstr "Kymriska"
+
+msgid "ISO_639-2.DA"
+msgstr "Danska"
+
+msgid "ISO_639-2.DE"
+msgstr "Tyska"
+
+msgid "ISO_639-2.DV"
+msgstr "Divehi; Maldiviska"
+
+msgid "ISO_639-2.DZ"
+msgstr "Bhutanesiska (Dzongkha)"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewe"
+
+msgid "ISO_639-2.EL"
+msgstr "Nygrekiska (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Engelska"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Spanska"
+
+msgid "ISO_639-2.ET"
+msgstr "Estniska"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskiska"
+
+msgid "ISO_639-2.FA"
+msgstr "Persiska"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulani"
+
+msgid "ISO_639-2.FI"
+msgstr "Finska"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fijianska"
+
+msgid "ISO_639-2.FO"
+msgstr "Färöiska"
+
+msgid "ISO_639-2.FR"
+msgstr "Franska"
+
+msgid "ISO_639-2.FY"
+msgstr "Frisiska"
+
+msgid "ISO_639-2.GA"
+msgstr "Iriska"
+
+msgid "ISO_639-2.GD"
+msgstr "Höglandsskotska; Gäliska"
+
+msgid "ISO_639-2.GL"
+msgstr "Galiciska"
+
+msgid "ISO_639-2.GN"
+msgstr "Guarani"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujarati"
+
+msgid "ISO_639-2.GV"
+msgstr "Manx"
+
+msgid "ISO_639-2.HA"
+msgstr "Haussa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebreiska"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hirimotu"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroatiska"
+
+msgid "ISO_639-2.HT"
+msgstr "Haitiska; haitisk kreol"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungerska"
+
+msgid "ISO_639-2.HY"
+msgstr "Armeniska"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonesiska"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue; Occidental"
+
+msgid "ISO_639-2.IG"
+msgstr "Ibo (Igbo)"
+
+msgid "ISO_639-2.II"
+msgstr "Sichuan Yi"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Isländska"
+
+msgid "ISO_639-2.IT"
+msgstr "Italienska"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Japanska"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanska"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgiska"
+
+msgid "ISO_639-2.KG"
+msgstr "Kikongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Ovambo (kuanyama)"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazakiska"
+
+msgid "ISO_639-2.KL"
+msgstr "Grönländska"
+
+msgid "ISO_639-2.KM"
+msgstr "Kambodjanska (Khmer)"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Koreanska"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "Kashmiri"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurdiska"
+
+msgid "ISO_639-2.KV"
+msgstr "Komi"
+
+msgid "ISO_639-2.KW"
+msgstr "Korniska"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgisiska"
+
+msgid "ISO_639-2.LA"
+msgstr "Latin"
+
+msgid "ISO_639-2.LB"
+msgstr "Luxemburgiska"
+
+msgid "ISO_639-2.LG"
+msgstr "Luganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgiska"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laotiska"
+
+msgid "ISO_639-2.LT"
+msgstr "Litauiska"
+
+msgid "ISO_639-2.LU"
+msgstr "Luba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Lettiska"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasy"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshallesiska"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonska"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalam"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongoliska språk"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathi"
+
+msgid "ISO_639-2.MS"
+msgstr "Malajiska"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltesiska"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmanska"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauruanska"
+
+msgid "ISO_639-2.NB"
+msgstr "Norska, bokmål"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebele (Zimbabwe)"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepali"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Nederländska; Flamländska"
+
+msgid "ISO_639-2.NN"
+msgstr "Nynorsk"
+
+msgid "ISO_639-2.NO"
+msgstr "Norska"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebele (Sydafrika)"
+
+msgid "ISO_639-2.NV"
+msgstr "Navaho"
+
+msgid "ISO_639-2.NY"
+msgstr "Nyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Langue d'oc (1500-)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Odjibwa (chippewa)"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Oriya"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetiska"
+
+msgid "ISO_639-2.PA"
+msgstr "Panjabi; Punjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Pali"
+
+msgid "ISO_639-2.PL"
+msgstr "Polska"
+
+msgid "ISO_639-2.PS"
+msgstr "Pashto"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugisiska"
+
+msgid "ISO_639-2.QU"
+msgstr "Quechua"
+
+msgid "ISO_639-2.RM"
+msgstr "Rätoromanska"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldaviska"
+
+msgid "ISO_639-2.RU"
+msgstr "Ryska"
+
+msgid "ISO_639-2.RW"
+msgstr "Rwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardiska"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "Nordsamiska"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Singalesiska"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovakiska"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovenska"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoanska"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somali"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanska"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbiska"
+
+msgid "ISO_639-2.SS"
+msgstr "Swazi"
+
+msgid "ISO_639-2.ST"
+msgstr "Sotho, syd"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundanesiska"
+
+msgid "ISO_639-2.SV"
+msgstr "Svenska"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamil"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugo"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadzjikiska"
+
+msgid "ISO_639-2.TH"
+msgstr "Thailändska"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinja"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmeniska"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tonga (Tongaöarna)"
+
+msgid "ISO_639-2.TR"
+msgstr "Turkiska"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatariska"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahitiska"
+
+msgid "ISO_639-2.UG"
+msgstr "Uiguriska"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrainska"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Uzbekiska"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamesiska"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "Vallonska"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Jiddisch"
+
+msgid "ISO_639-2.YO"
+msgstr "Yoruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Kinesiska"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zulu"

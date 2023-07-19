@@ -1,0 +1,507 @@
+# Translation of ISO-639 (language names) to Afrikaans
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Frikkie Thirion <frix@engineer.com>, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Free Software Foundation, Inc., 2004
+#   Ysbeer <ysbeer@af.org.za>, 2004.
+#   Friedel Wolff <friedel BY translate.org.za>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-1116 22:3+0200\n"
+"Last-Translator: Friedel Wolff <friedel@translate.org.za>\n"
+"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abgasies"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Akan"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharies"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonees"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabies"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamese"
+
+msgid "ISO_639-2.AV"
+msgstr "Amharies"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbaidjans"
+
+msgid "ISO_639-2.BA"
+msgstr "Basjkirs"
+
+msgid "ISO_639-2.BE"
+msgstr "Belo-Russies"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgaars"
+
+msgid "ISO_639-2.BH"
+msgstr "Koreaans"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislamees"
+
+msgid "ISO_639-2.BM"
+msgstr "Aymara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalees"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibettaans"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretons"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosnies"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalaans"
+
+msgid "ISO_639-2.CE"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikaans"
+
+msgid "ISO_639-2.CR"
+msgstr "Grieks"
+
+msgid "ISO_639-2.CS"
+msgstr "Tsjeggies"
+
+msgid "ISO_639-2.CY"
+msgstr "Wallies"
+
+msgid "ISO_639-2.DA"
+msgstr "Deens"
+
+msgid "ISO_639-2.DE"
+msgstr "Duits"
+
+msgid "ISO_639-2.DZ"
+msgstr "Bhoetaans"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewe"
+
+msgid "ISO_639-2.EN"
+msgstr "Engels"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Spaans"
+
+msgid "ISO_639-2.ET"
+msgstr "Estlands"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskies"
+
+msgid "ISO_639-2.FA"
+msgstr "Persies"
+
+msgid "ISO_639-2.FI"
+msgstr "Fins"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidjies"
+
+msgid "ISO_639-2.FO"
+msgstr "Faroees"
+
+msgid "ISO_639-2.FR"
+msgstr "Frans"
+
+msgid "ISO_639-2.FY"
+msgstr "Wes-Fries"
+
+msgid "ISO_639-2.GA"
+msgstr "Iers"
+
+msgid "ISO_639-2.GD"
+msgstr "Skotse Gaelies"
+
+msgid "ISO_639-2.GL"
+msgstr "Galisies"
+
+msgid "ISO_639-2.GN"
+msgstr "Guarani"
+
+msgid "ISO_639-2.GU"
+msgstr "Goedjarati"
+
+msgid "ISO_639-2.GV"
+msgstr "Manx"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebreeus"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroaties"
+
+msgid "ISO_639-2.HU"
+msgstr "Hongaars"
+
+msgid "ISO_639-2.HY"
+msgstr "Armeens"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonesies"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue"
+
+msgid "ISO_639-2.II"
+msgstr "Litaus"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiak"
+
+msgid "ISO_639-2.IS"
+msgstr "Yslands"
+
+msgid "ISO_639-2.IT"
+msgstr "Italiaans"
+
+msgid "ISO_639-2.IU"
+msgstr "Innuïties"
+
+msgid "ISO_639-2.JA"
+msgstr "Japannees"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanees"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgies"
+
+msgid "ISO_639-2.KG"
+msgstr "Sangro"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazak"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Koreaans"
+
+msgid "ISO_639-2.KR"
+msgstr "Koerdies"
+
+msgid "ISO_639-2.KS"
+msgstr "Kasjmiri"
+
+msgid "ISO_639-2.KU"
+msgstr "Koerdies"
+
+msgid "ISO_639-2.KV"
+msgstr "Somalees"
+
+msgid "ISO_639-2.KW"
+msgstr "Kornies"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgisies"
+
+msgid "ISO_639-2.LA"
+msgstr "Latyn"
+
+msgid "ISO_639-2.LB"
+msgstr "Luxemburgs"
+
+msgid "ISO_639-2.LG"
+msgstr "Kannada"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgs"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingalees"
+
+msgid "ISO_639-2.LO"
+msgstr "Lao"
+
+msgid "ISO_639-2.LT"
+msgstr "Litaus"
+
+msgid "ISO_639-2.LV"
+msgstr "Letties"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagassies"
+
+msgid "ISO_639-2.MH"
+msgstr "Maltees"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Masedonies"
+
+msgid "ISO_639-2.ML"
+msgstr "Malabaars"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongools"
+
+msgid "ISO_639-2.MR"
+msgstr "Marafi"
+
+msgid "ISO_639-2.MS"
+msgstr "Maleis"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltees"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmees"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauru"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalees"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Nederlands"
+
+msgid "ISO_639-2.NN"
+msgstr "Noorweegse Nynorsk"
+
+msgid "ISO_639-2.NO"
+msgstr "Noorweegs"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromees"
+
+msgid "ISO_639-2.OR"
+msgstr "Oria"
+
+msgid "ISO_639-2.OS"
+msgstr "Russies"
+
+msgid "ISO_639-2.PA"
+msgstr "Punjabies"
+
+msgid "ISO_639-2.PI"
+msgstr "Somalees"
+
+msgid "ISO_639-2.PL"
+msgstr "Pools"
+
+msgid "ISO_639-2.PS"
+msgstr "Pasjtoe"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugees"
+
+msgid "ISO_639-2.QU"
+msgstr "Quechua"
+
+msgid "ISO_639-2.RM"
+msgstr "Reto-Romaans"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldawies"
+
+msgid "ISO_639-2.RU"
+msgstr "Russies"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardinies"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "Noord-Sami"
+
+msgid "ISO_639-2.SG"
+msgstr "Sangro"
+
+msgid "ISO_639-2.SI"
+msgstr "Singalees"
+
+msgid "ISO_639-2.SK"
+msgstr "Slowaaks"
+
+msgid "ISO_639-2.SL"
+msgstr "Sloweens"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoaans"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somali"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanees"
+
+msgid "ISO_639-2.SR"
+msgstr "Serwies"
+
+msgid "ISO_639-2.SS"
+msgstr "Swati"
+
+msgid "ISO_639-2.ST"
+msgstr "Sotho, Suid-"
+
+msgid "ISO_639-2.SU"
+msgstr "Soedanees"
+
+msgid "ISO_639-2.SV"
+msgstr "Sweeds"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamil"
+
+msgid "ISO_639-2.TE"
+msgstr "Teloegoe"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadjikistans"
+
+msgid "ISO_639-2.TH"
+msgstr "Thai"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigris"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmeens"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TR"
+msgstr "Turks"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tartaars"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Letties"
+
+msgid "ISO_639-2.UG"
+msgstr "Oeigoers"
+
+msgid "ISO_639-2.UK"
+msgstr "Oekraïens"
+
+msgid "ISO_639-2.UR"
+msgstr "Oerdoe"
+
+msgid "ISO_639-2.UZ"
+msgstr "Oezbekies"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Viëtnamees"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "walloonse"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Jiddisj"
+
+msgid "ISO_639-2.YO"
+msgstr "Joroeba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Sjinees"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zoeloe"

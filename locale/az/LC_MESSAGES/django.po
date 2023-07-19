@@ -1,0 +1,284 @@
+# Translation of ISO-639 (language names) to Azerbaijani
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2001
+#   Vasif Ismailoglu MD <azerb_linux@hotmail.com>, 2001. (translations from gnucash)
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-07-28 11:19GMT+0200\n"
+"Last-Translator: Vasif İsmayıloğlu <azerb_linux@hotmail.com>\n"
+"Language-Team: Azerbaijani Turkish <linuxaz@azerimail.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.8\n"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrika"
+
+msgid "ISO_639-2.AK"
+msgstr "Afrika"
+
+msgid "ISO_639-2.AM"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-2.AN"
+msgstr "Faero"
+
+msgid "ISO_639-2.AR"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-2.AV"
+msgstr "Ərəbcə"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azərbaycan türkçəsi"
+
+msgid "ISO_639-2.BE"
+msgstr "Belorusca"
+
+msgid "ISO_639-2.BG"
+msgstr "Bolqarca"
+
+msgid "ISO_639-2.BH"
+msgstr "Korecə"
+
+msgid "ISO_639-2.BN"
+msgstr "Baltik"
+
+msgid "ISO_639-2.BR"
+msgstr "Breton"
+
+msgid "ISO_639-2.BS"
+msgstr "Rumınca"
+
+msgid "ISO_639-2.CE"
+msgstr "Çex"
+
+msgid "ISO_639-2.CR"
+msgstr "Yunanca"
+
+msgid "ISO_639-2.CS"
+msgstr "Çex"
+
+msgid "ISO_639-2.DA"
+msgstr "Danimarka"
+
+msgid "ISO_639-2.DE"
+msgstr "Alman"
+
+msgid "ISO_639-2.EN"
+msgstr "İngiliscə"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonca"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskca"
+
+msgid "ISO_639-2.FA"
+msgstr "Çap Et"
+
+msgid "ISO_639-2.FI"
+msgstr "Fincə"
+
+msgid "ISO_639-2.FJ"
+msgstr "Axtar"
+
+msgid "ISO_639-2.FO"
+msgstr "Faero"
+
+msgid "ISO_639-2.FR"
+msgstr "Fransızca"
+
+msgid "ISO_639-2.FY"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-2.GA"
+msgstr "İrlandca"
+
+msgid "ISO_639-2.GL"
+msgstr "Qaleon"
+
+msgid "ISO_639-2.GV"
+msgstr "Kənarlar"
+
+msgid "ISO_639-2.HA"
+msgstr "Balsa"
+
+msgid "ISO_639-2.HE"
+msgstr "İvrit"
+
+msgid "ISO_639-2.HI"
+msgstr "Axtar"
+
+msgid "ISO_639-2.HO"
+msgstr "Axtar"
+
+msgid "ISO_639-2.HR"
+msgstr "Xırvatca"
+
+msgid "ISO_639-2.HU"
+msgstr "Macarca"
+
+msgid "ISO_639-2.HZ"
+msgstr "İvrit"
+
+msgid "ISO_639-2.ID"
+msgstr "İndoneziyaca"
+
+msgid "ISO_639-2.IE"
+msgstr "İcra edilir"
+
+msgid "ISO_639-2.II"
+msgstr "Litva"
+
+msgid "ISO_639-2.IK"
+msgstr "Hintcə"
+
+msgid "ISO_639-2.IS"
+msgstr "İslandiyaca"
+
+msgid "ISO_639-2.IT"
+msgstr "İtalyan"
+
+msgid "ISO_639-2.JA"
+msgstr "Yaponca"
+
+msgid "ISO_639-2.JV"
+msgstr "Yaponca"
+
+msgid "ISO_639-2.KO"
+msgstr "Korecə"
+
+msgid "ISO_639-2.KR"
+msgstr "Türkcə"
+
+msgid "ISO_639-2.KU"
+msgstr "Türkcə"
+
+msgid "ISO_639-2.KW"
+msgstr "Rənglər"
+
+msgid "ISO_639-2.LA"
+msgstr "Yer"
+
+msgid "ISO_639-2.LN"
+msgstr "Qa_nuni"
+
+msgid "ISO_639-2.LT"
+msgstr "Litva"
+
+msgid "ISO_639-2.LV"
+msgstr "Latviya"
+
+msgid "ISO_639-2.MG"
+msgstr "Balsa"
+
+msgid "ISO_639-2.MH"
+msgstr "Səhv"
+
+msgid "ISO_639-2.MI"
+msgstr "Kənarlar"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonca"
+
+msgid "ISO_639-2.MS"
+msgstr "Balsa"
+
+msgid "ISO_639-2.MT"
+msgstr "Səhv"
+
+msgid "ISO_639-2.NE"
+msgstr "Yeni _ləqəb"
+
+msgid "ISO_639-2.NN"
+msgstr "Norveçcə"
+
+msgid "ISO_639-2.NO"
+msgstr "Norveçcə"
+
+msgid "ISO_639-2.OM"
+msgstr "kaynak :"
+
+msgid "ISO_639-2.OS"
+msgstr "Rusca"
+
+msgid "ISO_639-2.PI"
+msgstr "Polyakca"
+
+msgid "ISO_639-2.PL"
+msgstr "Polyakca"
+
+msgid "ISO_639-2.PT"
+msgstr "Portuqal"
+
+msgid "ISO_639-2.RM"
+msgstr "Rumınca"
+
+msgid "ISO_639-2.RU"
+msgstr "Rusca"
+
+msgid "ISO_639-2.SC"
+msgstr "Makedonca"
+
+msgid "ISO_639-2.SD"
+msgstr "Axtar"
+
+msgid "ISO_639-2.SI"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovak"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovakca"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albaniya"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbcə"
+
+msgid "ISO_639-2.SV"
+msgstr "İsveçcə"
+
+msgid "ISO_639-2.TA"
+msgstr "Thai"
+
+msgid "ISO_639-2.TG"
+msgstr "Thai"
+
+msgid "ISO_639-2.TH"
+msgstr "Thai"
+
+msgid "ISO_639-2.TI"
+msgstr "Türkcə"
+
+msgid "ISO_639-2.TR"
+msgstr "Türkcə"
+
+msgid "ISO_639-2.TY"
+msgstr "Latviya"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-2.VI"
+msgstr "Vyetnamca"
+
+msgid "ISO_639-2.ZH"
+msgstr "Çincə"

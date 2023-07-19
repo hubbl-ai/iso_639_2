@@ -1,0 +1,572 @@
+# Translation of ISO 639 (gu.po) to Gujarati
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+# Ankit Patel <ankit644@yahoo.com>, 2009.
+# Sweta Kothari <swkothar@redhat.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-09-21 12:13+0530\n"
+"Last-Translator: Ankit Patel <ankit644@yahoo.com>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "અફાર"
+
+msgid "ISO_639-2.AB"
+msgstr "અબ્ક્હઝિયન"
+
+msgid "ISO_639-2.AE"
+msgstr "અવેસ્ટાન"
+
+msgid "ISO_639-2.AF"
+msgstr "આફ્રિકન્સ"
+
+msgid "ISO_639-2.AK"
+msgstr "અકાન"
+
+msgid "ISO_639-2.AM"
+msgstr "અમ્હારીક"
+
+msgid "ISO_639-2.AN"
+msgstr "અરૉગોનિજ"
+
+msgid "ISO_639-2.AR"
+msgstr "અરેબિક"
+
+msgid "ISO_639-2.AS"
+msgstr "આસામી"
+
+msgid "ISO_639-2.AV"
+msgstr "અવેરિક"
+
+msgid "ISO_639-2.AY"
+msgstr "અય્મર"
+
+msgid "ISO_639-2.AZ"
+msgstr "અઝેરબૈજાની"
+
+msgid "ISO_639-2.BA"
+msgstr "બાશકીર"
+
+msgid "ISO_639-2.BE"
+msgstr "બેલારુશિયન"
+
+msgid "ISO_639-2.BG"
+msgstr "બલ્ગેરિયન"
+
+msgid "ISO_639-2.BH"
+msgstr "બિહારી ભાષાઓ"
+
+msgid "ISO_639-2.BI"
+msgstr "બિસ્લામા"
+
+msgid "ISO_639-2.BM"
+msgstr "બમ્બારા"
+
+msgid "ISO_639-2.BN"
+msgstr "બંગાળી"
+
+msgid "ISO_639-2.BO"
+msgstr "તિબેટન"
+
+msgid "ISO_639-2.BR"
+msgstr "બ્રેટોન"
+
+msgid "ISO_639-2.BS"
+msgstr "બોસનીયન"
+
+msgid "ISO_639-2.CA"
+msgstr "કેટેલન; વેલેન્સીઆ"
+
+msgid "ISO_639-2.CE"
+msgstr "ચેચેન"
+
+msgid "ISO_639-2.CH"
+msgstr "ચામોરો"
+
+msgid "ISO_639-2.CO"
+msgstr "કોર્શિયન"
+
+msgid "ISO_639-2.CR"
+msgstr "ક્રી"
+
+msgid "ISO_639-2.CS"
+msgstr "ચેક"
+
+msgid "ISO_639-2.CV"
+msgstr "ચુવાશ"
+
+msgid "ISO_639-2.CY"
+msgstr "વેલ્શ"
+
+msgid "ISO_639-2.DA"
+msgstr "ડેનિશ"
+
+msgid "ISO_639-2.DE"
+msgstr "જર્મન"
+
+msgid "ISO_639-2.DV"
+msgstr "ડિવેહી; ધિવેહી; માલ્દીવીઅન "
+
+msgid "ISO_639-2.DZ"
+msgstr "ડ્જોન્ગખા"
+
+msgid "ISO_639-2.EE"
+msgstr "ઇવે"
+
+msgid "ISO_639-2.EL"
+msgstr "ગ્રીક, મોર્ડન (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "અંગ્રેજી"
+
+msgid "ISO_639-2.EO"
+msgstr "ઇસ્પેરાન્ટો"
+
+msgid "ISO_639-2.ES"
+msgstr "સ્પેનિશ; કાસ્ટિલીયન"
+
+msgid "ISO_639-2.ET"
+msgstr "ઇસ્ટોનિયન"
+
+msgid "ISO_639-2.EU"
+msgstr "બાસ્ક્યુ"
+
+msgid "ISO_639-2.FA"
+msgstr "પર્સિયન"
+
+msgid "ISO_639-2.FF"
+msgstr "ફુલાહ"
+
+msgid "ISO_639-2.FI"
+msgstr "ફિનીશ"
+
+msgid "ISO_639-2.FJ"
+msgstr "ફિજીઅન"
+
+msgid "ISO_639-2.FO"
+msgstr "ફારોજ"
+
+msgid "ISO_639-2.FR"
+msgstr "ફ્રેન્ચ"
+
+msgid "ISO_639-2.FY"
+msgstr "પશ્ચિમી ફ્રિશીયન"
+
+msgid "ISO_639-2.GA"
+msgstr "ઇરિશ"
+
+msgid "ISO_639-2.GD"
+msgstr "ગેલિક; સ્કૉટિશ ગેલિક"
+
+msgid "ISO_639-2.GL"
+msgstr "ગાલિસીયન"
+
+msgid "ISO_639-2.GN"
+msgstr "ગૌરાની"
+
+msgid "ISO_639-2.GU"
+msgstr "ગુજરાતી"
+
+msgid "ISO_639-2.GV"
+msgstr "મૅન્ક્ષ"
+
+msgid "ISO_639-2.HA"
+msgstr "હૌસા"
+
+msgid "ISO_639-2.HE"
+msgstr "હેબ્રુ"
+
+msgid "ISO_639-2.HI"
+msgstr "હિન્દી"
+
+msgid "ISO_639-2.HO"
+msgstr "હિરી મોટુ"
+
+msgid "ISO_639-2.HR"
+msgstr "ક્રોએટિઅન"
+
+msgid "ISO_639-2.HT"
+msgstr "હાયશિયન; હાયશિયન ક્રિઓલ"
+
+msgid "ISO_639-2.HU"
+msgstr "હન્ગેરિયન"
+
+msgid "ISO_639-2.HY"
+msgstr "અર્મેનિયન"
+
+msgid "ISO_639-2.HZ"
+msgstr "હેરેરો"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-2.ID"
+msgstr "ઇન્ડોનેશિયન"
+
+msgid "ISO_639-2.IE"
+msgstr "ઇન્ટરલિંગ્યુ; ઑસિડેન્ટલ"
+
+msgid "ISO_639-2.IG"
+msgstr "ઇગ્બો"
+
+msgid "ISO_639-2.II"
+msgstr "સિચુઅન યી; નૌસુ"
+
+msgid "ISO_639-2.IK"
+msgstr "ઇનુપિઆક"
+
+msgid "ISO_639-2.IO"
+msgstr "ઇડો"
+
+msgid "ISO_639-2.IS"
+msgstr "આઇસલૅન્ડિક"
+
+msgid "ISO_639-2.IT"
+msgstr "ઇટાલિયન"
+
+msgid "ISO_639-2.IU"
+msgstr "ઇનુક્ટિટુટ"
+
+msgid "ISO_639-2.JA"
+msgstr "જાપાની"
+
+msgid "ISO_639-2.JV"
+msgstr "જાવાની"
+
+msgid "ISO_639-2.KA"
+msgstr "જોર્જિયન"
+
+msgid "ISO_639-2.KG"
+msgstr "કોન્ગો"
+
+msgid "ISO_639-2.KI"
+msgstr "કીકુયુ; ગીકુયુ"
+
+msgid "ISO_639-2.KJ"
+msgstr "કુઆન્યામા; ક્વાન્યામા"
+
+msgid "ISO_639-2.KK"
+msgstr "કઝાખ"
+
+msgid "ISO_639-2.KL"
+msgstr "કલાલ્લીસુટ; ગ્રીનલૅન્ડિક"
+
+msgid "ISO_639-2.KM"
+msgstr "કેન્દ્રિય ખ્મેર"
+
+msgid "ISO_639-2.KN"
+msgstr "કન્નડ"
+
+msgid "ISO_639-2.KO"
+msgstr "કોરિયન"
+
+msgid "ISO_639-2.KR"
+msgstr "કાનુરી"
+
+msgid "ISO_639-2.KS"
+msgstr "કાશ્મીરી"
+
+msgid "ISO_639-2.KU"
+msgstr "કુર્દીશ"
+
+msgid "ISO_639-2.KV"
+msgstr "કોમી"
+
+msgid "ISO_639-2.KW"
+msgstr "કોર્નીશ"
+
+msgid "ISO_639-2.KY"
+msgstr "કિરઘિજ; ક્યરગિજ"
+
+msgid "ISO_639-2.LA"
+msgstr "લેટિન"
+
+msgid "ISO_639-2.LB"
+msgstr "લુક્જેનબર્ગિશ; લેટ્જીબુર્ગિશ"
+
+msgid "ISO_639-2.LG"
+msgstr "ગાન્ડા"
+
+msgid "ISO_639-2.LI"
+msgstr "લિમ્બર્ગન; લિમ્બર્ગર; લિમ્બુર્ગિશ"
+
+msgid "ISO_639-2.LN"
+msgstr "લિંગાલા"
+
+msgid "ISO_639-2.LO"
+msgstr "લાઓ"
+
+msgid "ISO_639-2.LT"
+msgstr "લિથુઆનીઅન"
+
+msgid "ISO_639-2.LU"
+msgstr "લુબા-કાટાન્ગા"
+
+msgid "ISO_639-2.LV"
+msgstr "લૅટવિયન"
+
+msgid "ISO_639-2.MG"
+msgstr "માલાગસી"
+
+msgid "ISO_639-2.MH"
+msgstr "માર્શલલિજ"
+
+msgid "ISO_639-2.MI"
+msgstr "માઓરી    "
+
+msgid "ISO_639-2.MK"
+msgstr "મૅસિડોનિયન"
+
+msgid "ISO_639-2.ML"
+msgstr "મલયાલમ"
+
+msgid "ISO_639-2.MN"
+msgstr "મોંગોલિયન"
+
+msgid "ISO_639-2.MR"
+msgstr "મરાઠી"
+
+msgid "ISO_639-2.MS"
+msgstr "મલય"
+
+msgid "ISO_639-2.MT"
+msgstr "માલ્તી"
+
+msgid "ISO_639-2.MY"
+msgstr "બર્મિશ"
+
+msgid "ISO_639-2.NA"
+msgstr "નાઉરુ"
+
+msgid "ISO_639-2.NB"
+msgstr "બોકમાલ, નોર્વેગિયન; નોર્વેગિયન બોકમાલ"
+
+msgid "ISO_639-2.ND"
+msgstr "ન્ડેબેલે, ઉત્તર; ઉત્તર ન્ડેબેલે"
+
+msgid "ISO_639-2.NE"
+msgstr "નેપાલી"
+
+msgid "ISO_639-2.NG"
+msgstr "ન્ડોન્ગા"
+
+msgid "ISO_639-2.NL"
+msgstr "ડચ; ફ્લેમિશ"
+
+msgid "ISO_639-2.NN"
+msgstr "નોર્વેજિયન નિનોર્સ્ક; નિનોર્સ્ક, નોર્વેજિયન"
+
+msgid "ISO_639-2.NO"
+msgstr "નોર્વેગિયન"
+
+msgid "ISO_639-2.NR"
+msgstr "ન્ડેબેલે, દક્ષિણ; દક્ષિણ ન્ડેબેલે"
+
+msgid "ISO_639-2.NV"
+msgstr "નાવાજો; નાવાહો"
+
+msgid "ISO_639-2.NY"
+msgstr "ચિચેવા; ચેવા; ન્યાન્જા"
+
+msgid "ISO_639-2.OC"
+msgstr "ઓસ્સીટન (પોસ્ટ 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "ઓજીબ્વા"
+
+msgid "ISO_639-2.OM"
+msgstr "ઓરોમો"
+
+msgid "ISO_639-2.OR"
+msgstr "ઓરિયા"
+
+msgid "ISO_639-2.OS"
+msgstr "ઓસ્સેટિયન; ઓસ્સેટિક"
+
+msgid "ISO_639-2.PA"
+msgstr "પંજાબી"
+
+msgid "ISO_639-2.PI"
+msgstr "પાલી"
+
+msgid "ISO_639-2.PL"
+msgstr "પોલિશ"
+
+msgid "ISO_639-2.PS"
+msgstr "પુશ્તો; પાશ્તો"
+
+msgid "ISO_639-2.PT"
+msgstr "પોર્ટુગી"
+
+msgid "ISO_639-2.QU"
+msgstr "ક્વેચુઆ"
+
+msgid "ISO_639-2.RM"
+msgstr "રોમાન્શ"
+
+msgid "ISO_639-2.RN"
+msgstr "રુન્દી"
+
+msgid "ISO_639-2.RO"
+msgstr "મોલ્ડાવિઅન; મોલ્ડોવન"
+
+msgid "ISO_639-2.RU"
+msgstr "રશિયન"
+
+msgid "ISO_639-2.RW"
+msgstr "કિન્યારવાન્ડા"
+
+msgid "ISO_639-2.SA"
+msgstr "સંસ્કૃત"
+
+msgid "ISO_639-2.SC"
+msgstr "સાર્ડિયન"
+
+msgid "ISO_639-2.SD"
+msgstr "સિંધી"
+
+msgid "ISO_639-2.SE"
+msgstr "ઉત્તરી સામી"
+
+msgid "ISO_639-2.SG"
+msgstr "સાન્ગો"
+
+msgid "ISO_639-2.SI"
+msgstr "સિન્હાલા; સિન્હાલી"
+
+msgid "ISO_639-2.SK"
+msgstr "સ્લોવાક"
+
+msgid "ISO_639-2.SL"
+msgstr "સ્લોવેનિયન"
+
+msgid "ISO_639-2.SM"
+msgstr "સામોઆન"
+
+msgid "ISO_639-2.SN"
+msgstr "શોના"
+
+msgid "ISO_639-2.SO"
+msgstr "સોમાલી"
+
+msgid "ISO_639-2.SQ"
+msgstr "અલ્બેનિયન"
+
+msgid "ISO_639-2.SR"
+msgstr "સર્બિયન"
+
+msgid "ISO_639-2.SS"
+msgstr "સ્વાતી"
+
+msgid "ISO_639-2.ST"
+msgstr "સોથો, દક્ષિણી"
+
+msgid "ISO_639-2.SU"
+msgstr "સુડાનિ"
+
+msgid "ISO_639-2.SV"
+msgstr "સ્વેડિશ"
+
+msgid "ISO_639-2.SW"
+msgstr "સ્વાહિલી"
+
+msgid "ISO_639-2.TA"
+msgstr "તમિલ"
+
+msgid "ISO_639-2.TE"
+msgstr "તેલુગુ"
+
+msgid "ISO_639-2.TG"
+msgstr "તાજીક"
+
+msgid "ISO_639-2.TH"
+msgstr "થાઇ"
+
+msgid "ISO_639-2.TI"
+msgstr "ટિગ્રીન્યા"
+
+msgid "ISO_639-2.TK"
+msgstr "તુર્કમેન"
+
+msgid "ISO_639-2.TL"
+msgstr "તાગાલોગ"
+
+msgid "ISO_639-2.TN"
+msgstr "ત્સ્વાના"
+
+msgid "ISO_639-2.TO"
+msgstr "ટોન્ગા (ટોન્ગા ટાપુઓ)"
+
+msgid "ISO_639-2.TR"
+msgstr "તુર્કીશ"
+
+msgid "ISO_639-2.TS"
+msgstr "ત્સોન્ગા"
+
+msgid "ISO_639-2.TT"
+msgstr "તાતાર"
+
+msgid "ISO_639-2.TW"
+msgstr "ત્વી"
+
+msgid "ISO_639-2.TY"
+msgstr "તાહિટીયન"
+
+msgid "ISO_639-2.UG"
+msgstr "ઉઇઘુર; ઉય્ઘુર"
+
+msgid "ISO_639-2.UK"
+msgstr "યુક્રેનિયન"
+
+msgid "ISO_639-2.UR"
+msgstr "ઉર્દુ"
+
+msgid "ISO_639-2.UZ"
+msgstr "ઉઝબેક"
+
+msgid "ISO_639-2.VE"
+msgstr "વેન્દા"
+
+msgid "ISO_639-2.VI"
+msgstr "વિયેતનામી"
+
+msgid "ISO_639-2.VO"
+msgstr "વોલાપુક"
+
+msgid "ISO_639-2.WA"
+msgstr "વલુન"
+
+msgid "ISO_639-2.WO"
+msgstr "વોલોફ "
+
+msgid "ISO_639-2.XH"
+msgstr "ક્સ્હોસા"
+
+msgid "ISO_639-2.YI"
+msgstr "યિડ્ડિશ"
+
+msgid "ISO_639-2.YO"
+msgstr "યોરુબા"
+
+msgid "ISO_639-2.ZA"
+msgstr "જુઆન્ગ; ચુઆન્ગ"
+
+msgid "ISO_639-2.ZH"
+msgstr "ચીની"
+
+msgid "ISO_639-2.ZU"
+msgstr "ઝુલુ"

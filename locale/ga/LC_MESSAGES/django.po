@@ -1,0 +1,565 @@
+# Irish translations of ISO 639 Language names
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Kevin Patrick Scannell <scannell@SLU.EDU>, 2004, 2008, 2009, 2011.
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Sean V. Kelley <s_oceallaigh@yahoo.com>, 1999
+#
+# 11 Jan 2004: I've added a translator's note to translations that appear
+#   to be "coinages"; i.e. do not appear in any standard print or online
+#   references, or in a large (20M word) text corpus.  The others should
+#   be treated as more or less authoritative.  Future translators: feel
+#   free to fill in gaps but please continue to mark coinages as such.  --KPS
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-05-05 07:10-0600\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afárais"
+
+msgid "ISO_639-2.AB"
+msgstr "Abcáisis"
+
+msgid "ISO_639-2.AE"
+msgstr "Aivéistis"
+
+msgid "ISO_639-2.AF"
+msgstr "Afracáinis"
+
+msgid "ISO_639-2.AK"
+msgstr "Acáinis"
+
+msgid "ISO_639-2.AM"
+msgstr "Amáiris"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragóinis"
+
+msgid "ISO_639-2.AR"
+msgstr "Araibis"
+
+msgid "ISO_639-2.AS"
+msgstr "Asaimis"
+
+msgid "ISO_639-2.AV"
+msgstr "Avairis"
+
+msgid "ISO_639-2.AY"
+msgstr "Aidhmiris"
+
+msgid "ISO_639-2.AZ"
+msgstr "Asarbaiseáinis"
+
+msgid "ISO_639-2.BA"
+msgstr "Baiscíris"
+
+msgid "ISO_639-2.BE"
+msgstr "Bealarúisis"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgáiris"
+
+msgid "ISO_639-2.BI"
+msgstr "Bioslamais"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambáiris"
+
+msgid "ISO_639-2.BN"
+msgstr "Beangáilis"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibéidis"
+
+msgid "ISO_639-2.BR"
+msgstr "Briotáinis"
+
+msgid "ISO_639-2.BS"
+msgstr "Boisnis"
+
+msgid "ISO_639-2.CA"
+msgstr "Catalóinis; Vaileinsis"
+
+msgid "ISO_639-2.CE"
+msgstr "Seisnis"
+
+msgid "ISO_639-2.CH"
+msgstr "Seamóróis"
+
+msgid "ISO_639-2.CO"
+msgstr "Corsaicis"
+
+msgid "ISO_639-2.CR"
+msgstr "Craíais"
+
+msgid "ISO_639-2.CS"
+msgstr "Seicis"
+
+msgid "ISO_639-2.CV"
+msgstr "Suvaisis"
+
+msgid "ISO_639-2.CY"
+msgstr "Breatnais"
+
+msgid "ISO_639-2.DA"
+msgstr "Danmhairgis"
+
+msgid "ISO_639-2.DE"
+msgstr "Gearmáinis"
+
+msgid "ISO_639-2.DV"
+msgstr "Divéihis; Maildívis"
+
+msgid "ISO_639-2.DZ"
+msgstr "Seoinicis"
+
+msgid "ISO_639-2.EE"
+msgstr "Éivéis"
+
+msgid "ISO_639-2.EL"
+msgstr "Gréigis Nua-Aimseartha (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Béarla"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Spáinnis; Caistílis"
+
+msgid "ISO_639-2.ET"
+msgstr "Eastóinis"
+
+msgid "ISO_639-2.EU"
+msgstr "Bascais"
+
+msgid "ISO_639-2.FA"
+msgstr "Peirsis"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulfuildis"
+
+msgid "ISO_639-2.FI"
+msgstr "Fionlainnis"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidsis"
+
+msgid "ISO_639-2.FO"
+msgstr "Faróis"
+
+msgid "ISO_639-2.FR"
+msgstr "Fraincis"
+
+msgid "ISO_639-2.FY"
+msgstr "Freaslainnis Iartharach"
+
+msgid "ISO_639-2.GA"
+msgstr "Gaeilge"
+
+msgid "ISO_639-2.GD"
+msgstr "Gaeilge na hAlban"
+
+msgid "ISO_639-2.GL"
+msgstr "Gailísis"
+
+msgid "ISO_639-2.GN"
+msgstr "Guaráinis"
+
+msgid "ISO_639-2.GU"
+msgstr "Gúisearáitis"
+
+msgid "ISO_639-2.GV"
+msgstr "Manainnis"
+
+msgid "ISO_639-2.HA"
+msgstr "Hásais"
+
+msgid "ISO_639-2.HE"
+msgstr "Eabhrais"
+
+msgid "ISO_639-2.HI"
+msgstr "Hiondúis"
+
+msgid "ISO_639-2.HO"
+msgstr "Hírí-Mótúis"
+
+msgid "ISO_639-2.HR"
+msgstr "Cróitis"
+
+msgid "ISO_639-2.HT"
+msgstr "Criól Háítíoch"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungáiris"
+
+msgid "ISO_639-2.HY"
+msgstr "Airméinis"
+
+msgid "ISO_639-2.HZ"
+msgstr "Heiréiróis"
+
+msgid "ISO_639-2.IA"
+msgstr "Idirtheanga (International Auxiliary Language Association)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indinéisis"
+
+msgid "ISO_639-2.IE"
+msgstr "Idirtheanga iartharach"
+
+msgid "ISO_639-2.IG"
+msgstr "Íogbóis"
+
+msgid "ISO_639-2.II"
+msgstr "Íais Shisiuánach"
+
+msgid "ISO_639-2.IK"
+msgstr "Iniúipiaicis"
+
+msgid "ISO_639-2.IS"
+msgstr "Íoslainnis"
+
+msgid "ISO_639-2.IT"
+msgstr "Iodáilis"
+
+msgid "ISO_639-2.IU"
+msgstr "Ionúitis"
+
+msgid "ISO_639-2.JA"
+msgstr "Seapáinis"
+
+msgid "ISO_639-2.JV"
+msgstr "Iávais"
+
+msgid "ISO_639-2.KA"
+msgstr "Seoirsis"
+
+msgid "ISO_639-2.KG"
+msgstr "Congóis"
+
+msgid "ISO_639-2.KI"
+msgstr "Ciocúis"
+
+msgid "ISO_639-2.KJ"
+msgstr "Cuainiáimis"
+
+msgid "ISO_639-2.KK"
+msgstr "Casaicis"
+
+msgid "ISO_639-2.KL"
+msgstr "Graonlainnis"
+
+msgid "ISO_639-2.KM"
+msgstr "Ciméiris Láir"
+
+msgid "ISO_639-2.KN"
+msgstr "Cannadais"
+
+msgid "ISO_639-2.KO"
+msgstr "Cóiréis"
+
+msgid "ISO_639-2.KR"
+msgstr "Canúiris"
+
+msgid "ISO_639-2.KS"
+msgstr "Caismíris"
+
+msgid "ISO_639-2.KU"
+msgstr "Coirdis"
+
+msgid "ISO_639-2.KV"
+msgstr "Coimí"
+
+msgid "ISO_639-2.KW"
+msgstr "Coirnis"
+
+msgid "ISO_639-2.KY"
+msgstr "Cirgisis"
+
+msgid "ISO_639-2.LA"
+msgstr "Laidin"
+
+msgid "ISO_639-2.LB"
+msgstr "Lucsambuirgis; Leitseabuirgis"
+
+msgid "ISO_639-2.LG"
+msgstr "Gandais"
+
+msgid "ISO_639-2.LI"
+msgstr "Limbuirgis"
+
+msgid "ISO_639-2.LN"
+msgstr "Liongáilis"
+
+msgid "ISO_639-2.LO"
+msgstr "Láóis"
+
+msgid "ISO_639-2.LT"
+msgstr "Liotuáinis"
+
+msgid "ISO_639-2.LU"
+msgstr "Lúba-Cataingis"
+
+msgid "ISO_639-2.LV"
+msgstr "Laitvis"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagáisis"
+
+msgid "ISO_639-2.MH"
+msgstr "Marascailis"
+
+msgid "ISO_639-2.MI"
+msgstr "Maorais"
+
+msgid "ISO_639-2.MK"
+msgstr "Macadóinis"
+
+msgid "ISO_639-2.ML"
+msgstr "Mailéalaimis"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongóilis"
+
+msgid "ISO_639-2.MR"
+msgstr "Maraitis"
+
+msgid "ISO_639-2.MS"
+msgstr "Malaeis"
+
+msgid "ISO_639-2.MT"
+msgstr "Máltais"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmais"
+
+msgid "ISO_639-2.NA"
+msgstr "Nárúis"
+
+msgid "ISO_639-2.NB"
+msgstr "Ioruais Bokmål"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebele Thuaidh"
+
+msgid "ISO_639-2.NE"
+msgstr "Neipeailis"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndongais"
+
+msgid "ISO_639-2.NL"
+msgstr "Ollainnis; Pléimeannais"
+
+msgid "ISO_639-2.NN"
+msgstr "Ioruais Nynorsk"
+
+msgid "ISO_639-2.NO"
+msgstr "Ioruais"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebele Theas"
+
+msgid "ISO_639-2.NV"
+msgstr "Navachóis"
+
+msgid "ISO_639-2.NY"
+msgstr "Siséivis"
+
+msgid "ISO_639-2.OC"
+msgstr "Ocatáinis (tar éis 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Óisibvis"
+
+msgid "ISO_639-2.OM"
+msgstr "Oraimis"
+
+msgid "ISO_639-2.OR"
+msgstr "Oirísis"
+
+msgid "ISO_639-2.OS"
+msgstr "Óiséitis"
+
+msgid "ISO_639-2.PA"
+msgstr "Puinseáibis"
+
+msgid "ISO_639-2.PI"
+msgstr "Páilis"
+
+msgid "ISO_639-2.PL"
+msgstr "Polainnis"
+
+msgid "ISO_639-2.PS"
+msgstr "Paistis"
+
+msgid "ISO_639-2.PT"
+msgstr "Portaingéilis"
+
+msgid "ISO_639-2.QU"
+msgstr "Ceatsuais"
+
+msgid "ISO_639-2.RM"
+msgstr "Rómainis"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldávais"
+
+msgid "ISO_639-2.RU"
+msgstr "Rúisis"
+
+msgid "ISO_639-2.RW"
+msgstr "Cinearuáindis"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanscrait"
+
+msgid "ISO_639-2.SC"
+msgstr "Sairdínis"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindis"
+
+msgid "ISO_639-2.SE"
+msgstr "Sáimis Thuaidh"
+
+msgid "ISO_639-2.SG"
+msgstr "Sangóis"
+
+msgid "ISO_639-2.SI"
+msgstr "Siolóinis"
+
+msgid "ISO_639-2.SK"
+msgstr "Slóvaicis"
+
+msgid "ISO_639-2.SL"
+msgstr "Slóivéinis"
+
+msgid "ISO_639-2.SM"
+msgstr "Samóis"
+
+msgid "ISO_639-2.SN"
+msgstr "Seoinis"
+
+msgid "ISO_639-2.SO"
+msgstr "Somáilis"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albáinis"
+
+msgid "ISO_639-2.SR"
+msgstr "Seirbis"
+
+msgid "ISO_639-2.SS"
+msgstr "Suaisis"
+
+msgid "ISO_639-2.ST"
+msgstr "Sótó Theas"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundais"
+
+msgid "ISO_639-2.SV"
+msgstr "Sualainnis"
+
+msgid "ISO_639-2.SW"
+msgstr "Svahaílis"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamailis"
+
+msgid "ISO_639-2.TE"
+msgstr "Teileagúis"
+
+msgid "ISO_639-2.TG"
+msgstr "Táidsícis"
+
+msgid "ISO_639-2.TH"
+msgstr "Téalainnis"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrínis"
+
+msgid "ISO_639-2.TK"
+msgstr "Tuircméinis"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagálaigis"
+
+msgid "ISO_639-2.TN"
+msgstr "Suáinis"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongais (Oileáin Thonga)"
+
+msgid "ISO_639-2.TR"
+msgstr "Tuircis"
+
+msgid "ISO_639-2.TS"
+msgstr "Songais"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatairis"
+
+msgid "ISO_639-2.TW"
+msgstr "Tiuíais"
+
+msgid "ISO_639-2.TY"
+msgstr "Taihítis"
+
+msgid "ISO_639-2.UG"
+msgstr "Úígiúiris"
+
+msgid "ISO_639-2.UK"
+msgstr "Úcráinis"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdúis"
+
+msgid "ISO_639-2.UZ"
+msgstr "Úisbéicis"
+
+msgid "ISO_639-2.VE"
+msgstr "Veindis"
+
+msgid "ISO_639-2.VI"
+msgstr "Vítneamais"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "Vallúnais"
+
+msgid "ISO_639-2.WO"
+msgstr "Volaifis"
+
+msgid "ISO_639-2.XH"
+msgstr "Cóisis"
+
+msgid "ISO_639-2.YI"
+msgstr "Giúdais"
+
+msgid "ISO_639-2.YO"
+msgstr "Iarúibis"
+
+msgid "ISO_639-2.ZA"
+msgstr "Siuáingis"
+
+msgid "ISO_639-2.ZH"
+msgstr "Sínis"
+
+msgid "ISO_639-2.ZU"
+msgstr "Súlúis"

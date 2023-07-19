@@ -1,0 +1,576 @@
+# Translation of ISO-639 (language names) to Turkish.
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C) 2013
+#
+#   Free Software Foundation, Inc., 2000,2004.
+#   Fatih Demir <kabalak@gmx.net>, 2000.
+#   Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Volkan Gezer <volkangezer@gmail.com>, 2013.
+#   Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-09-24 16:57+0300\n"
+"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
+"Language-Team: Turkish <gnu-tr-u12a@lists.sourceforge.net>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abhazca"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestan (Eski İran)"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikanca"
+
+msgid "ISO_639-2.AK"
+msgstr "Akanca (Afrika dili)"
+
+msgid "ISO_639-2.AM"
+msgstr "Etiyopyaca"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonca (İspanya)"
+
+msgid "ISO_639-2.AR"
+msgstr "Arapça"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamese (Hindistan)"
+
+msgid "ISO_639-2.AV"
+msgstr "Avarca"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara (Güney Amerika)"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerice"
+
+msgid "ISO_639-2.BA"
+msgstr "Başkurtça"
+
+msgid "ISO_639-2.BE"
+msgstr "Belarusça"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgarca"
+
+msgid "ISO_639-2.BH"
+msgstr "Bihari dilleri"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama (Vanuatu; Kuzey Pasifik)"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara (Mali)"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengali"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetçe"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonca"
+
+msgid "ISO_639-2.BS"
+msgstr "Boşnakça"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalanca; Valensiyaca"
+
+msgid "ISO_639-2.CE"
+msgstr "Çeçence"
+
+msgid "ISO_639-2.CH"
+msgstr "Chamorro (Guam adaları)"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikaca"
+
+msgid "ISO_639-2.CR"
+msgstr "Cree (Kuzey Amerika yerlileri)"
+
+msgid "ISO_639-2.CS"
+msgstr "Çekçe"
+
+msgid "ISO_639-2.CV"
+msgstr "Çuvaş (Türkçe)"
+
+msgid "ISO_639-2.CY"
+msgstr "Gal Dili"
+
+msgid "ISO_639-2.DA"
+msgstr "Danca"
+
+msgid "ISO_639-2.DE"
+msgstr "Almanca"
+
+msgid "ISO_639-2.DV"
+msgstr "Divehi; Dhivehi; Maldivian"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongkha (Butan)"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewe"
+
+msgid "ISO_639-2.EL"
+msgstr "Yunanca, Çağdaş (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "İngilizce"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "İspanyolca; Kastilyaca"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonca"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskça"
+
+msgid "ISO_639-2.FA"
+msgstr "Farsça"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulah"
+
+msgid "ISO_639-2.FI"
+msgstr "Fince"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fiji dili"
+
+msgid "ISO_639-2.FO"
+msgstr "Faroece"
+
+msgid "ISO_639-2.FR"
+msgstr "Fransızca"
+
+msgid "ISO_639-2.FY"
+msgstr "Batı Frizyeli Dili"
+
+msgid "ISO_639-2.GA"
+msgstr "İrlandaca"
+
+msgid "ISO_639-2.GD"
+msgstr "Keltçe; İskoçya Keltçesi"
+
+msgid "ISO_639-2.GL"
+msgstr "Galiçyaca"
+
+msgid "ISO_639-2.GN"
+msgstr "Guarani (Paraguay)"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujarati (Hindistan)"
+
+msgid "ISO_639-2.GV"
+msgstr "Manx (Galler)"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausa"
+
+msgid "ISO_639-2.HE"
+msgstr "İbranice"
+
+msgid "ISO_639-2.HI"
+msgstr "Hintçe"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri Motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Hırvatça"
+
+msgid "ISO_639-2.HT"
+msgstr "Haiti dili; Haiti Creole dili"
+
+msgid "ISO_639-2.HU"
+msgstr "Macarca"
+
+msgid "ISO_639-2.HY"
+msgstr "Ermenice"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-2.ID"
+msgstr "Endonezce"
+
+msgid "ISO_639-2.IE"
+msgstr "Yapay dil; Batıya özgün"
+
+msgid "ISO_639-2.IG"
+msgstr "Igbo"
+
+msgid "ISO_639-2.II"
+msgstr "Sichuan Yi; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "İzlandaca"
+
+msgid "ISO_639-2.IT"
+msgstr "İtalyanca"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Japonca"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanese"
+
+msgid "ISO_639-2.KA"
+msgstr "Gürcüce"
+
+msgid "ISO_639-2.KG"
+msgstr "Kongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuyu; Gikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kuanyama; Kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazakça"
+
+msgid "ISO_639-2.KL"
+msgstr "Kalaallisut; Grönlandca"
+
+msgid "ISO_639-2.KM"
+msgstr "Merkez Khmer"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Korece"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "Keşmirce"
+
+msgid "ISO_639-2.KU"
+msgstr "Kürtçe"
+
+msgid "ISO_639-2.KV"
+msgstr "Komi"
+
+msgid "ISO_639-2.KW"
+msgstr "Cornish (Kelt)"
+
+msgid "ISO_639-2.KY"
+msgstr "Kırgızca"
+
+msgid "ISO_639-2.LA"
+msgstr "Latince"
+
+msgid "ISO_639-2.LB"
+msgstr "Luxembourgish; Letzeburgesch"
+
+msgid "ISO_639-2.LG"
+msgstr "Ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgan; Limburger; Limburgish"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laos Dili"
+
+msgid "ISO_639-2.LT"
+msgstr "Litvanca"
+
+msgid "ISO_639-2.LU"
+msgstr "Luba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Letonca"
+
+msgid "ISO_639-2.MG"
+msgstr "Malgaşça"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshallese"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonca"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalam"
+
+msgid "ISO_639-2.MN"
+msgstr "Moğolca"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathi"
+
+msgid "ISO_639-2.MS"
+msgstr "Malayca"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltaca"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmaca"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauru"
+
+msgid "ISO_639-2.NB"
+msgstr "Kitap, Norveççe; Kitap Norveççesi"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebele, Kuzey; Kuzey Ndebelecesi"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalce"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Felemenkçe; Flamanca"
+
+msgid "ISO_639-2.NN"
+msgstr "Halk Norveççesi; Halk, Norveççe"
+
+msgid "ISO_639-2.NO"
+msgstr "Norveççe"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebele, Güney; Güney Ndebelecesi"
+
+msgid "ISO_639-2.NV"
+msgstr "Navajo; Navaho"
+
+msgid "ISO_639-2.NY"
+msgstr "Chichewa; Chewa; Nyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Occitan (post 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Ojibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Oriya"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetian; Ossetic"
+
+msgid "ISO_639-2.PA"
+msgstr "Panjabi; Punjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Pali"
+
+msgid "ISO_639-2.PL"
+msgstr "Lehçe"
+
+msgid "ISO_639-2.PS"
+msgstr "Pushto; Pashto"
+
+msgid "ISO_639-2.PT"
+msgstr "Portekizce"
+
+msgid "ISO_639-2.QU"
+msgstr "Quechua"
+
+msgid "ISO_639-2.RM"
+msgstr "Romansh"
+
+msgid "ISO_639-2.RN"
+msgstr "Kirundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldavya Dili"
+
+msgid "ISO_639-2.RU"
+msgstr "Rusça"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardince"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "Kuzey Sami"
+
+msgid "ISO_639-2.SG"
+msgstr "Sangho"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhala; Sinhalese"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovakça"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovence"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoa Dili"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somali Dili"
+
+msgid "ISO_639-2.SQ"
+msgstr "Arnavutça"
+
+msgid "ISO_639-2.SR"
+msgstr "Sırpça"
+
+msgid "ISO_639-2.SS"
+msgstr "Siswati"
+
+msgid "ISO_639-2.ST"
+msgstr "Sesotho"
+
+msgid "ISO_639-2.SU"
+msgstr "Sudan Dili"
+
+msgid "ISO_639-2.SV"
+msgstr "İsveçce"
+
+msgid "ISO_639-2.SW"
+msgstr "Svahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilce"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugu"
+
+msgid "ISO_639-2.TG"
+msgstr "Tacikçe"
+
+msgid "ISO_639-2.TH"
+msgstr "Taylandça"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinya"
+
+msgid "ISO_639-2.TK"
+msgstr "Türkmence"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalogca"
+
+msgid "ISO_639-2.TN"
+msgstr "Setswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tonga"
+
+msgid "ISO_639-2.TR"
+msgstr "Türkçe"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatarca"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahitice"
+
+msgid "ISO_639-2.UG"
+msgstr "Uygur; Uygurca"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukraynaca"
+
+msgid "ISO_639-2.UR"
+msgstr "Urduca"
+
+msgid "ISO_639-2.UZ"
+msgstr "Özbekçe"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamca"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "Valonca"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Yiddiş"
+
+msgid "ISO_639-2.YO"
+msgstr "Yoruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang; Chuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Çince"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zulu"

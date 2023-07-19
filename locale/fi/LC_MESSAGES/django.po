@@ -1,0 +1,568 @@
+# Finnish translations for iso_639 package.
+# Copyright (C) 2005-2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-04-08 07:44+0300\n"
+"Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "afar"
+
+msgid "ISO_639-2.AB"
+msgstr "abhaasi"
+
+msgid "ISO_639-2.AE"
+msgstr "avestan"
+
+msgid "ISO_639-2.AF"
+msgstr "afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "akan"
+
+msgid "ISO_639-2.AM"
+msgstr "amhara"
+
+msgid "ISO_639-2.AN"
+msgstr "aragonia"
+
+msgid "ISO_639-2.AR"
+msgstr "arabia"
+
+msgid "ISO_639-2.AS"
+msgstr "asami"
+
+msgid "ISO_639-2.AV"
+msgstr "avaari"
+
+msgid "ISO_639-2.AY"
+msgstr "aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "azeri"
+
+msgid "ISO_639-2.BA"
+msgstr "baškiiri"
+
+msgid "ISO_639-2.BE"
+msgstr "valkovenäjä"
+
+msgid "ISO_639-2.BG"
+msgstr "bulgaria"
+
+msgid "ISO_639-2.BH"
+msgstr "bihari-kielet"
+
+msgid "ISO_639-2.BI"
+msgstr "bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "bengali"
+
+msgid "ISO_639-2.BO"
+msgstr "tiibetti"
+
+msgid "ISO_639-2.BR"
+msgstr "bretoni"
+
+msgid "ISO_639-2.BS"
+msgstr "bosnia"
+
+msgid "ISO_639-2.CA"
+msgstr "katalaani"
+
+msgid "ISO_639-2.CE"
+msgstr "tšetšeeni"
+
+msgid "ISO_639-2.CH"
+msgstr "chamorro"
+
+msgid "ISO_639-2.CO"
+msgstr "korsika"
+
+msgid "ISO_639-2.CR"
+msgstr "cree"
+
+msgid "ISO_639-2.CS"
+msgstr "tšekki"
+
+msgid "ISO_639-2.CV"
+msgstr "tšuvassi"
+
+msgid "ISO_639-2.CY"
+msgstr "kymri"
+
+msgid "ISO_639-2.DA"
+msgstr "tanska"
+
+msgid "ISO_639-2.DE"
+msgstr "saksa"
+
+msgid "ISO_639-2.DV"
+msgstr "divehi"
+
+msgid "ISO_639-2.DZ"
+msgstr "dzongkha"
+
+msgid "ISO_639-2.EE"
+msgstr "ewe"
+
+msgid "ISO_639-2.EL"
+msgstr "nykykreikka"
+
+msgid "ISO_639-2.EN"
+msgstr "englanti"
+
+msgid "ISO_639-2.EO"
+msgstr "esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "espanja"
+
+msgid "ISO_639-2.ET"
+msgstr "viro"
+
+msgid "ISO_639-2.EU"
+msgstr "baski"
+
+msgid "ISO_639-2.FA"
+msgstr "persia"
+
+msgid "ISO_639-2.FF"
+msgstr "fulani"
+
+msgid "ISO_639-2.FI"
+msgstr "suomi"
+
+msgid "ISO_639-2.FJ"
+msgstr "fidži"
+
+msgid "ISO_639-2.FO"
+msgstr "fääri"
+
+msgid "ISO_639-2.FR"
+msgstr "ranska"
+
+msgid "ISO_639-2.FY"
+msgstr "länsifriisi"
+
+msgid "ISO_639-2.GA"
+msgstr "iiri"
+
+msgid "ISO_639-2.GD"
+msgstr "gaeli"
+
+msgid "ISO_639-2.GL"
+msgstr "galicia"
+
+msgid "ISO_639-2.GN"
+msgstr "guarani"
+
+msgid "ISO_639-2.GU"
+msgstr "gujarati"
+
+msgid "ISO_639-2.GV"
+msgstr "manksi"
+
+msgid "ISO_639-2.HA"
+msgstr "hausa"
+
+msgid "ISO_639-2.HE"
+msgstr "heprea"
+
+msgid "ISO_639-2.HI"
+msgstr "hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "hiri-motu"
+
+msgid "ISO_639-2.HR"
+msgstr "kroatia"
+
+msgid "ISO_639-2.HT"
+msgstr "haiti"
+
+msgid "ISO_639-2.HU"
+msgstr "unkari"
+
+msgid "ISO_639-2.HY"
+msgstr "armenia"
+
+msgid "ISO_639-2.HZ"
+msgstr "herero"
+
+msgid "ISO_639-2.IA"
+msgstr "interlingua"
+
+msgid "ISO_639-2.ID"
+msgstr "indonesia"
+
+msgid "ISO_639-2.IE"
+msgstr "interlingue"
+
+msgid "ISO_639-2.IG"
+msgstr "igbo"
+
+msgid "ISO_639-2.II"
+msgstr "sichuanin-yi"
+
+msgid "ISO_639-2.IK"
+msgstr "iñupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "ido"
+
+msgid "ISO_639-2.IS"
+msgstr "islanti"
+
+msgid "ISO_639-2.IT"
+msgstr "italia"
+
+msgid "ISO_639-2.IU"
+msgstr "inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "japani"
+
+msgid "ISO_639-2.JV"
+msgstr "jaava"
+
+msgid "ISO_639-2.KA"
+msgstr "georgia"
+
+msgid "ISO_639-2.KG"
+msgstr "kongo"
+
+msgid "ISO_639-2.KI"
+msgstr "kikuju"
+
+msgid "ISO_639-2.KJ"
+msgstr "kuanjama"
+
+msgid "ISO_639-2.KK"
+msgstr "kazakki"
+
+msgid "ISO_639-2.KL"
+msgstr "kalaallisut; grönlanti"
+
+msgid "ISO_639-2.KM"
+msgstr "khmer"
+
+msgid "ISO_639-2.KN"
+msgstr "kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "korea"
+
+msgid "ISO_639-2.KR"
+msgstr "kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "kashmiri"
+
+msgid "ISO_639-2.KU"
+msgstr "kurdi"
+
+msgid "ISO_639-2.KV"
+msgstr "komi"
+
+msgid "ISO_639-2.KW"
+msgstr "korni"
+
+msgid "ISO_639-2.KY"
+msgstr "kirgiisi"
+
+msgid "ISO_639-2.LA"
+msgstr "latina"
+
+msgid "ISO_639-2.LB"
+msgstr "luxemburg"
+
+msgid "ISO_639-2.LG"
+msgstr "ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "limburg"
+
+msgid "ISO_639-2.LN"
+msgstr "lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "lao"
+
+msgid "ISO_639-2.LT"
+msgstr "liettua"
+
+msgid "ISO_639-2.LU"
+msgstr "luba (Katanga)"
+
+msgid "ISO_639-2.LV"
+msgstr "latvia"
+
+msgid "ISO_639-2.MG"
+msgstr "malagassi"
+
+msgid "ISO_639-2.MH"
+msgstr "marshallinsaaret"
+
+msgid "ISO_639-2.MI"
+msgstr "maori"
+
+msgid "ISO_639-2.MK"
+msgstr "makedonia"
+
+msgid "ISO_639-2.ML"
+msgstr "malayalam"
+
+msgid "ISO_639-2.MN"
+msgstr "mongoli"
+
+msgid "ISO_639-2.MR"
+msgstr "marathi"
+
+msgid "ISO_639-2.MS"
+msgstr "malaiji"
+
+msgid "ISO_639-2.MT"
+msgstr "malta"
+
+msgid "ISO_639-2.MY"
+msgstr "burma"
+
+msgid "ISO_639-2.NA"
+msgstr "nauru"
+
+msgid "ISO_639-2.NB"
+msgstr "norja (bokmål)"
+
+msgid "ISO_639-2.ND"
+msgstr "ndebele, pohjois-"
+
+msgid "ISO_639-2.NE"
+msgstr "nepali"
+
+msgid "ISO_639-2.NG"
+msgstr "ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "hollanti"
+
+msgid "ISO_639-2.NN"
+msgstr "norja (nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "norja"
+
+msgid "ISO_639-2.NR"
+msgstr "ndebele, etelä-"
+
+msgid "ISO_639-2.NV"
+msgstr "navajo"
+
+msgid "ISO_639-2.NY"
+msgstr "nyanja (chewa)"
+
+msgid "ISO_639-2.OC"
+msgstr "oksitaani"
+
+msgid "ISO_639-2.OJ"
+msgstr "odžibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "oriya"
+
+msgid "ISO_639-2.OS"
+msgstr "osseetti"
+
+msgid "ISO_639-2.PA"
+msgstr "panjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "paali"
+
+msgid "ISO_639-2.PL"
+msgstr "puola"
+
+msgid "ISO_639-2.PS"
+msgstr "pašto"
+
+msgid "ISO_639-2.PT"
+msgstr "portugali"
+
+msgid "ISO_639-2.QU"
+msgstr "ketšua"
+
+msgid "ISO_639-2.RM"
+msgstr "retoromaani"
+
+msgid "ISO_639-2.RN"
+msgstr "rundi"
+
+msgid "ISO_639-2.RO"
+msgstr "moldavia"
+
+msgid "ISO_639-2.RU"
+msgstr "venäjä"
+
+msgid "ISO_639-2.RW"
+msgstr "ruanda"
+
+msgid "ISO_639-2.SA"
+msgstr "sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "sardi"
+
+msgid "ISO_639-2.SD"
+msgstr "sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "pohjoissaame"
+
+msgid "ISO_639-2.SG"
+msgstr "sango"
+
+msgid "ISO_639-2.SI"
+msgstr "sinhala"
+
+msgid "ISO_639-2.SK"
+msgstr "slovakki"
+
+msgid "ISO_639-2.SL"
+msgstr "sloveeni"
+
+msgid "ISO_639-2.SM"
+msgstr "samoa"
+
+msgid "ISO_639-2.SN"
+msgstr "shona"
+
+msgid "ISO_639-2.SO"
+msgstr "somali"
+
+msgid "ISO_639-2.SQ"
+msgstr "albania"
+
+msgid "ISO_639-2.SR"
+msgstr "serbia"
+
+msgid "ISO_639-2.SS"
+msgstr "swazi"
+
+msgid "ISO_639-2.ST"
+msgstr "eteläsotho"
+
+msgid "ISO_639-2.SU"
+msgstr "sunda"
+
+msgid "ISO_639-2.SV"
+msgstr "ruotsi"
+
+msgid "ISO_639-2.SW"
+msgstr "swahili"
+
+msgid "ISO_639-2.TA"
+msgstr "tamili"
+
+msgid "ISO_639-2.TE"
+msgstr "telugu"
+
+msgid "ISO_639-2.TG"
+msgstr "tadžikki"
+
+msgid "ISO_639-2.TH"
+msgstr "thai"
+
+msgid "ISO_639-2.TI"
+msgstr "tigrinya"
+
+msgid "ISO_639-2.TK"
+msgstr "turkmeeni"
+
+msgid "ISO_639-2.TL"
+msgstr "tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "tswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongan tonga"
+
+msgid "ISO_639-2.TR"
+msgstr "turkki"
+
+msgid "ISO_639-2.TS"
+msgstr "tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "tataari"
+
+msgid "ISO_639-2.TW"
+msgstr "twi"
+
+msgid "ISO_639-2.TY"
+msgstr "tahiti"
+
+msgid "ISO_639-2.UG"
+msgstr "uiguuri"
+
+msgid "ISO_639-2.UK"
+msgstr "ukraina"
+
+msgid "ISO_639-2.UR"
+msgstr "urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "uzbekki"
+
+msgid "ISO_639-2.VE"
+msgstr "venda"
+
+msgid "ISO_639-2.VI"
+msgstr "vietnam"
+
+msgid "ISO_639-2.VO"
+msgstr "volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "valloni"
+
+msgid "ISO_639-2.WO"
+msgstr "wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "jiddiš"
+
+msgid "ISO_639-2.YO"
+msgstr "yoruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "zhuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "kiina"
+
+msgid "ISO_639-2.ZU"
+msgstr "zulu"

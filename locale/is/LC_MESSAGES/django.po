@@ -1,0 +1,574 @@
+# translation of iso_639-3.42.po to Icelandic
+# Icelandic translations of ISO 639 language names
+# Íslenskar þýðingar tungumála skv. ISO 639 staðli
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002-2013 Free Software Foundation, Inc.
+# Translations from KDE:
+# Þórarinn Rúnar Einarsson <thori@mindspring.com>
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Sveinn í Felli <sveinki@nett.is>, 2010, 2011, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-05-10 06:20+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abkhazian"
+
+msgid "ISO_639-2.AE"
+msgstr "Avesta"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Akan"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharíska"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragónska"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabíska"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamíska"
+
+msgid "ISO_639-2.AV"
+msgstr "Avarísk"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbaijanska"
+
+msgid "ISO_639-2.BA"
+msgstr "Bashkir"
+
+msgid "ISO_639-2.BE"
+msgstr "Hvítrússneska"
+
+msgid "ISO_639-2.BG"
+msgstr "Búlgarska"
+
+msgid "ISO_639-2.BH"
+msgstr "Bihari tungumál"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambaríska"
+
+msgid "ISO_639-2.BN"
+msgstr "Bangla"
+
+msgid "ISO_639-2.BO"
+msgstr "Tíbetska"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretónska"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosníska"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalónska; Valensía"
+
+msgid "ISO_639-2.CE"
+msgstr "Tétjenska"
+
+msgid "ISO_639-2.CH"
+msgstr "Chamorró"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsíska"
+
+msgid "ISO_639-2.CR"
+msgstr "Cree"
+
+msgid "ISO_639-2.CS"
+msgstr "Tékkneska"
+
+msgid "ISO_639-2.CV"
+msgstr "Chuvash"
+
+msgid "ISO_639-2.CY"
+msgstr "Velska"
+
+msgid "ISO_639-2.DA"
+msgstr "Danska"
+
+msgid "ISO_639-2.DE"
+msgstr "Þýska"
+
+msgid "ISO_639-2.DV"
+msgstr "Divehi; Dhivehi; Maldivíska"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongkha"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewe"
+
+msgid "ISO_639-2.EL"
+msgstr "Gríska, nútíma (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Enska"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperantó"
+
+msgid "ISO_639-2.ES"
+msgstr "Spænska; kastilíanska"
+
+msgid "ISO_639-2.ET"
+msgstr "Eistneska"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskamál"
+
+msgid "ISO_639-2.FA"
+msgstr "Persneska"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulah"
+
+msgid "ISO_639-2.FI"
+msgstr "Finnska"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidjíeyska"
+
+msgid "ISO_639-2.FO"
+msgstr "Færeyska"
+
+msgid "ISO_639-2.FR"
+msgstr "Franska"
+
+msgid "ISO_639-2.FY"
+msgstr "Vestur-frísneska"
+
+msgid "ISO_639-2.GA"
+msgstr "Írska"
+
+msgid "ISO_639-2.GD"
+msgstr "Gelíska; Skosk gelíska"
+
+msgid "ISO_639-2.GL"
+msgstr "Galisíska"
+
+msgid "ISO_639-2.GN"
+msgstr "Guaraní"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujaratíska"
+
+msgid "ISO_639-2.GV"
+msgstr "Manx"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebreska"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindí"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri Motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Króatíska"
+
+msgid "ISO_639-2.HT"
+msgstr "Haítíska; Haítískt kreólamál"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungverska"
+
+msgid "ISO_639-2.HY"
+msgstr "Armenska"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (International Auxiliary Language Association)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indónesíska"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue; vestræn"
+
+msgid "ISO_639-2.IG"
+msgstr "Igbo"
+
+msgid "ISO_639-2.II"
+msgstr "Sichuan Yi; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Íslenska"
+
+msgid "ISO_639-2.IT"
+msgstr "Ítalska"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Japanska"
+
+msgid "ISO_639-2.JV"
+msgstr "Javaneskt"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgíska"
+
+msgid "ISO_639-2.KG"
+msgstr "Kongóska"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuyu; Gikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kuanyama; Kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "Kasakíska"
+
+msgid "ISO_639-2.KL"
+msgstr "Kalaallisut; grænlenska"
+
+msgid "ISO_639-2.KM"
+msgstr "Mið-khmeríska"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Kóreska"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "Kasmírska"
+
+msgid "ISO_639-2.KU"
+msgstr "Kúrdíska"
+
+msgid "ISO_639-2.KV"
+msgstr "Komi"
+
+msgid "ISO_639-2.KW"
+msgstr "Cornish"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgisíska; Kyrgyz"
+
+msgid "ISO_639-2.LA"
+msgstr "Latína"
+
+msgid "ISO_639-2.LB"
+msgstr "Lúxemborgíska"
+
+msgid "ISO_639-2.LG"
+msgstr "Ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgan; Limburger; Limburgish"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laóska"
+
+msgid "ISO_639-2.LT"
+msgstr "Litháíska"
+
+msgid "ISO_639-2.LU"
+msgstr "Luba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Lettneska"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasíska"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshallíska"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedóníska"
+
+msgid "ISO_639-2.ML"
+msgstr "Malasíska"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongólska"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathi"
+
+msgid "ISO_639-2.MS"
+msgstr "Malaíska"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltneska"
+
+msgid "ISO_639-2.MY"
+msgstr "Búrmíska"
+
+msgid "ISO_639-2.NA"
+msgstr "Nárú"
+
+msgid "ISO_639-2.NB"
+msgstr "Bókmál, norska; Norskt bókmál"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebele, norður; Norður-Ndebele"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalska"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Hollenska; Flæmska"
+
+msgid "ISO_639-2.NN"
+msgstr "Nýnorska"
+
+msgid "ISO_639-2.NO"
+msgstr "Norska"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebele, suður; Suður-Ndebele"
+
+msgid "ISO_639-2.NV"
+msgstr "Navajo; Navaho"
+
+msgid "ISO_639-2.NY"
+msgstr "Chichewa; Chewa; Nyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Occitan (eftir 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Ojibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Oryanska"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetíska; Ossetic"
+
+msgid "ISO_639-2.PA"
+msgstr "Panjabi; Punjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Pali"
+
+msgid "ISO_639-2.PL"
+msgstr "Pólska"
+
+msgid "ISO_639-2.PS"
+msgstr "Pushto; Pashto"
+
+msgid "ISO_639-2.PT"
+msgstr "Portúgalska"
+
+msgid "ISO_639-2.QU"
+msgstr "Quechua"
+
+msgid "ISO_639-2.RM"
+msgstr "Rómansh"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundí"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldóvíska"
+
+msgid "ISO_639-2.RU"
+msgstr "Rússneska"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrít"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardiníska"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindí"
+
+msgid "ISO_639-2.SE"
+msgstr "Norðursamíska"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhala; Sinhalíska"
+
+msgid "ISO_639-2.SK"
+msgstr "Slóvakíska"
+
+msgid "ISO_639-2.SL"
+msgstr "Slóvenska"
+
+msgid "ISO_639-2.SM"
+msgstr "Samóíska"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Sómalska"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanska"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbneska"
+
+msgid "ISO_639-2.SS"
+msgstr "Swati"
+
+msgid "ISO_639-2.ST"
+msgstr "Sotho, suður"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundanese"
+
+msgid "ISO_639-2.SV"
+msgstr "Sænska"
+
+msgid "ISO_639-2.SW"
+msgstr "Svahílí"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamílska"
+
+msgid "ISO_639-2.TE"
+msgstr "Telúgú"
+
+msgid "ISO_639-2.TG"
+msgstr "Tajikíska"
+
+msgid "ISO_639-2.TH"
+msgstr "Tælenska"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinya"
+
+msgid "ISO_639-2.TK"
+msgstr "Túrkmenska"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tonga (Tonga-eyjar)"
+
+msgid "ISO_639-2.TR"
+msgstr "Tyrkneska"
+
+msgid "ISO_639-2.TS"
+msgstr "Tonganska"
+
+msgid "ISO_639-2.TT"
+msgstr "Tataríska"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahítíska"
+
+msgid "ISO_639-2.UG"
+msgstr "Uighur; Uyghur"
+
+msgid "ISO_639-2.UK"
+msgstr "Úkraínska"
+
+msgid "ISO_639-2.UR"
+msgstr "Úrdú"
+
+msgid "ISO_639-2.UZ"
+msgstr "Úsbekíska"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Víetnamska"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "Vallónska"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Jiddíska"
+
+msgid "ISO_639-2.YO"
+msgstr "Yoruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang; Chuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Kínverska"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zúlú"

@@ -1,0 +1,581 @@
+# Translation of ISO-639 (language names) to German
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright © various authors, see list below.
+# Björn Ganslandt <bganslan@gmx.net>, 2000, 2001.
+# Karl Eichwalder <ke@suse.de>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Wolfgang Rohdewald <wolfgang@rohdewald.de>, 2005.
+# Bruno Haible <bruno@clisp.org>, 2004, 2007.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2006, 2008, 2009, 2011, 2013, 2016.
+# Hendrik Knackstedt <kn.hendrik@gmail.com>, 2012.
+# Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
+# Kai Lahmann, 2014.
+#
+# Quellen-Verweise:
+# HKA: Haack Kleiner Atlas "Die Erde", VEB Hermann Haack, Gotha/Leipzig 1981.
+# AA: http://www.auswaertiges-amt.de/www/de/infoservice/download/pdf/publikationen/staatennamen-landesspr.pdf, 2002-10-17.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2016-04-15 12:02+0100\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abchasisch"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestisch"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Akan"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharisch"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonesisch"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabisch"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamesisch"
+
+msgid "ISO_639-2.AV"
+msgstr "Awarisch"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Aserbaidschanisch"
+
+msgid "ISO_639-2.BA"
+msgstr "Baschkirisch"
+
+msgid "ISO_639-2.BE"
+msgstr "Weißrussisch"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgarisch"
+
+msgid "ISO_639-2.BH"
+msgstr "Bihari-Sprachen"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalisch"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetisch"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonisch"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosnisch"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalanisch; Valencia"
+
+msgid "ISO_639-2.CE"
+msgstr "Tschetschenisch"
+
+msgid "ISO_639-2.CH"
+msgstr "Chamorro"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsisch"
+
+msgid "ISO_639-2.CR"
+msgstr "Cree"
+
+msgid "ISO_639-2.CS"
+msgstr "Tschechisch"
+
+msgid "ISO_639-2.CV"
+msgstr "Tschuwaschisch"
+
+msgid "ISO_639-2.CY"
+msgstr "Walisisch"
+
+msgid "ISO_639-2.DA"
+msgstr "Dänisch"
+
+msgid "ISO_639-2.DE"
+msgstr "Deutsch"
+
+msgid "ISO_639-2.DV"
+msgstr "Dhivehi"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongkha"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewe-Sprache"
+
+msgid "ISO_639-2.EL"
+msgstr "Neugriechisch (ab 1453)"
+
+msgid "ISO_639-2.EN"
+msgstr "Englisch"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Spanisch (Kastilisch)"
+
+msgid "ISO_639-2.ET"
+msgstr "Estnisch"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskisch"
+
+msgid "ISO_639-2.FA"
+msgstr "Persisch"
+
+msgid "ISO_639-2.FF"
+msgstr "Ful"
+
+msgid "ISO_639-2.FI"
+msgstr "Finnisch"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidschianisch"
+
+msgid "ISO_639-2.FO"
+msgstr "Färöisch"
+
+msgid "ISO_639-2.FR"
+msgstr "Französisch"
+
+msgid "ISO_639-2.FY"
+msgstr "Westfriesisch"
+
+msgid "ISO_639-2.GA"
+msgstr "Irisch"
+
+msgid "ISO_639-2.GD"
+msgstr "Gälisch; Schottisches Gälisch"
+
+msgid "ISO_639-2.GL"
+msgstr "Galizisch"
+
+msgid "ISO_639-2.GN"
+msgstr "Guaraní"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujarati"
+
+msgid "ISO_639-2.GV"
+msgstr "Manx"
+
+msgid "ISO_639-2.HA"
+msgstr "Haussa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebräisch"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri-Motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroatisch"
+
+msgid "ISO_639-2.HT"
+msgstr "Haitianisch; Haitianisches Kreolisch"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungarisch"
+
+msgid "ISO_639-2.HY"
+msgstr "Armenisch"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (Internationale Hilfssprachen-Vereinigung)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonesisch"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingua"
+
+msgid "ISO_639-2.IG"
+msgstr "Ibo"
+
+msgid "ISO_639-2.II"
+msgstr "Sichuan Yi; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Isländisch"
+
+msgid "ISO_639-2.IT"
+msgstr "Italienisch"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Japanisch"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanisch"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgisch"
+
+msgid "ISO_639-2.KG"
+msgstr "Kongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "Kasachisch"
+
+msgid "ISO_639-2.KL"
+msgstr "Kalaallisut; Grönländisch"
+
+msgid "ISO_639-2.KM"
+msgstr "Khmer-Sprache"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Koreanisch"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "Kaschmirisch"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurdisch"
+
+msgid "ISO_639-2.KV"
+msgstr "Komi"
+
+msgid "ISO_639-2.KW"
+msgstr "Kornisch"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgisisch"
+
+msgid "ISO_639-2.LA"
+msgstr "Lateinisch"
+
+msgid "ISO_639-2.LB"
+msgstr "Luxemburgisch; Lëtzebuergesch"
+
+msgid "ISO_639-2.LG"
+msgstr "Ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgisch"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laotisch"
+
+msgid "ISO_639-2.LT"
+msgstr "Litauisch"
+
+msgid "ISO_639-2.LU"
+msgstr "Luba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Lettisch"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasi"
+
+msgid "ISO_639-2.MH"
+msgstr "Marschallesisch"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonisch"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalam"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongolisch"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathi"
+
+msgid "ISO_639-2.MS"
+msgstr "Malaiisch"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltesisch"
+
+msgid "ISO_639-2.MY"
+msgstr "Burmesisch"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauruisch"
+
+msgid "ISO_639-2.NB"
+msgstr "Norwegisch (Bokmål)"
+
+msgid "ISO_639-2.ND"
+msgstr "Nord-Ndebele"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepali"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Niederländisch; Flämisch"
+
+msgid "ISO_639-2.NN"
+msgstr "Neu-Norwegisch"
+
+msgid "ISO_639-2.NO"
+msgstr "Norwegisch"
+
+msgid "ISO_639-2.NR"
+msgstr "Süd-Ndebele"
+
+msgid "ISO_639-2.NV"
+msgstr "Navajo"
+
+msgid "ISO_639-2.NY"
+msgstr "Chichewa; Chewa; Nyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Okzitanisch (nach 1500); Provenzalisch"
+
+msgid "ISO_639-2.OJ"
+msgstr "Ojibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Orija"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetisch"
+
+msgid "ISO_639-2.PA"
+msgstr "Panjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Pali"
+
+msgid "ISO_639-2.PL"
+msgstr "Polnisch"
+
+msgid "ISO_639-2.PS"
+msgstr "Paschtunisch"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugiesisch"
+
+msgid "ISO_639-2.QU"
+msgstr "Quechua"
+
+msgid "ISO_639-2.RM"
+msgstr "Bündnerromanisch"
+
+msgid "ISO_639-2.RN"
+msgstr "Kirundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Rumänisch; Moldawisch"
+
+msgid "ISO_639-2.RU"
+msgstr "Russisch"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardisch"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "Samisch (Nord)"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Singhalesisch"
+
+msgid "ISO_639-2.SK"
+msgstr "Slowakisch"
+
+msgid "ISO_639-2.SL"
+msgstr "Slowenisch"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoanisch"
+
+msgid "ISO_639-2.SN"
+msgstr "Schona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somali"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanisch"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbisch"
+
+msgid "ISO_639-2.SS"
+msgstr "Swazi"
+
+msgid "ISO_639-2.ST"
+msgstr "Sotho (Süd)"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundanesisch"
+
+msgid "ISO_639-2.SV"
+msgstr "Schwedisch"
+
+msgid "ISO_639-2.SW"
+msgstr "Suaheli; Swaheli"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilisch"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugu"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadschikisch"
+
+msgid "ISO_639-2.TH"
+msgstr "Thai"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinja"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmenisch"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tonga (Tonga-Inseln)"
+
+msgid "ISO_639-2.TR"
+msgstr "Türkisch"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatarisch"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahitisch"
+
+msgid "ISO_639-2.UG"
+msgstr "Uigurisch"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrainisch"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Usbekisch"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamesisch"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "Wallonisch"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Jiddisch"
+
+msgid "ISO_639-2.YO"
+msgstr "Joruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Chinesisch"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zulu"

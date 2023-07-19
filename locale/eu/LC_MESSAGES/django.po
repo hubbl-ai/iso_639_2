@@ -1,0 +1,493 @@
+# Translation of ISO-639 (language names) to Basque
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+#   Free Software Foundation, Inc., 2002.
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Marcos Goienetxe <marcos_g@infonegocio.com>, 2002.
+# Piarres Beobide <pi@beobide.net>, 2008.
+# Xabier Bilbao <xabidu@gmail.com>, 2008.
+# Copyright (C)
+#   Translations from KDE:
+msgid ""
+msgstr ""
+"Project-Id-Version: xd-ISO_639-eu\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-07-14 18:20+0200\n"
+"Last-Translator: Xabier Bilbao <xabidu@gmail.com>\n"
+"Language-Team: Euskara <debian-l10n-basque@lists.debian.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afarera"
+
+msgid "ISO_639-2.AB"
+msgstr "Abkhaziera"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestanera"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Akanera"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharera"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragoiera"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabiera"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamera"
+
+msgid "ISO_639-2.AV"
+msgstr "Arabiera"
+
+msgid "ISO_639-2.AY"
+msgstr "Aimara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbaijanera"
+
+msgid "ISO_639-2.BA"
+msgstr "Bashkiriera"
+
+msgid "ISO_639-2.BE"
+msgstr "Bielorrusiera"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgariera"
+
+msgid "ISO_639-2.BH"
+msgstr "Tupi hizkuntzak"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalera"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetera"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretoiera"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosniera"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalana"
+
+msgid "ISO_639-2.CE"
+msgstr "Txetxeniera"
+
+msgid "ISO_639-2.CH"
+msgstr "Chamorroera"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikera"
+
+msgid "ISO_639-2.CS"
+msgstr "Txekiera"
+
+msgid "ISO_639-2.CV"
+msgstr "Chuvash"
+
+msgid "ISO_639-2.CY"
+msgstr "Galesera"
+
+msgid "ISO_639-2.DA"
+msgstr "Daniera"
+
+msgid "ISO_639-2.DE"
+msgstr "Alemana"
+
+msgid "ISO_639-2.DV"
+msgstr "Maldiviera"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongkha"
+
+msgid "ISO_639-2.EL"
+msgstr "Greko modernoa (1453tik aurrera)"
+
+msgid "ISO_639-2.EN"
+msgstr "Ingelesa"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperantoa"
+
+msgid "ISO_639-2.ES"
+msgstr "Espainola; gaztelania"
+
+msgid "ISO_639-2.ET"
+msgstr "Estoniera"
+
+msgid "ISO_639-2.EU"
+msgstr "Euskara"
+
+msgid "ISO_639-2.FA"
+msgstr "Persiera"
+
+msgid "ISO_639-2.FI"
+msgstr "Finlandiera"
+
+msgid "ISO_639-2.FO"
+msgstr "Faroera"
+
+msgid "ISO_639-2.FR"
+msgstr "Frantsesa"
+
+msgid "ISO_639-2.FY"
+msgstr "Mendebaldeko frisiera"
+
+msgid "ISO_639-2.GA"
+msgstr "Irlandera"
+
+msgid "ISO_639-2.GD"
+msgstr "Gaelikoa; eskoziar gaelikoa"
+
+msgid "ISO_639-2.GL"
+msgstr "Galiziera"
+
+msgid "ISO_639-2.GN"
+msgstr "Guaraniera"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujeratera"
+
+msgid "ISO_639-2.GV"
+msgstr "Manxera [Manx-eko gaelikoa]"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebreera"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri Motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroaziera"
+
+msgid "ISO_639-2.HT"
+msgstr "Haitiera, haitiar kreolera"
+
+msgid "ISO_639-2.HU"
+msgstr "Hungariera"
+
+msgid "ISO_639-2.HY"
+msgstr "Armeniera"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (IALAren nazioarteko hizkuntza)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonesiera"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue; medebalekoa"
+
+msgid "ISO_639-2.IG"
+msgstr "Igboera"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaq"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandiera"
+
+msgid "ISO_639-2.IT"
+msgstr "Italiera"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Japoniera"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanera"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgiera"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazakhera"
+
+msgid "ISO_639-2.KL"
+msgstr "Groenlandiera"
+
+msgid "ISO_639-2.KM"
+msgstr "Erdiko khmer"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Koreera"
+
+msgid "ISO_639-2.KS"
+msgstr "Kaxmirera"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurduera"
+
+msgid "ISO_639-2.KV"
+msgstr "Komeera"
+
+msgid "ISO_639-2.KW"
+msgstr "Kornubiera"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgizera"
+
+msgid "ISO_639-2.LA"
+msgstr "Latina"
+
+msgid "ISO_639-2.LB"
+msgstr "Luxenburgera"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laosera"
+
+msgid "ISO_639-2.LT"
+msgstr "Lituaniera"
+
+msgid "ISO_639-2.LV"
+msgstr "Letoniera"
+
+msgid "ISO_639-2.MG"
+msgstr "Malgaxea"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshallera"
+
+msgid "ISO_639-2.MI"
+msgstr "Maoria"
+
+msgid "ISO_639-2.MK"
+msgstr "Mazedoniera"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalamera"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongoliera"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathera"
+
+msgid "ISO_639-2.MS"
+msgstr "Malaysiera"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltera"
+
+msgid "ISO_639-2.MY"
+msgstr "Birmaniera"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauruera"
+
+msgid "ISO_639-2.ND"
+msgstr "Iparraldeko ndebelera"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalera"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Nederlandera; flandesera"
+
+msgid "ISO_639-2.NN"
+msgstr "Norvegiera (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Norvegiera"
+
+msgid "ISO_639-2.NR"
+msgstr "Hegoaldeko ndebelera"
+
+msgid "ISO_639-2.OC"
+msgstr "Okzitaniera (1500 ondorengoa); Probentzera"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromoera"
+
+msgid "ISO_639-2.OS"
+msgstr "Osetiera"
+
+msgid "ISO_639-2.PA"
+msgstr "Punjabera"
+
+msgid "ISO_639-2.PL"
+msgstr "Poloniera"
+
+msgid "ISO_639-2.PS"
+msgstr "Paxtuera"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugesa"
+
+msgid "ISO_639-2.QU"
+msgstr "Kitxua"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldaviera"
+
+msgid "ISO_639-2.RU"
+msgstr "Errusiera"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyaruanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskritoa"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardiniera"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "Iparraldeko samiera"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhala"
+
+msgid "ISO_639-2.SK"
+msgstr "Eslovakiera"
+
+msgid "ISO_639-2.SL"
+msgstr "Esloveniera"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoera"
+
+msgid "ISO_639-2.SO"
+msgstr "Somaliera"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albaniera"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbiera"
+
+msgid "ISO_639-2.ST"
+msgstr "Hegoaldeko sothoera"
+
+msgid "ISO_639-2.SU"
+msgstr "Sudanera"
+
+msgid "ISO_639-2.SV"
+msgstr "Suediera"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahilia"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamil-a"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugu-a"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadjikera"
+
+msgid "ISO_639-2.TH"
+msgstr "Thailandiera"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmeniera"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalo-a"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongera (Tonga uharteak)"
+
+msgid "ISO_639-2.TR"
+msgstr "Turkiera"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatariera"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahitiera"
+
+msgid "ISO_639-2.UG"
+msgstr "Uighurera"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrainiera"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdu-a"
+
+msgid "ISO_639-2.UZ"
+msgstr "Uzbekera"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamera"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapük-a"
+
+msgid "ISO_639-2.WA"
+msgstr "Waloiera"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolofera"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Jidish"
+
+msgid "ISO_639-2.YO"
+msgstr "Jorubera"
+
+msgid "ISO_639-2.ZH"
+msgstr "Txinera"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zuluera"

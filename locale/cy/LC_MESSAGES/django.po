@@ -1,0 +1,478 @@
+# Translation of ISO-639 (language names) to Welsh
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2001
+#   Dafydd Tomos <dafydd.tomos@imaginet.co.uk>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-08-14 20:57+0100\n"
+"Last-Translator: Dafydd Tomos <dafydd.tomos@imaginet.co.uk>\n"
+"Language-Team: Welsh <cy@li.org>\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Affareg"
+
+msgid "ISO_639-2.AB"
+msgstr "Abcaseg"
+
+msgid "ISO_639-2.AF"
+msgstr "Affricaneg"
+
+msgid "ISO_639-2.AK"
+msgstr "Abcaseg"
+
+msgid "ISO_639-2.AM"
+msgstr "Amhareg"
+
+msgid "ISO_639-2.AN"
+msgstr "Ffaröeg"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabeg"
+
+msgid "ISO_639-2.AS"
+msgstr "Asameg"
+
+msgid "ISO_639-2.AV"
+msgstr "Amhareg"
+
+msgid "ISO_639-2.AY"
+msgstr "Aimareg"
+
+msgid "ISO_639-2.AZ"
+msgstr "Aserbaijani"
+
+msgid "ISO_639-2.BA"
+msgstr "Bashgireg"
+
+msgid "ISO_639-2.BE"
+msgstr "Belarwseg"
+
+msgid "ISO_639-2.BG"
+msgstr "Bwlgareg"
+
+msgid "ISO_639-2.BH"
+msgstr "Malagasi"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Aimareg"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengaleg"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibeteg"
+
+msgid "ISO_639-2.BR"
+msgstr "Llydaweg"
+
+msgid "ISO_639-2.BS"
+msgstr "Rwmaneg"
+
+msgid "ISO_639-2.CE"
+msgstr "Tsieceg"
+
+msgid "ISO_639-2.CO"
+msgstr "Corseg"
+
+msgid "ISO_639-2.CR"
+msgstr "Groeg"
+
+msgid "ISO_639-2.CS"
+msgstr "Tsieceg"
+
+msgid "ISO_639-2.CY"
+msgstr "Cymraeg"
+
+msgid "ISO_639-2.DA"
+msgstr "Daneg"
+
+msgid "ISO_639-2.DE"
+msgstr "Almaeneg"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dsonca"
+
+msgid "ISO_639-2.EN"
+msgstr "Saesneg"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Estoneg"
+
+msgid "ISO_639-2.EU"
+msgstr "Basgeg"
+
+msgid "ISO_639-2.FA"
+msgstr "Perseg"
+
+msgid "ISO_639-2.FI"
+msgstr "Ffinneg"
+
+msgid "ISO_639-2.FJ"
+msgstr "Ffijïeg"
+
+msgid "ISO_639-2.FO"
+msgstr "Ffaröeg"
+
+msgid "ISO_639-2.FR"
+msgstr "Ffrangeg"
+
+msgid "ISO_639-2.FY"
+msgstr "Ffriseg"
+
+msgid "ISO_639-2.GA"
+msgstr "Gwyddeleg"
+
+msgid "ISO_639-2.GD"
+msgstr "Gaeleg yr Alban"
+
+msgid "ISO_639-2.GL"
+msgstr "Galiseg"
+
+msgid "ISO_639-2.GN"
+msgstr "Gwarani"
+
+msgid "ISO_639-2.GU"
+msgstr "Gwjwrati"
+
+msgid "ISO_639-2.GV"
+msgstr "Manaweg"
+
+msgid "ISO_639-2.HA"
+msgstr "Hawsa"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebraeg"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HR"
+msgstr "Croateg"
+
+msgid "ISO_639-2.HU"
+msgstr "Hwngareg"
+
+msgid "ISO_639-2.HY"
+msgstr "Armeneg"
+
+msgid "ISO_639-2.HZ"
+msgstr "Hebraeg"
+
+msgid "ISO_639-2.ID"
+msgstr "Indoneseg"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue"
+
+msgid "ISO_639-2.II"
+msgstr "Lithwaneg"
+
+msgid "ISO_639-2.IK"
+msgstr "Inwpiac"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandeg"
+
+msgid "ISO_639-2.IT"
+msgstr "Eidaleg"
+
+msgid "ISO_639-2.IU"
+msgstr "Inwctitwt"
+
+msgid "ISO_639-2.JA"
+msgstr "Siapaneg"
+
+msgid "ISO_639-2.JV"
+msgstr "Jafaneg"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgeg"
+
+msgid "ISO_639-2.KG"
+msgstr "Sango"
+
+msgid "ISO_639-2.KJ"
+msgstr "Canareg"
+
+msgid "ISO_639-2.KK"
+msgstr "Cazacheg"
+
+msgid "ISO_639-2.KN"
+msgstr "Canareg"
+
+msgid "ISO_639-2.KO"
+msgstr "Corëeg"
+
+msgid "ISO_639-2.KR"
+msgstr "Cwrdeg"
+
+msgid "ISO_639-2.KS"
+msgstr "Cashmireg"
+
+msgid "ISO_639-2.KU"
+msgstr "Cwrdeg"
+
+msgid "ISO_639-2.KV"
+msgstr "Somalieg"
+
+msgid "ISO_639-2.KW"
+msgstr "Cernyweg"
+
+msgid "ISO_639-2.KY"
+msgstr "Cirgiseg"
+
+msgid "ISO_639-2.LA"
+msgstr "Lladin"
+
+msgid "ISO_639-2.LB"
+msgstr "Lwcsembwrgeg"
+
+msgid "ISO_639-2.LG"
+msgstr "Canareg"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laoeg"
+
+msgid "ISO_639-2.LT"
+msgstr "Lithwaneg"
+
+msgid "ISO_639-2.LV"
+msgstr "Latfieg"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasi"
+
+msgid "ISO_639-2.MH"
+msgstr "Malteg"
+
+msgid "ISO_639-2.MI"
+msgstr "Maori"
+
+msgid "ISO_639-2.MK"
+msgstr "Macedoneg"
+
+msgid "ISO_639-2.ML"
+msgstr "Malaialameg"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongoleg"
+
+msgid "ISO_639-2.MR"
+msgstr "Marati"
+
+msgid "ISO_639-2.MS"
+msgstr "Malaieg"
+
+msgid "ISO_639-2.MT"
+msgstr "Malteg"
+
+msgid "ISO_639-2.MY"
+msgstr "Byrmaneg"
+
+msgid "ISO_639-2.NA"
+msgstr "Nawrŵeg"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepaleg"
+
+msgid "ISO_639-2.NG"
+msgstr "Tsongeg"
+
+msgid "ISO_639-2.NN"
+msgstr "Norwyeg"
+
+msgid "ISO_639-2.NO"
+msgstr "Norwyeg"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Orïa"
+
+msgid "ISO_639-2.OS"
+msgstr "Rwsieg"
+
+msgid "ISO_639-2.PA"
+msgstr "Pwnjabeg"
+
+msgid "ISO_639-2.PI"
+msgstr "Somalieg"
+
+msgid "ISO_639-2.PL"
+msgstr "Pwyleg"
+
+msgid "ISO_639-2.PS"
+msgstr "Pwshtw"
+
+msgid "ISO_639-2.PT"
+msgstr "Portiwgaleg"
+
+msgid "ISO_639-2.QU"
+msgstr "Cetshwa"
+
+msgid "ISO_639-2.RM"
+msgstr "Rwmaneg"
+
+msgid "ISO_639-2.RN"
+msgstr "Rwndi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldafeg"
+
+msgid "ISO_639-2.RU"
+msgstr "Rwsieg"
+
+msgid "ISO_639-2.RW"
+msgstr "Ciniarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sansgrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Macedoneg"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhi"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhala"
+
+msgid "ISO_639-2.SK"
+msgstr "Slofaceg"
+
+msgid "ISO_639-2.SL"
+msgstr "Slofeneg"
+
+msgid "ISO_639-2.SM"
+msgstr "Samöeg"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somalieg"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albaneg"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbeg"
+
+msgid "ISO_639-2.SS"
+msgstr "Swati"
+
+msgid "ISO_639-2.SU"
+msgstr "Swndaneg"
+
+msgid "ISO_639-2.SV"
+msgstr "Swedeg"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamileg"
+
+msgid "ISO_639-2.TE"
+msgstr "Telwgw"
+
+msgid "ISO_639-2.TG"
+msgstr "Tajiceg"
+
+msgid "ISO_639-2.TH"
+msgstr "Tai"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigris"
+
+msgid "ISO_639-2.TK"
+msgstr "Tyrcmeneg"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TR"
+msgstr "Tyrceg"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsongeg"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatareg"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Latfieg"
+
+msgid "ISO_639-2.UG"
+msgstr "Wigwreg"
+
+msgid "ISO_639-2.UK"
+msgstr "Wcreineg"
+
+msgid "ISO_639-2.UR"
+msgstr "Wrdw"
+
+msgid "ISO_639-2.UZ"
+msgstr "Wsbeceg"
+
+msgid "ISO_639-2.VI"
+msgstr "Fietnameg"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapuk"
+
+msgid "ISO_639-2.WO"
+msgstr "Woloff"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Iddeweg"
+
+msgid "ISO_639-2.YO"
+msgstr "Iorwba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Shwangeg"
+
+msgid "ISO_639-2.ZH"
+msgstr "Tsieinëeg"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zwlw"

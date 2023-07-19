@@ -1,0 +1,246 @@
+# Translation of ISO-639 (language names) to Bosnian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Nesiren Armin <bianchi@lugbih.org>, 2002
+#   Vedran Ljubovic <vljubovic@smartnet.ba>, 2002
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-05 19:06:0000\n"
+"Last-Translator: Nesiren Armin <bianchi@lugbih.org>\n"
+"Language-Team: Bosanski <kde@lugbih.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AB"
+msgstr "Azerbejdđanski"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Azerbejdđanski"
+
+msgid "ISO_639-2.AR"
+msgstr "Arapski"
+
+msgid "ISO_639-2.AV"
+msgstr "Arapski"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbejđanski"
+
+msgid "ISO_639-2.BE"
+msgstr "Bjeloruski"
+
+msgid "ISO_639-2.BG"
+msgstr "Bugarski"
+
+msgid "ISO_639-2.BH"
+msgstr "Korejski"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonski"
+
+msgid "ISO_639-2.BS"
+msgstr "Rumunjki"
+
+msgid "ISO_639-2.CE"
+msgstr "Češki"
+
+msgid "ISO_639-2.CR"
+msgstr "Grčki"
+
+msgid "ISO_639-2.CS"
+msgstr "Češki"
+
+msgid "ISO_639-2.CY"
+msgstr "Welsh"
+
+msgid "ISO_639-2.DA"
+msgstr "Danski"
+
+msgid "ISO_639-2.DE"
+msgstr "Njemački"
+
+msgid "ISO_639-2.EN"
+msgstr "Engleski"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonski"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskijski"
+
+msgid "ISO_639-2.FA"
+msgstr "Srpski"
+
+msgid "ISO_639-2.FI"
+msgstr "Finski"
+
+msgid "ISO_639-2.FR"
+msgstr "Francuski"
+
+msgid "ISO_639-2.GA"
+msgstr "Irski"
+
+msgid "ISO_639-2.GL"
+msgstr "Galicijanski"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebrejski"
+
+msgid "ISO_639-2.HR"
+msgstr "Hrvatski"
+
+msgid "ISO_639-2.HU"
+msgstr "Mađjarski"
+
+msgid "ISO_639-2.HZ"
+msgstr "Hebrejski"
+
+msgid "ISO_639-2.ID"
+msgstr "Infoneziski"
+
+msgid "ISO_639-2.II"
+msgstr "Litvanski"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandski"
+
+msgid "ISO_639-2.IT"
+msgstr "Talijanski"
+
+msgid "ISO_639-2.JA"
+msgstr "Japanski"
+
+msgid "ISO_639-2.KO"
+msgstr "Korejski"
+
+msgid "ISO_639-2.KR"
+msgstr "Kurdski"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurdski"
+
+msgid "ISO_639-2.LT"
+msgstr "Litvanski"
+
+msgid "ISO_639-2.LV"
+msgstr "Latviski"
+
+msgid "ISO_639-2.MH"
+msgstr "Maltski"
+
+msgid "ISO_639-2.MI"
+msgstr "Maorski"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonski"
+
+msgid "ISO_639-2.MR"
+msgstr "Maorski"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltski"
+
+msgid "ISO_639-2.NG"
+msgstr "Bosanski"
+
+msgid "ISO_639-2.NN"
+msgstr "Norveški (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Norveški"
+
+msgid "ISO_639-2.OS"
+msgstr "Ruski"
+
+msgid "ISO_639-2.PI"
+msgstr "Poljski"
+
+msgid "ISO_639-2.PL"
+msgstr "Poljski"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugalski"
+
+msgid "ISO_639-2.RM"
+msgstr "Rumunjki"
+
+msgid "ISO_639-2.RU"
+msgstr "Ruski"
+
+msgid "ISO_639-2.SC"
+msgstr "Makedonski"
+
+msgid "ISO_639-2.SI"
+msgstr "Vijetnamski"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovački"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovenski"
+
+msgid "ISO_639-2.SN"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.SQ"
+msgstr "Azerbejđanski"
+
+msgid "ISO_639-2.SR"
+msgstr "Srpski"
+
+msgid "ISO_639-2.SV"
+msgstr "Švedski"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilski"
+
+msgid "ISO_639-2.TG"
+msgstr "Tajlandski"
+
+msgid "ISO_639-2.TH"
+msgstr "Tajlandski"
+
+msgid "ISO_639-2.TI"
+msgstr "Turski"
+
+msgid "ISO_639-2.TR"
+msgstr "Turski"
+
+msgid "ISO_639-2.TY"
+msgstr "Latviski"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrajinski"
+
+msgid "ISO_639-2.VI"
+msgstr "Vijetnamski"
+
+msgid "ISO_639-2.WA"
+msgstr "Valonski"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.ZH"
+msgstr "Kineski"
+
+msgid "ISO_639-2.ZU"
+msgstr "Julia"

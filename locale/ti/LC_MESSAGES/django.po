@@ -1,0 +1,392 @@
+# Translation of ISO-639 (language names) to Tigrinya
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 21:21+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Tigrinya\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "አፋርኛ"
+
+msgid "ISO_639-2.AB"
+msgstr "አብሐዚኛ"
+
+msgid "ISO_639-2.AF"
+msgstr "አፍሪቃንስኛ"
+
+msgid "ISO_639-2.AM"
+msgstr "አማርኛ"
+
+msgid "ISO_639-2.AR"
+msgstr "ዐርቢኛ"
+
+msgid "ISO_639-2.AS"
+msgstr "አሳሜዛዊ"
+
+msgid "ISO_639-2.AY"
+msgstr "አያማርኛ"
+
+msgid "ISO_639-2.AZ"
+msgstr "አዜርባይጃንኛ"
+
+msgid "ISO_639-2.BA"
+msgstr "ባስኪርኛ"
+
+msgid "ISO_639-2.BE"
+msgstr "ቤላራሻኛ"
+
+msgid "ISO_639-2.BG"
+msgstr "ቡልጋሪኛ"
+
+msgid "ISO_639-2.BH"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-2.BI"
+msgstr "ቢስላምኛ"
+
+msgid "ISO_639-2.BN"
+msgstr "በንጋሊኛ"
+
+msgid "ISO_639-2.BO"
+msgstr "ትበትንኛ"
+
+msgid "ISO_639-2.BR"
+msgstr "ብሬቶንኛ"
+
+msgid "ISO_639-2.CO"
+msgstr "ኮርሲካኛ"
+
+msgid "ISO_639-2.CS"
+msgstr "ቼክኛ"
+
+msgid "ISO_639-2.CY"
+msgstr "ወልሽ"
+
+msgid "ISO_639-2.DA"
+msgstr "ዴኒሽ"
+
+msgid "ISO_639-2.DE"
+msgstr "ጀርመን"
+
+msgid "ISO_639-2.DZ"
+msgstr "ድዞንግኻኛ"
+
+msgid "ISO_639-2.EN"
+msgstr "እንግሊዝኛ"
+
+msgid "ISO_639-2.EO"
+msgstr "ኤስፐራንቶ"
+
+msgid "ISO_639-2.ET"
+msgstr "ኤስቶኒአን"
+
+msgid "ISO_639-2.EU"
+msgstr "ባስክኛ"
+
+msgid "ISO_639-2.FA"
+msgstr "ፐርሲያኛ"
+
+msgid "ISO_639-2.FI"
+msgstr "ፊኒሽ"
+
+msgid "ISO_639-2.FJ"
+msgstr "ፊጂኛ"
+
+msgid "ISO_639-2.FO"
+msgstr "ፋሮኛ"
+
+msgid "ISO_639-2.FR"
+msgstr "ፈረንሳይኛ"
+
+msgid "ISO_639-2.FY"
+msgstr "ፍሪስኛ"
+
+msgid "ISO_639-2.GA"
+msgstr "አይሪሽ"
+
+msgid "ISO_639-2.GL"
+msgstr "ጋለጋኛ"
+
+msgid "ISO_639-2.GN"
+msgstr "ጓራኒኛ"
+
+msgid "ISO_639-2.GU"
+msgstr "ጉጃርቲኛ"
+
+msgid "ISO_639-2.HA"
+msgstr "ሃውሳኛ"
+
+msgid "ISO_639-2.HE"
+msgstr "ዕብራስጥ"
+
+msgid "ISO_639-2.HI"
+msgstr "ሐንድኛ"
+
+msgid "ISO_639-2.HR"
+msgstr "ክሮሽያንኛ"
+
+msgid "ISO_639-2.HU"
+msgstr "ሀንጋሪኛ"
+
+msgid "ISO_639-2.HY"
+msgstr "አርመናዊ"
+
+msgid "ISO_639-2.ID"
+msgstr "እንዶኒሲኛ"
+
+msgid "ISO_639-2.IE"
+msgstr "እንተርሊንግወ"
+
+msgid "ISO_639-2.IK"
+msgstr "እኑፒያቅኛ"
+
+msgid "ISO_639-2.IS"
+msgstr "አይስላንድኛ"
+
+msgid "ISO_639-2.IT"
+msgstr "ጣሊያንኛ"
+
+msgid "ISO_639-2.IU"
+msgstr "እኑክቲቱትኛ"
+
+msgid "ISO_639-2.JA"
+msgstr "ጃፓንኛ"
+
+msgid "ISO_639-2.JV"
+msgstr "ጃቫንኛ"
+
+msgid "ISO_639-2.KA"
+msgstr "ጊዮርጊያን"
+
+msgid "ISO_639-2.KK"
+msgstr "ካዛክኛ"
+
+msgid "ISO_639-2.KN"
+msgstr "ካናዳኛ"
+
+msgid "ISO_639-2.KO"
+msgstr "ኮሪያኛ"
+
+msgid "ISO_639-2.KS"
+msgstr "ካሽሚርኛ"
+
+msgid "ISO_639-2.KU"
+msgstr "ኩርድሽኛ"
+
+msgid "ISO_639-2.KY"
+msgstr "ኪርጊዝኛ"
+
+msgid "ISO_639-2.LA"
+msgstr "ላቲንኛ"
+
+msgid "ISO_639-2.LN"
+msgstr "ሊንጋላኛ"
+
+msgid "ISO_639-2.LO"
+msgstr "ላውስኛ"
+
+msgid "ISO_639-2.LT"
+msgstr "ሊቱአኒያን"
+
+msgid "ISO_639-2.LV"
+msgstr "ላትቪያን"
+
+msgid "ISO_639-2.MG"
+msgstr "ማላጋስኛ"
+
+msgid "ISO_639-2.MI"
+msgstr "ማዮሪኛ"
+
+msgid "ISO_639-2.MK"
+msgstr "ማከዶኒኛ"
+
+msgid "ISO_639-2.ML"
+msgstr "ማላያላምኛ"
+
+msgid "ISO_639-2.MN"
+msgstr "ሞንጎላዊኛ"
+
+msgid "ISO_639-2.MR"
+msgstr "ማራዚኛ"
+
+msgid "ISO_639-2.MS"
+msgstr "ማላይኛ"
+
+msgid "ISO_639-2.MT"
+msgstr "ማልቲስኛ"
+
+msgid "ISO_639-2.MY"
+msgstr "ቡርማኛ"
+
+msgid "ISO_639-2.NA"
+msgstr "ናኡሩ"
+
+msgid "ISO_639-2.NE"
+msgstr "ኔፓሊኛ"
+
+msgid "ISO_639-2.NO"
+msgstr "ኖርዌጂያን"
+
+msgid "ISO_639-2.OM"
+msgstr "ኦሮምኛ"
+
+msgid "ISO_639-2.OR"
+msgstr "ኦሪያኛ"
+
+msgid "ISO_639-2.PL"
+msgstr "ፖሊሽ"
+
+msgid "ISO_639-2.PT"
+msgstr "ፖርቱጋሊኛ"
+
+msgid "ISO_639-2.QU"
+msgstr "ኵቿኛ"
+
+msgid "ISO_639-2.RM"
+msgstr "ሮማኒያን"
+
+msgid "ISO_639-2.RN"
+msgstr "ሩንዲኛ"
+
+msgid "ISO_639-2.RO"
+msgstr "ሞልዳቫዊና"
+
+msgid "ISO_639-2.RU"
+msgstr "ራሽኛ"
+
+msgid "ISO_639-2.RW"
+msgstr "ኪንያርዋንድኛ"
+
+msgid "ISO_639-2.SA"
+msgstr "ሳንስክሪትኛ"
+
+msgid "ISO_639-2.SD"
+msgstr "ሲንድሂኛ"
+
+msgid "ISO_639-2.SG"
+msgstr "ሳንጎኛ"
+
+msgid "ISO_639-2.SI"
+msgstr "ስንሃልኛ"
+
+msgid "ISO_639-2.SK"
+msgstr "ስሎቫክኛ"
+
+msgid "ISO_639-2.SL"
+msgstr "ስሎቪኛ"
+
+msgid "ISO_639-2.SM"
+msgstr "ሳሞአኛ"
+
+msgid "ISO_639-2.SN"
+msgstr "ሾናኛ"
+
+msgid "ISO_639-2.SO"
+msgstr "ሱማልኛ"
+
+msgid "ISO_639-2.SQ"
+msgstr "ልቤኒኛ"
+
+msgid "ISO_639-2.SR"
+msgstr "ሰርቢኛ"
+
+msgid "ISO_639-2.SS"
+msgstr "ስዋቲኛ"
+
+msgid "ISO_639-2.ST"
+msgstr "ሶዞኛ"
+
+msgid "ISO_639-2.SU"
+msgstr "ሱዳንኛ"
+
+msgid "ISO_639-2.SV"
+msgstr "ስዊድንኛ"
+
+msgid "ISO_639-2.SW"
+msgstr "ስዋሂሊኛ"
+
+msgid "ISO_639-2.TA"
+msgstr "ታሚልኛ"
+
+msgid "ISO_639-2.TE"
+msgstr "ተሉጉኛ"
+
+msgid "ISO_639-2.TG"
+msgstr "ታጂኪኛ"
+
+msgid "ISO_639-2.TH"
+msgstr "ታይኛ"
+
+msgid "ISO_639-2.TI"
+msgstr "ትግርኛ"
+
+msgid "ISO_639-2.TK"
+msgstr "ቱርክመንኛ"
+
+msgid "ISO_639-2.TL"
+msgstr "ታጋሎገኛ"
+
+msgid "ISO_639-2.TN"
+msgstr "ጽዋናዊኛ"
+
+msgid "ISO_639-2.TO"
+msgstr "ቶንጋ"
+
+msgid "ISO_639-2.TR"
+msgstr "ቱርክኛ"
+
+msgid "ISO_639-2.TS"
+msgstr "ጾንጋኛ"
+
+msgid "ISO_639-2.TT"
+msgstr "ታታርኛ"
+
+msgid "ISO_639-2.TW"
+msgstr "ትዊኛ"
+
+msgid "ISO_639-2.UG"
+msgstr "ኡዊግሁርኛ"
+
+msgid "ISO_639-2.UK"
+msgstr "ዩክረኒኛ"
+
+msgid "ISO_639-2.UR"
+msgstr "ኡርዱኛ"
+
+msgid "ISO_639-2.UZ"
+msgstr "ኡዝበክኛ"
+
+msgid "ISO_639-2.VI"
+msgstr "ቪትናምኛ"
+
+msgid "ISO_639-2.WO"
+msgstr "ዎሎፍኛ"
+
+msgid "ISO_639-2.XH"
+msgstr "ዞሳኛ"
+
+msgid "ISO_639-2.YI"
+msgstr "ይዲሻዊኛ"
+
+msgid "ISO_639-2.YO"
+msgstr "ዮሩባዊኛ"
+
+msgid "ISO_639-2.ZH"
+msgstr "ቻይንኛ"
+
+msgid "ISO_639-2.ZU"
+msgstr "ዙሉኛ"

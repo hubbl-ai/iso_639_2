@@ -1,0 +1,257 @@
+# Translation of ISO-639 (language names) to Occitan
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-11-10 00:58+0100\n"
+"Last-Translator: Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>\n"
+"Language-Team: OCCITAN <laborde@crpp.u-bordeaux.fr>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abcaze"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonés"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabi"
+
+msgid "ISO_639-2.BE"
+msgstr "Bielorús"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgar"
+
+msgid "ISO_639-2.BH"
+msgstr "Lengas nahuatl"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalin"
+
+msgid "ISO_639-2.BR"
+msgstr "Breton"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosniac"
+
+msgid "ISO_639-2.CA"
+msgstr "Catalan ; Valencian"
+
+msgid "ISO_639-2.CE"
+msgstr "Chechèn"
+
+msgid "ISO_639-2.CY"
+msgstr "Galés"
+
+msgid "ISO_639-2.DA"
+msgstr "Danés"
+
+msgid "ISO_639-2.EL"
+msgstr "Grèc, modèrn (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Anglés"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Espanhòl ; Castelhan"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonian"
+
+msgid "ISO_639-2.EU"
+msgstr "Basc"
+
+msgid "ISO_639-2.FI"
+msgstr "Finés"
+
+msgid "ISO_639-2.FO"
+msgstr "Feroés"
+
+msgid "ISO_639-2.FR"
+msgstr "Francés"
+
+msgid "ISO_639-2.GA"
+msgstr "Irlandés"
+
+msgid "ISO_639-2.GD"
+msgstr "Gaelic ; Gaelic d'Escòcia"
+
+msgid "ISO_639-2.GL"
+msgstr "Galèc"
+
+msgid "ISO_639-2.GN"
+msgstr "Guaraní"
+
+msgid "ISO_639-2.GU"
+msgstr "Gujarati"
+
+msgid "ISO_639-2.HE"
+msgstr "Ebrieu"
+
+msgid "ISO_639-2.HI"
+msgstr "Indi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri Motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Croat"
+
+msgid "ISO_639-2.HU"
+msgstr "Ongrés"
+
+msgid "ISO_639-2.HY"
+msgstr "Albanés"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonesian"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingua ; occidental"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandés"
+
+msgid "ISO_639-2.IT"
+msgstr "Italian"
+
+msgid "ISO_639-2.JA"
+msgstr "Japonés"
+
+msgid "ISO_639-2.JV"
+msgstr "Javanés"
+
+msgid "ISO_639-2.KA"
+msgstr "Georgian"
+
+msgid "ISO_639-2.KO"
+msgstr "Corean"
+
+msgid "ISO_639-2.KU"
+msgstr "Curd"
+
+msgid "ISO_639-2.LA"
+msgstr "Latin"
+
+msgid "ISO_639-2.LV"
+msgstr "Lituanian"
+
+msgid "ISO_639-2.MK"
+msgstr "Macedonian"
+
+msgid "ISO_639-2.ML"
+msgstr "Malaialam"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongòl"
+
+msgid "ISO_639-2.MS"
+msgstr "Malai"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltés"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauru"
+
+msgid "ISO_639-2.NN"
+msgstr "Norvegian Nynorsk ; Nynorks, Norvegian"
+
+msgid "ISO_639-2.NO"
+msgstr "Norvegian"
+
+msgid "ISO_639-2.OC"
+msgstr "Occitan (aprèp 1500)"
+
+msgid "ISO_639-2.PL"
+msgstr "Polonés"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugués"
+
+msgid "ISO_639-2.RU"
+msgstr "Rus"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanscrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sarde"
+
+msgid "ISO_639-2.SK"
+msgstr "Eslovac"
+
+msgid "ISO_639-2.SL"
+msgstr "Eslovèn"
+
+msgid "ISO_639-2.SR"
+msgstr "Sèrbe"
+
+msgid "ISO_639-2.SV"
+msgstr "Suedés"
+
+msgid "ISO_639-2.SW"
+msgstr "Swahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamil"
+
+msgid "ISO_639-2.TH"
+msgstr "Tai"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinya"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalòc"
+
+msgid "ISO_639-2.TR"
+msgstr "Turc"
+
+msgid "ISO_639-2.UK"
+msgstr "Urcraïnian"
+
+msgid "ISO_639-2.UR"
+msgstr "Ordo"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamian"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhosa"
+
+msgid "ISO_639-2.YO"
+msgstr "Ioroba"
+
+msgid "ISO_639-2.ZH"
+msgstr "Chinés"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zolo"

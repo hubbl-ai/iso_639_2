@@ -1,0 +1,544 @@
+# Translation of ISO-639 (language names) to Kinyarwanda
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Viateur MUGENZI <muvia@hotmail.com>, 2004.
+#
+# Note: Steve Murphy is not a translator-- he is a technical coordinator
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-03-09 12:02+0700\n"
+"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
+"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"Language: rw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Ikinyafari"
+
+msgid "ISO_639-2.AB"
+msgstr "Abukaziyani"
+
+msgid "ISO_639-2.AE"
+msgstr "Ikinyavesitani"
+
+msgid "ISO_639-2.AF"
+msgstr "Ikinyafurikansi"
+
+msgid "ISO_639-2.AK"
+msgstr "Ikinyakani"
+
+msgid "ISO_639-2.AM"
+msgstr "Ikinyamarike"
+
+msgid "ISO_639-2.AN"
+msgstr "Icyaragoneze"
+
+msgid "ISO_639-2.AR"
+msgstr "Icyarabu"
+
+msgid "ISO_639-2.AS"
+msgstr "Ikinyasamese"
+
+msgid "ISO_639-2.AV"
+msgstr "Ikinyavarika"
+
+msgid "ISO_639-2.AY"
+msgstr "Ikinyayimara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Ikinyazeribayijani"
+
+msgid "ISO_639-2.BA"
+msgstr "Ikinyabashikiri"
+
+msgid "ISO_639-2.BE"
+msgstr "Ikibelarusiya"
+
+msgid "ISO_639-2.BG"
+msgstr "Ikinyabulugariya"
+
+msgid "ISO_639-2.BH"
+msgstr "Indimi za tupi"
+
+msgid "ISO_639-2.BI"
+msgstr "Ikibisilamu"
+
+msgid "ISO_639-2.BM"
+msgstr "Ikibambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Ikibengali"
+
+msgid "ISO_639-2.BO"
+msgstr "Ikinyatibeti"
+
+msgid "ISO_639-2.BR"
+msgstr "Ikinyabureto"
+
+msgid "ISO_639-2.BS"
+msgstr "Ikinyabosiniya"
+
+msgid "ISO_639-2.CE"
+msgstr "Igiceceni"
+
+msgid "ISO_639-2.CH"
+msgstr "Igishamoro"
+
+msgid "ISO_639-2.CO"
+msgstr "Igikoruse"
+
+msgid "ISO_639-2.CR"
+msgstr "Igikiri"
+
+msgid "ISO_639-2.CS"
+msgstr "Ikinyaceke"
+
+msgid "ISO_639-2.CV"
+msgstr "Igicuvashi"
+
+msgid "ISO_639-2.CY"
+msgstr "Ikiwelishi"
+
+msgid "ISO_639-2.DA"
+msgstr "Ikidanwa"
+
+msgid "ISO_639-2.DE"
+msgstr "Ikidage"
+
+msgid "ISO_639-2.DZ"
+msgstr "Ikinyazongika"
+
+msgid "ISO_639-2.EE"
+msgstr "Icyewe"
+
+msgid "ISO_639-2.EL"
+msgstr "Ikigereki, Gishya (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Icyongereza"
+
+msgid "ISO_639-2.EO"
+msgstr "Icyesiperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Icyesitoniya"
+
+msgid "ISO_639-2.EU"
+msgstr "Ikibasike"
+
+msgid "ISO_639-2.FA"
+msgstr "Ikinyaperisi"
+
+msgid "ISO_639-2.FF"
+msgstr "Igifurahe"
+
+msgid "ISO_639-2.FI"
+msgstr "Ikinyafinilande"
+
+msgid "ISO_639-2.FJ"
+msgstr "Igifijiyani"
+
+msgid "ISO_639-2.FO"
+msgstr "Igifero"
+
+msgid "ISO_639-2.FR"
+msgstr "Igifaransa"
+
+msgid "ISO_639-2.FY"
+msgstr "Igifuriziyani"
+
+msgid "ISO_639-2.GA"
+msgstr "Ikinyirilande"
+
+msgid "ISO_639-2.GD"
+msgstr "Ikigalike; Ikinyasikotilande"
+
+msgid "ISO_639-2.GL"
+msgstr "Ikigalegani"
+
+msgid "ISO_639-2.GN"
+msgstr "Ikigwarani"
+
+msgid "ISO_639-2.GU"
+msgstr "Ikigujarati"
+
+msgid "ISO_639-2.GV"
+msgstr "Ikimangisi"
+
+msgid "ISO_639-2.HA"
+msgstr "Igihawusa"
+
+msgid "ISO_639-2.HE"
+msgstr "Igiheburayo"
+
+msgid "ISO_639-2.HI"
+msgstr "Igihindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Igihiri"
+
+msgid "ISO_639-2.HR"
+msgstr "Ikinyakorowasi"
+
+msgid "ISO_639-2.HT"
+msgstr "Ikinyahayiti; Igikerewole nyahayiti"
+
+msgid "ISO_639-2.HU"
+msgstr "Ikinyahangariya"
+
+msgid "ISO_639-2.HY"
+msgstr "Icyarumeniya"
+
+msgid "ISO_639-2.HZ"
+msgstr "Igiherero"
+
+msgid "ISO_639-2.ID"
+msgstr "Ikinyendonisiya"
+
+msgid "ISO_639-2.IE"
+msgstr "Ikinyenterilinge"
+
+msgid "ISO_639-2.IG"
+msgstr "Ikigibo"
+
+msgid "ISO_639-2.II"
+msgstr "Igisicuwanayi"
+
+msgid "ISO_639-2.IK"
+msgstr "Ikinupiyake"
+
+msgid "ISO_639-2.IO"
+msgstr "Ikido"
+
+msgid "ISO_639-2.IS"
+msgstr "Ikinyisilande"
+
+msgid "ISO_639-2.IT"
+msgstr "Igitaliyani"
+
+msgid "ISO_639-2.IU"
+msgstr "Ikinukititutu"
+
+msgid "ISO_639-2.JA"
+msgstr "Ikiyapani"
+
+msgid "ISO_639-2.JV"
+msgstr "Ikijavani"
+
+msgid "ISO_639-2.KA"
+msgstr "Ikinyageworugiya"
+
+msgid "ISO_639-2.KG"
+msgstr "Ikinyakongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Ikikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Igikwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "Igikazaki"
+
+msgid "ISO_639-2.KN"
+msgstr "Iginyakanada"
+
+msgid "ISO_639-2.KO"
+msgstr "Igikoreya"
+
+msgid "ISO_639-2.KR"
+msgstr "Igikanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "Igikashimiri"
+
+msgid "ISO_639-2.KU"
+msgstr "Igikurudishi"
+
+msgid "ISO_639-2.KV"
+msgstr "Igikomi"
+
+msgid "ISO_639-2.KW"
+msgstr "Igikorunishe"
+
+msgid "ISO_639-2.KY"
+msgstr "Ikirigizi"
+
+msgid "ISO_639-2.LA"
+msgstr "Ikilatini"
+
+msgid "ISO_639-2.LB"
+msgstr "Ikinyalugizamburu"
+
+msgid "ISO_639-2.LG"
+msgstr "Ikiganda"
+
+msgid "ISO_639-2.LN"
+msgstr "Ilingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Ikilawo"
+
+msgid "ISO_639-2.LT"
+msgstr "Ikinyalitwani"
+
+msgid "ISO_639-2.LU"
+msgstr "Ikiluba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Ikilativiya"
+
+msgid "ISO_639-2.MG"
+msgstr "Ikimaragasi"
+
+msgid "ISO_639-2.MH"
+msgstr "Ikimarishali"
+
+msgid "ISO_639-2.MI"
+msgstr "Ikimawori"
+
+msgid "ISO_639-2.MK"
+msgstr "Ikinyamacedoniya"
+
+msgid "ISO_639-2.ML"
+msgstr "Ikimalayalamu"
+
+msgid "ISO_639-2.MN"
+msgstr "Ikinyamongoliya"
+
+msgid "ISO_639-2.MR"
+msgstr "Ikimarati"
+
+msgid "ISO_639-2.MS"
+msgstr "Ikimalayi"
+
+msgid "ISO_639-2.MT"
+msgstr "Ikinyamalite"
+
+msgid "ISO_639-2.MY"
+msgstr "Ikibarumi"
+
+msgid "ISO_639-2.NA"
+msgstr "Ikinawuru"
+
+msgid "ISO_639-2.ND"
+msgstr "Ikindebele, amajyaruguru"
+
+msgid "ISO_639-2.NE"
+msgstr "Ikinyanepale"
+
+msgid "ISO_639-2.NG"
+msgstr "Ikindonga"
+
+msgid "ISO_639-2.NN"
+msgstr "Ikinyanoruveji nayinorusiki"
+
+msgid "ISO_639-2.NO"
+msgstr "Ikinyanoruveji"
+
+msgid "ISO_639-2.NR"
+msgstr "Ikindebele, Amajyepfo"
+
+msgid "ISO_639-2.NV"
+msgstr "Ikinavaho"
+
+msgid "ISO_639-2.NY"
+msgstr "Igicewa; Igicicewa; Ikinyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Icyogisitani (nyuma 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Icyojibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "Icyoromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Icyoriya"
+
+msgid "ISO_639-2.OS"
+msgstr "Icyosetiyani"
+
+msgid "ISO_639-2.PA"
+msgstr "Igipanjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Igipali"
+
+msgid "ISO_639-2.PL"
+msgstr "Ikinyapolonye"
+
+msgid "ISO_639-2.PS"
+msgstr "Igipushito"
+
+msgid "ISO_639-2.PT"
+msgstr "Igiporutigali"
+
+msgid "ISO_639-2.QU"
+msgstr "Igikwecuwa"
+
+msgid "ISO_639-2.RM"
+msgstr "Ikiromani"
+
+msgid "ISO_639-2.RN"
+msgstr "Ikirundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Ikinyamoludavi"
+
+msgid "ISO_639-2.RU"
+msgstr "Ikirusiya"
+
+msgid "ISO_639-2.RW"
+msgstr "Ikinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Igisansikiriti"
+
+msgid "ISO_639-2.SC"
+msgstr "Ikinyasaridini"
+
+msgid "ISO_639-2.SD"
+msgstr "Igisindi"
+
+msgid "ISO_639-2.SE"
+msgstr "Igisami amajyaruguru"
+
+msgid "ISO_639-2.SG"
+msgstr "Igisango"
+
+msgid "ISO_639-2.SI"
+msgstr "Ikinyasinali"
+
+msgid "ISO_639-2.SK"
+msgstr "Igisilovake"
+
+msgid "ISO_639-2.SL"
+msgstr "Ikinyasiloveniya"
+
+msgid "ISO_639-2.SM"
+msgstr "Igisamowani"
+
+msgid "ISO_639-2.SN"
+msgstr "Igishona"
+
+msgid "ISO_639-2.SO"
+msgstr "Igisomali"
+
+msgid "ISO_639-2.SQ"
+msgstr "Ikinyalubaniya"
+
+msgid "ISO_639-2.SR"
+msgstr "Ikinyaseribiya"
+
+msgid "ISO_639-2.SS"
+msgstr "Igiswati"
+
+msgid "ISO_639-2.ST"
+msgstr "Igisotho, Amajyepfo"
+
+msgid "ISO_639-2.SU"
+msgstr "Ikinyasundani"
+
+msgid "ISO_639-2.SV"
+msgstr "Ikinyasuwede"
+
+msgid "ISO_639-2.SW"
+msgstr "Igiswayili"
+
+msgid "ISO_639-2.TA"
+msgstr "Igitamili"
+
+msgid "ISO_639-2.TE"
+msgstr "Igitelugu"
+
+msgid "ISO_639-2.TG"
+msgstr "Igitajika"
+
+msgid "ISO_639-2.TH"
+msgstr "Igitayi"
+
+msgid "ISO_639-2.TI"
+msgstr "Igitigirinya"
+
+msgid "ISO_639-2.TK"
+msgstr "Igiturukimeni"
+
+msgid "ISO_639-2.TL"
+msgstr "Igitagaloge"
+
+msgid "ISO_639-2.TN"
+msgstr "Igitswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Igitonga (Ibirwa bya Tonga)"
+
+msgid "ISO_639-2.TR"
+msgstr "Ikinyaturukiya"
+
+msgid "ISO_639-2.TS"
+msgstr "Igitsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Igitatari"
+
+msgid "ISO_639-2.TW"
+msgstr "Igitwi"
+
+msgid "ISO_639-2.TY"
+msgstr "Ikinyatahiti"
+
+msgid "ISO_639-2.UG"
+msgstr "Icyuyiguru"
+
+msgid "ISO_639-2.UK"
+msgstr "Ikinya-ikarayini"
+
+msgid "ISO_639-2.UR"
+msgstr "Icyuridu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Icyuzubeka"
+
+msgid "ISO_639-2.VE"
+msgstr "Ikivenda"
+
+msgid "ISO_639-2.VI"
+msgstr "Ikinyaviyetinamu"
+
+msgid "ISO_639-2.VO"
+msgstr "Ikivolapuke"
+
+msgid "ISO_639-2.WA"
+msgstr "Ikiwaluni"
+
+msgid "ISO_639-2.WO"
+msgstr "Ikiwolofu"
+
+msgid "ISO_639-2.XH"
+msgstr "Ikigisosa"
+
+msgid "ISO_639-2.YI"
+msgstr "Ikiyidishi"
+
+msgid "ISO_639-2.YO"
+msgstr "Ikiyoruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Igicuwange; Ikizwange"
+
+msgid "ISO_639-2.ZH"
+msgstr "Igishinwa"
+
+msgid "ISO_639-2.ZU"
+msgstr "Ikizulu"

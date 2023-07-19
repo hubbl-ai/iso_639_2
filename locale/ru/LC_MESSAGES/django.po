@@ -1,0 +1,583 @@
+# translation of iso_639-3.15.ru.po to Russian
+# Translation of ISO-639 (language names) to Russian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#
+# GOST 7.75-97
+# http://www.bibliography.ru/method/gosts/7-75/7_75.htm
+# http://etheo.h10.ru/iran01.htm
+# http://etheo.h10.ru/omot01.htm
+# http://www.rba.ru/rusmarc/2_red/supa/supa21.htm
+# http://www.rba.ru/rusmarc/2_red/supa/supa22.htm
+#
+# Nikolai Prokoschenko <nikolai@prokoschenko.de>, 2004.
+# Mikhail Zabaluev <mhz@altlinux.org>, 2006.
+# Yuri Kozlov <yuray@komyakino.ru>, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2012, 2013.
+# Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-06-23 10:08+0300\n"
+"Last-Translator: Dmitry Sivachenko <trtrmitya@gmail.com>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "афар"
+
+msgid "ISO_639-2.AB"
+msgstr "абхазский"
+
+msgid "ISO_639-2.AE"
+msgstr "авестийский"
+
+msgid "ISO_639-2.AF"
+msgstr "африкаанс"
+
+msgid "ISO_639-2.AK"
+msgstr "акан"
+
+msgid "ISO_639-2.AM"
+msgstr "амхарский"
+
+msgid "ISO_639-2.AN"
+msgstr "арагонский"
+
+msgid "ISO_639-2.AR"
+msgstr "арабский"
+
+msgid "ISO_639-2.AS"
+msgstr "ассамский"
+
+msgid "ISO_639-2.AV"
+msgstr "аварский"
+
+msgid "ISO_639-2.AY"
+msgstr "аймара"
+
+msgid "ISO_639-2.AZ"
+msgstr "азербайджанский"
+
+msgid "ISO_639-2.BA"
+msgstr "башкирский"
+
+msgid "ISO_639-2.BE"
+msgstr "белорусский"
+
+msgid "ISO_639-2.BG"
+msgstr "болгарский"
+
+msgid "ISO_639-2.BH"
+msgstr "бихарские языки"
+
+msgid "ISO_639-2.BI"
+msgstr "бислама"
+
+msgid "ISO_639-2.BM"
+msgstr "бамбара"
+
+msgid "ISO_639-2.BN"
+msgstr "бангла"
+
+msgid "ISO_639-2.BO"
+msgstr "тибетский"
+
+msgid "ISO_639-2.BR"
+msgstr "бретонский"
+
+msgid "ISO_639-2.BS"
+msgstr "боснийский"
+
+msgid "ISO_639-2.CA"
+msgstr "каталанский; валенсийский"
+
+msgid "ISO_639-2.CE"
+msgstr "чеченский"
+
+msgid "ISO_639-2.CH"
+msgstr "чаморро"
+
+msgid "ISO_639-2.CO"
+msgstr "корсиканский"
+
+msgid "ISO_639-2.CR"
+msgstr "кри"
+
+msgid "ISO_639-2.CS"
+msgstr "чешский"
+
+msgid "ISO_639-2.CV"
+msgstr "чувашский"
+
+msgid "ISO_639-2.CY"
+msgstr "валлийский"
+
+msgid "ISO_639-2.DA"
+msgstr "датский"
+
+msgid "ISO_639-2.DE"
+msgstr "немецкий"
+
+msgid "ISO_639-2.DV"
+msgstr "дивехи; дхивехи; мальдивский"
+
+msgid "ISO_639-2.DZ"
+msgstr "дзонг-кэ"
+
+msgid "ISO_639-2.EE"
+msgstr "эве"
+
+msgid "ISO_639-2.EL"
+msgstr "греческий (с 1453)"
+
+msgid "ISO_639-2.EN"
+msgstr "английский"
+
+msgid "ISO_639-2.EO"
+msgstr "эсперанто"
+
+msgid "ISO_639-2.ES"
+msgstr "испанский; кастильский"
+
+msgid "ISO_639-2.ET"
+msgstr "эстонский"
+
+msgid "ISO_639-2.EU"
+msgstr "баскский"
+
+msgid "ISO_639-2.FA"
+msgstr "персидский"
+
+msgid "ISO_639-2.FF"
+msgstr "фулах"
+
+msgid "ISO_639-2.FI"
+msgstr "финский"
+
+msgid "ISO_639-2.FJ"
+msgstr "фиджи"
+
+msgid "ISO_639-2.FO"
+msgstr "фарерский"
+
+msgid "ISO_639-2.FR"
+msgstr "французский"
+
+msgid "ISO_639-2.FY"
+msgstr "западный фризский"
+
+msgid "ISO_639-2.GA"
+msgstr "ирландский"
+
+msgid "ISO_639-2.GD"
+msgstr "гаэльский; шотландский гаэльский"
+
+msgid "ISO_639-2.GL"
+msgstr "галисийский"
+
+msgid "ISO_639-2.GN"
+msgstr "гуарани"
+
+msgid "ISO_639-2.GU"
+msgstr "гуджарати"
+
+msgid "ISO_639-2.GV"
+msgstr "мэнский"
+
+msgid "ISO_639-2.HA"
+msgstr "хауса"
+
+msgid "ISO_639-2.HE"
+msgstr "иврит"
+
+msgid "ISO_639-2.HI"
+msgstr "хинди"
+
+msgid "ISO_639-2.HO"
+msgstr "хиримоту"
+
+msgid "ISO_639-2.HR"
+msgstr "хорватский"
+
+msgid "ISO_639-2.HT"
+msgstr "гаитянский; гаитянский креольский"
+
+msgid "ISO_639-2.HU"
+msgstr "венгерский"
+
+msgid "ISO_639-2.HY"
+msgstr "армянский"
+
+msgid "ISO_639-2.HZ"
+msgstr "гереро"
+
+msgid "ISO_639-2.IA"
+msgstr "интерлингва (Ассоциация международного вспомогательного языка)"
+
+msgid "ISO_639-2.ID"
+msgstr "индонезийский"
+
+msgid "ISO_639-2.IE"
+msgstr "интерлингва; окциденталь"
+
+msgid "ISO_639-2.IG"
+msgstr "игбо"
+
+msgid "ISO_639-2.II"
+msgstr "сычуань; носу"
+
+msgid "ISO_639-2.IK"
+msgstr "инупиак"
+
+msgid "ISO_639-2.IO"
+msgstr "идо"
+
+msgid "ISO_639-2.IS"
+msgstr "исландский"
+
+msgid "ISO_639-2.IT"
+msgstr "итальянский"
+
+msgid "ISO_639-2.IU"
+msgstr "инуктитут"
+
+msgid "ISO_639-2.JA"
+msgstr "японский"
+
+msgid "ISO_639-2.JV"
+msgstr "яванский"
+
+msgid "ISO_639-2.KA"
+msgstr "грузинский"
+
+msgid "ISO_639-2.KG"
+msgstr "конго"
+
+msgid "ISO_639-2.KI"
+msgstr "кикуйю; гикуйю"
+
+msgid "ISO_639-2.KJ"
+msgstr "киньяма; кваньяма"
+
+msgid "ISO_639-2.KK"
+msgstr "казахский"
+
+msgid "ISO_639-2.KL"
+msgstr "калааллисут; гренландский"
+
+msgid "ISO_639-2.KM"
+msgstr "кхмерский центральный"
+
+msgid "ISO_639-2.KN"
+msgstr "каннада"
+
+msgid "ISO_639-2.KO"
+msgstr "корейский"
+
+msgid "ISO_639-2.KR"
+msgstr "канури"
+
+msgid "ISO_639-2.KS"
+msgstr "кашмири"
+
+msgid "ISO_639-2.KU"
+msgstr "курдский"
+
+msgid "ISO_639-2.KV"
+msgstr "коми"
+
+msgid "ISO_639-2.KW"
+msgstr "корнский"
+
+msgid "ISO_639-2.KY"
+msgstr "киргизский"
+
+msgid "ISO_639-2.LA"
+msgstr "латынь"
+
+msgid "ISO_639-2.LB"
+msgstr "люксембургский"
+
+msgid "ISO_639-2.LG"
+msgstr "ганда"
+
+msgid "ISO_639-2.LI"
+msgstr "лимбурганский;лимбургенский; лимбургийский"
+
+msgid "ISO_639-2.LN"
+msgstr "лингала"
+
+msgid "ISO_639-2.LO"
+msgstr "лаосский"
+
+msgid "ISO_639-2.LT"
+msgstr "литовский"
+
+msgid "ISO_639-2.LU"
+msgstr "луба-катанга"
+
+msgid "ISO_639-2.LV"
+msgstr "латышский"
+
+msgid "ISO_639-2.MG"
+msgstr "малагасийский"
+
+msgid "ISO_639-2.MH"
+msgstr "маршальский"
+
+msgid "ISO_639-2.MI"
+msgstr "маори"
+
+msgid "ISO_639-2.MK"
+msgstr "македонский"
+
+msgid "ISO_639-2.ML"
+msgstr "малаялам"
+
+msgid "ISO_639-2.MN"
+msgstr "монгольский"
+
+msgid "ISO_639-2.MR"
+msgstr "маратхи"
+
+msgid "ISO_639-2.MS"
+msgstr "малайский"
+
+msgid "ISO_639-2.MT"
+msgstr "мальтийский"
+
+msgid "ISO_639-2.MY"
+msgstr "бирманский"
+
+msgid "ISO_639-2.NA"
+msgstr "науру"
+
+msgid "ISO_639-2.NB"
+msgstr "букмол, норвежский; норвежский букмол"
+
+msgid "ISO_639-2.ND"
+msgstr "северный ндебеле"
+
+msgid "ISO_639-2.NE"
+msgstr "непальский"
+
+msgid "ISO_639-2.NG"
+msgstr "ндонга"
+
+msgid "ISO_639-2.NL"
+msgstr "голландский; фламандский"
+
+msgid "ISO_639-2.NN"
+msgstr "норвежский нюнорск"
+
+msgid "ISO_639-2.NO"
+msgstr "норвежский"
+
+msgid "ISO_639-2.NR"
+msgstr "южный ндебеле"
+
+msgid "ISO_639-2.NV"
+msgstr "навахо"
+
+msgid "ISO_639-2.NY"
+msgstr "чичева; чева; ньянджа"
+
+msgid "ISO_639-2.OC"
+msgstr "окситанский (после 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "оджибва"
+
+msgid "ISO_639-2.OM"
+msgstr "оромо"
+
+msgid "ISO_639-2.OR"
+msgstr "ория"
+
+msgid "ISO_639-2.OS"
+msgstr "осетинский"
+
+msgid "ISO_639-2.PA"
+msgstr "панджаби; пунджаби"
+
+msgid "ISO_639-2.PI"
+msgstr "пали"
+
+msgid "ISO_639-2.PL"
+msgstr "польский"
+
+msgid "ISO_639-2.PS"
+msgstr "пушту; пашту"
+
+msgid "ISO_639-2.PT"
+msgstr "португальский"
+
+msgid "ISO_639-2.QU"
+msgstr "кечуа"
+
+msgid "ISO_639-2.RM"
+msgstr "романшский"
+
+msgid "ISO_639-2.RN"
+msgstr "рунди"
+
+msgid "ISO_639-2.RO"
+msgstr "молдавский"
+
+msgid "ISO_639-2.RU"
+msgstr "русский"
+
+msgid "ISO_639-2.RW"
+msgstr "киньяруанда"
+
+msgid "ISO_639-2.SA"
+msgstr "санскрит"
+
+msgid "ISO_639-2.SC"
+msgstr "сардинский"
+
+msgid "ISO_639-2.SD"
+msgstr "синдхи"
+
+msgid "ISO_639-2.SE"
+msgstr "северосаамский"
+
+msgid "ISO_639-2.SG"
+msgstr "санго"
+
+msgid "ISO_639-2.SI"
+msgstr "синхала; сингальский"
+
+msgid "ISO_639-2.SK"
+msgstr "словацкий"
+
+msgid "ISO_639-2.SL"
+msgstr "словенский"
+
+msgid "ISO_639-2.SM"
+msgstr "самоанский"
+
+msgid "ISO_639-2.SN"
+msgstr "шона"
+
+msgid "ISO_639-2.SO"
+msgstr "сомали"
+
+msgid "ISO_639-2.SQ"
+msgstr "албанский"
+
+msgid "ISO_639-2.SR"
+msgstr "сербский"
+
+msgid "ISO_639-2.SS"
+msgstr "свази"
+
+msgid "ISO_639-2.ST"
+msgstr "сото, южный"
+
+msgid "ISO_639-2.SU"
+msgstr "сунданский"
+
+msgid "ISO_639-2.SV"
+msgstr "шведский"
+
+msgid "ISO_639-2.SW"
+msgstr "суахили"
+
+msgid "ISO_639-2.TA"
+msgstr "тамильский"
+
+msgid "ISO_639-2.TE"
+msgstr "телугу"
+
+msgid "ISO_639-2.TG"
+msgstr "таджикский"
+
+msgid "ISO_639-2.TH"
+msgstr "тайский"
+
+msgid "ISO_639-2.TI"
+msgstr "тигринья"
+
+msgid "ISO_639-2.TK"
+msgstr "туркменский"
+
+msgid "ISO_639-2.TL"
+msgstr "тагальский"
+
+msgid "ISO_639-2.TN"
+msgstr "тсвана"
+
+msgid "ISO_639-2.TO"
+msgstr "тонга (острова Тонга)"
+
+msgid "ISO_639-2.TR"
+msgstr "турецкий"
+
+msgid "ISO_639-2.TS"
+msgstr "тсонга"
+
+msgid "ISO_639-2.TT"
+msgstr "татарский"
+
+msgid "ISO_639-2.TW"
+msgstr "тви"
+
+msgid "ISO_639-2.TY"
+msgstr "таитянский"
+
+msgid "ISO_639-2.UG"
+msgstr "уйгурский"
+
+msgid "ISO_639-2.UK"
+msgstr "украинский"
+
+msgid "ISO_639-2.UR"
+msgstr "урду"
+
+msgid "ISO_639-2.UZ"
+msgstr "узбекский"
+
+msgid "ISO_639-2.VE"
+msgstr "венда"
+
+msgid "ISO_639-2.VI"
+msgstr "вьетнамский"
+
+msgid "ISO_639-2.VO"
+msgstr "волапюк"
+
+msgid "ISO_639-2.WA"
+msgstr "валлонский"
+
+msgid "ISO_639-2.WO"
+msgstr "волоф"
+
+msgid "ISO_639-2.XH"
+msgstr "коса"
+
+msgid "ISO_639-2.YI"
+msgstr "идиш"
+
+msgid "ISO_639-2.YO"
+msgstr "йоруба"
+
+msgid "ISO_639-2.ZA"
+msgstr "чжуань"
+
+msgid "ISO_639-2.ZH"
+msgstr "китайский"
+
+msgid "ISO_639-2.ZU"
+msgstr "зулу"

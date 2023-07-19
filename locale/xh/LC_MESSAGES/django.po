@@ -1,0 +1,294 @@
+# Translation of ISO-639 (language names) to Xhosa
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Antoinette Dekeni <antoinette@translate.org.za>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-12-10 14:55SAST\n"
+"Last-Translator: Antoinette Dekeni <antoinette@translate.org.za>\n"
+"Language-Team: Xhosa <xhosa@translate.org.za>\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.5\n"
+
+msgid "ISO_639-2.AB"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-2.AF"
+msgstr "isiBhulu"
+
+msgid "ISO_639-2.AK"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-2.AM"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AR"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AV"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AZ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-2.BE"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-2.BG"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-2.BH"
+msgstr "isiBosnian"
+
+msgid "ISO_639-2.BR"
+msgstr "isiBreton"
+
+msgid "ISO_639-2.BS"
+msgstr "isiRoma"
+
+msgid "ISO_639-2.CE"
+msgstr "isiCzech"
+
+msgid "ISO_639-2.CR"
+msgstr "isiGrike"
+
+msgid "ISO_639-2.CS"
+msgstr "isiCzech"
+
+msgid "ISO_639-2.CY"
+msgstr "isiWelsh"
+
+msgid "ISO_639-2.DA"
+msgstr "isiDanish"
+
+msgid "ISO_639-2.DE"
+msgstr "isiJamani"
+
+msgid "ISO_639-2.EN"
+msgstr "isiNgesi (UK)"
+
+msgid "ISO_639-2.EO"
+msgstr "isi-Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "isiPanish"
+
+msgid "ISO_639-2.ET"
+msgstr "isi-Estonian"
+
+msgid "ISO_639-2.EU"
+msgstr "isiBasque"
+
+msgid "ISO_639-2.FA"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-2.FI"
+msgstr "isiFinnish"
+
+msgid "ISO_639-2.FR"
+msgstr "isiFrentshi"
+
+msgid "ISO_639-2.FY"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-2.GA"
+msgstr "isi-Irish"
+
+msgid "ISO_639-2.GL"
+msgstr "isiGalacian"
+
+msgid "ISO_639-2.GN"
+msgstr "isiBulgarian"
+
+msgid "ISO_639-2.HE"
+msgstr "isiHebhere"
+
+msgid "ISO_639-2.HO"
+msgstr "isiTurkish"
+
+msgid "ISO_639-2.HR"
+msgstr "isiCroatian"
+
+msgid "ISO_639-2.HU"
+msgstr "isiHungarian"
+
+msgid "ISO_639-2.HY"
+msgstr "isiRoma"
+
+msgid "ISO_639-2.HZ"
+msgstr "isiHebhere"
+
+msgid "ISO_639-2.ID"
+msgstr "isiBosnian"
+
+msgid "ISO_639-2.II"
+msgstr "Lithuania"
+
+msgid "ISO_639-2.IS"
+msgstr "isi-Icelandic"
+
+msgid "ISO_639-2.IT"
+msgstr "isiTaliyane"
+
+msgid "ISO_639-2.JA"
+msgstr "isiJaphani"
+
+msgid "ISO_639-2.JV"
+msgstr "isiJaphani"
+
+msgid "ISO_639-2.KA"
+msgstr "isiJamani"
+
+msgid "ISO_639-2.KO"
+msgstr "isiKorea"
+
+msgid "ISO_639-2.KR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-2.KU"
+msgstr "isiTurkish"
+
+msgid "ISO_639-2.KW"
+msgstr "isi-Irish"
+
+msgid "ISO_639-2.LA"
+msgstr "isiLatvian"
+
+msgid "ISO_639-2.LT"
+msgstr "Lithuania"
+
+msgid "ISO_639-2.LV"
+msgstr "isiLatvian"
+
+msgid "ISO_639-2.MH"
+msgstr "isiMaltese"
+
+msgid "ISO_639-2.MI"
+msgstr "isiMaori"
+
+msgid "ISO_639-2.MK"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-2.MN"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-2.MR"
+msgstr "isiMaori"
+
+msgid "ISO_639-2.MT"
+msgstr "isiMaltese"
+
+msgid "ISO_639-2.NG"
+msgstr "isiBosnian"
+
+msgid "ISO_639-2.NN"
+msgstr "isiNorwegian (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "isiKorea"
+
+msgid "ISO_639-2.OS"
+msgstr "isiRashiya"
+
+msgid "ISO_639-2.PI"
+msgstr "isiPolish"
+
+msgid "ISO_639-2.PL"
+msgstr "isiPolish"
+
+msgid "ISO_639-2.PT"
+msgstr "isiPhuthukesi"
+
+msgid "ISO_639-2.RM"
+msgstr "isiRoma"
+
+msgid "ISO_639-2.RO"
+msgstr "isiLatvian"
+
+msgid "ISO_639-2.RU"
+msgstr "isiRashiya"
+
+msgid "ISO_639-2.SC"
+msgstr "isiMacedonian"
+
+msgid "ISO_639-2.SI"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-2.SK"
+msgstr "isiSlovak"
+
+msgid "ISO_639-2.SL"
+msgstr "isiSlovenian"
+
+msgid "ISO_639-2.SQ"
+msgstr "isi-Azerbaijani"
+
+msgid "ISO_639-2.SR"
+msgstr "isiSerbian"
+
+msgid "ISO_639-2.SS"
+msgstr "isiSwati"
+
+msgid "ISO_639-2.SV"
+msgstr "isiSwedish"
+
+msgid "ISO_639-2.SW"
+msgstr "isiSwahili"
+
+msgid "ISO_639-2.TA"
+msgstr "isiTamil"
+
+msgid "ISO_639-2.TG"
+msgstr "isiThai"
+
+msgid "ISO_639-2.TH"
+msgstr "isiThai"
+
+msgid "ISO_639-2.TI"
+msgstr "isiTurkish"
+
+msgid "ISO_639-2.TN"
+msgstr "isiTswana"
+
+msgid "ISO_639-2.TR"
+msgstr "isiTurkish"
+
+msgid "ISO_639-2.TS"
+msgstr "isiTsonga"
+
+msgid "ISO_639-2.TY"
+msgstr "isiLatvian"
+
+msgid "ISO_639-2.UK"
+msgstr "isi-Ukranian"
+
+msgid "ISO_639-2.VE"
+msgstr "isiVenda"
+
+msgid "ISO_639-2.VI"
+msgstr "isiVietnamese"
+
+msgid "ISO_639-2.WA"
+msgstr "isiWalloon"
+
+msgid "ISO_639-2.XH"
+msgstr "isiXhosa"
+
+msgid "ISO_639-2.ZH"
+msgstr "isiTshayina"
+
+msgid "ISO_639-2.ZU"
+msgstr "isiZulu"

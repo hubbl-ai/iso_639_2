@@ -1,0 +1,467 @@
+# Translation of ISO-639 (language names) to Tatar
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-10-21 15:20+0300\n"
+"Last-Translator: Albert Fazlí <tatarish.l10n@gmail.com>\n"
+"Language-Team: Tatarish\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Афарча"
+
+msgid "ISO_639-2.AB"
+msgstr "Абхазча"
+
+msgid "ISO_639-2.AE"
+msgstr "Авестанча"
+
+msgid "ISO_639-2.AF"
+msgstr "Африканча"
+
+msgid "ISO_639-2.AM"
+msgstr "Амһарча"
+
+msgid "ISO_639-2.AR"
+msgstr "Гәрәпчә"
+
+msgid "ISO_639-2.AS"
+msgstr "Ассамесчә"
+
+msgid "ISO_639-2.AY"
+msgstr "Аймарча"
+
+msgid "ISO_639-2.AZ"
+msgstr "Әзерчә"
+
+msgid "ISO_639-2.BA"
+msgstr "Башкортча"
+
+msgid "ISO_639-2.BE"
+msgstr "Беларусча"
+
+msgid "ISO_639-2.BG"
+msgstr "Булgарча"
+
+msgid "ISO_639-2.BH"
+msgstr "Госман телләре"
+
+msgid "ISO_639-2.BI"
+msgstr "Бисламача"
+
+msgid "ISO_639-2.BN"
+msgstr "Бенgалча"
+
+msgid "ISO_639-2.BO"
+msgstr "Тибетчә"
+
+msgid "ISO_639-2.BR"
+msgstr "Бретонча"
+
+msgid "ISO_639-2.BS"
+msgstr "Босничә"
+
+msgid "ISO_639-2.CE"
+msgstr "Чәчәнчә"
+
+msgid "ISO_639-2.CH"
+msgstr "Чаморроча"
+
+msgid "ISO_639-2.CO"
+msgstr "Корсикча"
+
+msgid "ISO_639-2.CS"
+msgstr "Чехчә"
+
+msgid "ISO_639-2.CV"
+msgstr "Чуаща"
+
+msgid "ISO_639-2.CY"
+msgstr "Велщә"
+
+msgid "ISO_639-2.DA"
+msgstr "Данча"
+
+msgid "ISO_639-2.DE"
+msgstr "Алманча"
+
+msgid "ISO_639-2.DZ"
+msgstr "Дзонgхача"
+
+msgid "ISO_639-2.EN"
+msgstr "İнgлизчә"
+
+msgid "ISO_639-2.EO"
+msgstr "Есперанто"
+
+msgid "ISO_639-2.ET"
+msgstr "Естонча"
+
+msgid "ISO_639-2.EU"
+msgstr "Баскча"
+
+msgid "ISO_639-2.FA"
+msgstr "Фарсыча"
+
+msgid "ISO_639-2.FI"
+msgstr "Финчә"
+
+msgid "ISO_639-2.FJ"
+msgstr "Фижичә"
+
+msgid "ISO_639-2.FO"
+msgstr "Фаросча"
+
+msgid "ISO_639-2.FR"
+msgstr "Франсча"
+
+msgid "ISO_639-2.FY"
+msgstr "Фрисчә"
+
+msgid "ISO_639-2.GA"
+msgstr "İрищә"
+
+msgid "ISO_639-2.GL"
+msgstr "Gалисчә"
+
+msgid "ISO_639-2.GN"
+msgstr "Gуаранча"
+
+msgid "ISO_639-2.GU"
+msgstr "Gужаратча"
+
+msgid "ISO_639-2.GV"
+msgstr "Манксча"
+
+msgid "ISO_639-2.HA"
+msgstr "Һаусча"
+
+msgid "ISO_639-2.HE"
+msgstr "Йәһүдчә"
+
+msgid "ISO_639-2.HI"
+msgstr "Һиндчә"
+
+msgid "ISO_639-2.HR"
+msgstr "Кроатча"
+
+msgid "ISO_639-2.HU"
+msgstr "Маҗарча"
+
+msgid "ISO_639-2.HY"
+msgstr "Әрмәнчә"
+
+msgid "ISO_639-2.HZ"
+msgstr "Һерероча"
+
+msgid "ISO_639-2.ID"
+msgstr "İндонесчә"
+
+msgid "ISO_639-2.IE"
+msgstr "İнтерлинgуе"
+
+msgid "ISO_639-2.IK"
+msgstr "İнупиакча"
+
+msgid "ISO_639-2.IO"
+msgstr "İдоча"
+
+msgid "ISO_639-2.IS"
+msgstr "İсландча"
+
+msgid "ISO_639-2.IT"
+msgstr "İталча"
+
+msgid "ISO_639-2.IU"
+msgstr "İнуктитутча"
+
+msgid "ISO_639-2.JA"
+msgstr "Жапанча"
+
+msgid "ISO_639-2.JV"
+msgstr "Жавача"
+
+msgid "ISO_639-2.KA"
+msgstr "Gөрҗечә"
+
+msgid "ISO_639-2.KI"
+msgstr "Кикуюча"
+
+msgid "ISO_639-2.KK"
+msgstr "Казакча"
+
+msgid "ISO_639-2.KN"
+msgstr "Каннадча"
+
+msgid "ISO_639-2.KO"
+msgstr "Корейчә"
+
+msgid "ISO_639-2.KS"
+msgstr "Кашмирчә"
+
+msgid "ISO_639-2.KU"
+msgstr "Көрдчә"
+
+msgid "ISO_639-2.KV"
+msgstr "Комичә"
+
+msgid "ISO_639-2.KW"
+msgstr "Корнищә"
+
+msgid "ISO_639-2.KY"
+msgstr "Кыргызча"
+
+msgid "ISO_639-2.LA"
+msgstr "Латынча"
+
+msgid "ISO_639-2.LB"
+msgstr "Лүксембурgча"
+
+msgid "ISO_639-2.LN"
+msgstr "Линgалача"
+
+msgid "ISO_639-2.LO"
+msgstr "Лаоча"
+
+msgid "ISO_639-2.LT"
+msgstr "Литчә"
+
+msgid "ISO_639-2.LV"
+msgstr "Латча"
+
+msgid "ISO_639-2.MG"
+msgstr "Малаgасча"
+
+msgid "ISO_639-2.MH"
+msgstr "Маршаллча"
+
+msgid "ISO_639-2.MI"
+msgstr "Маорича"
+
+msgid "ISO_639-2.MK"
+msgstr "Македонча"
+
+msgid "ISO_639-2.ML"
+msgstr "Малаяламча"
+
+msgid "ISO_639-2.MN"
+msgstr "Моголча"
+
+msgid "ISO_639-2.MR"
+msgstr "Маратча"
+
+msgid "ISO_639-2.MS"
+msgstr "Малайча"
+
+msgid "ISO_639-2.MT"
+msgstr "Малтесчә"
+
+msgid "ISO_639-2.MY"
+msgstr "Бурмесчә"
+
+msgid "ISO_639-2.NA"
+msgstr "Науруча"
+
+msgid "ISO_639-2.ND"
+msgstr "Ндебелечә, Төняк"
+
+msgid "ISO_639-2.NE"
+msgstr "Непалча"
+
+msgid "ISO_639-2.NG"
+msgstr "Ндонgача"
+
+msgid "ISO_639-2.NN"
+msgstr "Норвежчә (Нйнорск)"
+
+msgid "ISO_639-2.NO"
+msgstr "Норвежчә"
+
+msgid "ISO_639-2.NR"
+msgstr "Ндебелечә, Көняк"
+
+msgid "ISO_639-2.OM"
+msgstr "Оромоча"
+
+msgid "ISO_639-2.OR"
+msgstr "Орияча"
+
+msgid "ISO_639-2.OS"
+msgstr "Оссетинчә"
+
+msgid "ISO_639-2.PA"
+msgstr "Пунжабча"
+
+msgid "ISO_639-2.PI"
+msgstr "Палчә"
+
+msgid "ISO_639-2.PL"
+msgstr "Полча"
+
+msgid "ISO_639-2.PS"
+msgstr "Пушту Фарсычасы"
+
+msgid "ISO_639-2.PT"
+msgstr "Портуgалча"
+
+msgid "ISO_639-2.QU"
+msgstr "Куечуача"
+
+msgid "ISO_639-2.RM"
+msgstr "Романча"
+
+msgid "ISO_639-2.RN"
+msgstr "Рундчә"
+
+msgid "ISO_639-2.RO"
+msgstr "Молдавча"
+
+msgid "ISO_639-2.RU"
+msgstr "Урысча"
+
+msgid "ISO_639-2.RW"
+msgstr "Кинярвандача"
+
+msgid "ISO_639-2.SA"
+msgstr "Санскритчә"
+
+msgid "ISO_639-2.SC"
+msgstr "Сардинчә"
+
+msgid "ISO_639-2.SD"
+msgstr "Синдиһчә"
+
+msgid "ISO_639-2.SE"
+msgstr "Төняк Сами"
+
+msgid "ISO_639-2.SG"
+msgstr "Санgоча"
+
+msgid "ISO_639-2.SK"
+msgstr "Словакча"
+
+msgid "ISO_639-2.SL"
+msgstr "Словенчә"
+
+msgid "ISO_639-2.SM"
+msgstr "Самоача"
+
+msgid "ISO_639-2.SN"
+msgstr "Шонача"
+
+msgid "ISO_639-2.SO"
+msgstr "Сомаличә"
+
+msgid "ISO_639-2.SQ"
+msgstr "Албанча"
+
+msgid "ISO_639-2.SR"
+msgstr "Сербчә"
+
+msgid "ISO_639-2.SS"
+msgstr "Сватча"
+
+msgid "ISO_639-2.ST"
+msgstr "Сотһоча, Көняк"
+
+msgid "ISO_639-2.SU"
+msgstr "Сунданесчә"
+
+msgid "ISO_639-2.SV"
+msgstr "İсвәҗчә"
+
+msgid "ISO_639-2.SW"
+msgstr "Сваһиличә"
+
+msgid "ISO_639-2.TA"
+msgstr "Тамилча"
+
+msgid "ISO_639-2.TE"
+msgstr "Телуgуча"
+
+msgid "ISO_639-2.TG"
+msgstr "Тажыкча"
+
+msgid "ISO_639-2.TH"
+msgstr "Тайча"
+
+msgid "ISO_639-2.TI"
+msgstr "Тиgриняча"
+
+msgid "ISO_639-2.TK"
+msgstr "Төрекмәнчә"
+
+msgid "ISO_639-2.TL"
+msgstr "Таgалоgча"
+
+msgid "ISO_639-2.TN"
+msgstr "Цванача"
+
+msgid "ISO_639-2.TR"
+msgstr "Төрекчә"
+
+msgid "ISO_639-2.TS"
+msgstr "Цонgача"
+
+msgid "ISO_639-2.TT"
+msgstr "Татарча"
+
+msgid "ISO_639-2.TW"
+msgstr "Твичә"
+
+msgid "ISO_639-2.TY"
+msgstr "Таһитчә"
+
+msgid "ISO_639-2.UG"
+msgstr "Уйгурча"
+
+msgid "ISO_639-2.UK"
+msgstr "Украинча"
+
+msgid "ISO_639-2.UR"
+msgstr "Урдуча"
+
+msgid "ISO_639-2.UZ"
+msgstr "Үзбәкчә"
+
+msgid "ISO_639-2.VE"
+msgstr "Вендача"
+
+msgid "ISO_639-2.VI"
+msgstr "Виетнамча"
+
+msgid "ISO_639-2.VO"
+msgstr "Волапүкчә"
+
+msgid "ISO_639-2.WA"
+msgstr "Валонча"
+
+msgid "ISO_639-2.WO"
+msgstr "Волофча"
+
+msgid "ISO_639-2.XH"
+msgstr "Хосача"
+
+msgid "ISO_639-2.YI"
+msgstr "Йидиш"
+
+msgid "ISO_639-2.YO"
+msgstr "Ёрубача"
+
+msgid "ISO_639-2.ZH"
+msgstr "Чинчә"
+
+msgid "ISO_639-2.ZU"
+msgstr "Зулуча"

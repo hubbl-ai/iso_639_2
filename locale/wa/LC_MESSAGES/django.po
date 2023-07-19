@@ -1,0 +1,571 @@
+# Translation into the walloon language. of ISO 639 Language names
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Pablo Saratxaga <pablo@walon.org> 2001 (translations from galeon)
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Pablo Saratxaga <pablo@walon.org>, 2004, 2007, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2012-06-05 10:15+0200\n"
+"Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
+"Language-Team: Walloon <linux-wa@walon.org>\n"
+"Language: Walloon\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afar"
+
+msgid "ISO_639-2.AB"
+msgstr "Abxhaze"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestan"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "Acanyin"
+
+msgid "ISO_639-2.AM"
+msgstr "Amarike"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonès"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabe"
+
+msgid "ISO_639-2.AS"
+msgstr "Assamès"
+
+msgid "ISO_639-2.AV"
+msgstr "Avarike"
+
+msgid "ISO_639-2.AY"
+msgstr "Aymara"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azeri"
+
+msgid "ISO_639-2.BA"
+msgstr "Bashkir"
+
+msgid "ISO_639-2.BE"
+msgstr "Bielorûsse"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgåre"
+
+msgid "ISO_639-2.BH"
+msgstr "Lingaedjes bihari"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengali"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetin"
+
+msgid "ISO_639-2.BR"
+msgstr "Burton"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosnyin"
+
+msgid "ISO_639-2.CA"
+msgstr "Catalan"
+
+msgid "ISO_639-2.CE"
+msgstr "Tchetchene"
+
+msgid "ISO_639-2.CH"
+msgstr "Tchamoro"
+
+msgid "ISO_639-2.CO"
+msgstr "Corse"
+
+msgid "ISO_639-2.CR"
+msgstr "Cri"
+
+msgid "ISO_639-2.CS"
+msgstr "Tcheke"
+
+msgid "ISO_639-2.CV"
+msgstr "Tchouvache"
+
+msgid "ISO_639-2.CY"
+msgstr "Walès"
+
+msgid "ISO_639-2.DA"
+msgstr "Daenwès"
+
+msgid "ISO_639-2.DE"
+msgstr "Almand"
+
+msgid "ISO_639-2.DV"
+msgstr "Divehi; Maldivyin"
+
+msgid "ISO_639-2.DZ"
+msgstr "Boutanès"
+
+msgid "ISO_639-2.EE"
+msgstr "Ewè"
+
+msgid "ISO_639-2.EL"
+msgstr "Grek, Modiene (dispoy 1453)"
+
+msgid "ISO_639-2.EN"
+msgstr "Inglès"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Castiyan; Espagnol"
+
+msgid "ISO_639-2.ET"
+msgstr "Estonyin"
+
+msgid "ISO_639-2.EU"
+msgstr "Basse"
+
+msgid "ISO_639-2.FA"
+msgstr "Farsi"
+
+msgid "ISO_639-2.FF"
+msgstr "Foula"
+
+msgid "ISO_639-2.FI"
+msgstr "Finwès"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidjyin"
+
+msgid "ISO_639-2.FO"
+msgstr "Faeroyès"
+
+msgid "ISO_639-2.FR"
+msgstr "Francès"
+
+msgid "ISO_639-2.FY"
+msgstr "Frizon coûtchantrece"
+
+msgid "ISO_639-2.GA"
+msgstr "Irlandès"
+
+msgid "ISO_639-2.GD"
+msgstr "Gayel escôsswès"
+
+msgid "ISO_639-2.GL"
+msgstr "Galicyin"
+
+msgid "ISO_639-2.GN"
+msgstr "Gwarani"
+
+msgid "ISO_639-2.GU"
+msgstr "Goudjarati"
+
+msgid "ISO_639-2.GV"
+msgstr "Gayel di l' iye di Man"
+
+msgid "ISO_639-2.HA"
+msgstr "Hawssa"
+
+msgid "ISO_639-2.HE"
+msgstr "Ebreu"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri motou"
+
+msgid "ISO_639-2.HR"
+msgstr "Crowåte"
+
+msgid "ISO_639-2.HT"
+msgstr "Hayityin; Creyole di Hayiti"
+
+msgid "ISO_639-2.HU"
+msgstr "Hongrwès"
+
+msgid "ISO_639-2.HY"
+msgstr "Årmenyin"
+
+msgid "ISO_639-2.HZ"
+msgstr "Herero"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonezyin"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue"
+
+msgid "ISO_639-2.IG"
+msgstr "Igbo"
+
+msgid "ISO_639-2.II"
+msgstr "Yi do Sichuan; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "Inyupiak"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Izlandès"
+
+msgid "ISO_639-2.IT"
+msgstr "Itålyin"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "Djaponès"
+
+msgid "ISO_639-2.JV"
+msgstr "Djavanès"
+
+msgid "ISO_639-2.KA"
+msgstr "Djeyordjyin"
+
+msgid "ISO_639-2.KG"
+msgstr "Kicongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikouyou"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazaxh"
+
+msgid "ISO_639-2.KL"
+msgstr "Groenlandès (Kalaallisut)"
+
+msgid "ISO_639-2.KM"
+msgstr "Xhmer; Mîtrin xhmer"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "Corêyin"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanouri"
+
+msgid "ISO_639-2.KS"
+msgstr "Kashmiri"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurde"
+
+msgid "ISO_639-2.KV"
+msgstr "Komi"
+
+msgid "ISO_639-2.KW"
+msgstr "Cornike"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirguize"
+
+msgid "ISO_639-2.LA"
+msgstr "Latén"
+
+msgid "ISO_639-2.LB"
+msgstr "Lussimbordjwès"
+
+msgid "ISO_639-2.LG"
+msgstr "Louganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limbordjwès"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Lawocyin"
+
+msgid "ISO_639-2.LT"
+msgstr "Litwanyin"
+
+msgid "ISO_639-2.LU"
+msgstr "Louba-Katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Letonyin"
+
+msgid "ISO_639-2.MG"
+msgstr "Malgache"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshalès"
+
+msgid "ISO_639-2.MI"
+msgstr "Mawori"
+
+msgid "ISO_639-2.MK"
+msgstr "Macedonyin"
+
+msgid "ISO_639-2.ML"
+msgstr "Malayalam"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongol"
+
+msgid "ISO_639-2.MR"
+msgstr "Marati"
+
+msgid "ISO_639-2.MS"
+msgstr "Malay"
+
+msgid "ISO_639-2.MT"
+msgstr "Malès"
+
+msgid "ISO_639-2.MY"
+msgstr "Birman"
+
+msgid "ISO_639-2.NA"
+msgstr "Nawouryin"
+
+msgid "ISO_639-2.NB"
+msgstr "Norvedjin bokmål"
+
+msgid "ISO_639-2.ND"
+msgstr "Ndebele bijhrece"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalès"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "Neyerlandès"
+
+msgid "ISO_639-2.NN"
+msgstr "Norvedjin nynorsk; Noû norvedjin"
+
+msgid "ISO_639-2.NO"
+msgstr "Norvedjin"
+
+msgid "ISO_639-2.NR"
+msgstr "Ndebele nonnrece"
+
+msgid "ISO_639-2.NV"
+msgstr "Navaxho"
+
+msgid "ISO_639-2.NY"
+msgstr "Tchitchewa; Nyanja"
+
+msgid "ISO_639-2.OC"
+msgstr "Occitan (après 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Ojibwa"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "Oriya"
+
+msgid "ISO_639-2.OS"
+msgstr "Ossetyin"
+
+msgid "ISO_639-2.PA"
+msgstr "Pundjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "Pâli"
+
+msgid "ISO_639-2.PL"
+msgstr "Polonès"
+
+msgid "ISO_639-2.PS"
+msgstr "Pashto"
+
+msgid "ISO_639-2.PT"
+msgstr "Portuguès"
+
+msgid "ISO_639-2.QU"
+msgstr "Ketchwa"
+
+msgid "ISO_639-2.RM"
+msgstr "Romantche"
+
+msgid "ISO_639-2.RN"
+msgstr "Kiroundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldåve"
+
+msgid "ISO_639-2.RU"
+msgstr "Rûsse"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinyarwanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrit"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardegnyin"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindi"
+
+msgid "ISO_639-2.SE"
+msgstr "Såmi bijhrece"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhalès"
+
+msgid "ISO_639-2.SK"
+msgstr "Eslovake"
+
+msgid "ISO_639-2.SL"
+msgstr "Eslovenyin"
+
+msgid "ISO_639-2.SM"
+msgstr "Samowan"
+
+msgid "ISO_639-2.SN"
+msgstr "Shona"
+
+msgid "ISO_639-2.SO"
+msgstr "Somalyin"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanès"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbe"
+
+msgid "ISO_639-2.SS"
+msgstr "Suwati"
+
+msgid "ISO_639-2.ST"
+msgstr "Soto nonnrece"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundanès"
+
+msgid "ISO_639-2.SV"
+msgstr "Suwedwès"
+
+msgid "ISO_639-2.SW"
+msgstr "Suwahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamoul"
+
+msgid "ISO_639-2.TE"
+msgstr "Telougou"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadjik"
+
+msgid "ISO_639-2.TH"
+msgstr "Taylandès"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinya"
+
+msgid "ISO_639-2.TK"
+msgstr "Turcmene"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "Tswana"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongyin (Iyes Tonga)"
+
+msgid "ISO_639-2.TR"
+msgstr "Turk"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsonga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatår"
+
+msgid "ISO_639-2.TW"
+msgstr "Twi"
+
+msgid "ISO_639-2.TY"
+msgstr "Tahityin"
+
+msgid "ISO_639-2.UG"
+msgstr "Ouygour"
+
+msgid "ISO_639-2.UK"
+msgstr "Oucrinnyin"
+
+msgid "ISO_639-2.UR"
+msgstr "Ourdou"
+
+msgid "ISO_639-2.UZ"
+msgstr "Ouzbeke"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamyin"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapuk"
+
+msgid "ISO_639-2.WA"
+msgstr "Walon"
+
+msgid "ISO_639-2.WO"
+msgstr "Wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "Xhossa"
+
+msgid "ISO_639-2.YI"
+msgstr "Yidish"
+
+msgid "ISO_639-2.YO"
+msgstr "Yorouba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Zhuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Chinwès"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zoulou"

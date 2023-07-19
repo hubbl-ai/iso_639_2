@@ -1,0 +1,222 @@
+# Greek translation of ISO 639 (language names)
+# Copyright (C) 2001 - 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Simos Xenitellis <simos@hellug.gr>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Konstantinos Margaritis <markos@debian.org>, 2004.
+# Athanasios Lefteris <alefteris@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-10-04 20:04+0300\n"
+"Last-Translator: Athanasios Lefteris <alefteris@gmail.com>\n"
+"Language-Team: Greek <debian-l10n-greek@lists.debian.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AR"
+msgstr "Αραβικά"
+
+msgid "ISO_639-2.AV"
+msgstr "Αβαρικά"
+
+msgid "ISO_639-2.AZ"
+msgstr "Αζερμπαϊτζιανά"
+
+msgid "ISO_639-2.BE"
+msgstr "Λευκωρωσικά"
+
+msgid "ISO_639-2.BG"
+msgstr "Βουλγάρικα"
+
+msgid "ISO_639-2.BH"
+msgstr "Νοηματικές γλώσσες"
+
+msgid "ISO_639-2.BN"
+msgstr "Βεγκάζης"
+
+msgid "ISO_639-2.BO"
+msgstr "Θιβετιανά"
+
+msgid "ISO_639-2.BR"
+msgstr "Βρετονικά"
+
+msgid "ISO_639-2.BS"
+msgstr "Βοσνιακά"
+
+msgid "ISO_639-2.CE"
+msgstr "Τσετσένικα"
+
+msgid "ISO_639-2.CO"
+msgstr "Κορσικανικά"
+
+msgid "ISO_639-2.CS"
+msgstr "Τσέχικα"
+
+msgid "ISO_639-2.CY"
+msgstr "Ουαλικά"
+
+msgid "ISO_639-2.DA"
+msgstr "Δανέζικα"
+
+msgid "ISO_639-2.DE"
+msgstr "Γερμανικά"
+
+msgid "ISO_639-2.EL"
+msgstr "Ελληνικά"
+
+msgid "ISO_639-2.EN"
+msgstr "Αγγλικά"
+
+msgid "ISO_639-2.EO"
+msgstr "Εσπεράντο"
+
+msgid "ISO_639-2.ES"
+msgstr "Ισπανικά"
+
+msgid "ISO_639-2.ET"
+msgstr "Εσθονικά"
+
+msgid "ISO_639-2.EU"
+msgstr "Βασκικά"
+
+msgid "ISO_639-2.FA"
+msgstr "Περσικά"
+
+msgid "ISO_639-2.FI"
+msgstr "Φινλανδικά"
+
+msgid "ISO_639-2.FR"
+msgstr "Γαλλικά"
+
+msgid "ISO_639-2.GA"
+msgstr "Ιρλανδέζικα"
+
+msgid "ISO_639-2.GD"
+msgstr "Κέλτικα, Σκωτσέζικα"
+
+msgid "ISO_639-2.HE"
+msgstr "Εβραϊκά"
+
+msgid "ISO_639-2.HI"
+msgstr "Ινδουικά"
+
+msgid "ISO_639-2.HR"
+msgstr "Κροατικά"
+
+msgid "ISO_639-2.HU"
+msgstr "Ουγγρικά"
+
+msgid "ISO_639-2.HY"
+msgstr "Αρμένικα"
+
+msgid "ISO_639-2.ID"
+msgstr "Ινδονησιακά"
+
+msgid "ISO_639-2.IS"
+msgstr "Ισλανδικά"
+
+msgid "ISO_639-2.IT"
+msgstr "Ιταλικά"
+
+msgid "ISO_639-2.JA"
+msgstr "Γιαπωνέζικα"
+
+msgid "ISO_639-2.KA"
+msgstr "Γεωργιανά"
+
+msgid "ISO_639-2.KG"
+msgstr "Κονγκολέζικα"
+
+msgid "ISO_639-2.KL"
+msgstr "Γροιλανδικά (Kalaallisut)"
+
+msgid "ISO_639-2.KO"
+msgstr "Κορεάτικα"
+
+msgid "ISO_639-2.KU"
+msgstr "Κούρδικα"
+
+msgid "ISO_639-2.LA"
+msgstr "Λατινικά"
+
+msgid "ISO_639-2.LT"
+msgstr "Λιθουανικά"
+
+msgid "ISO_639-2.LV"
+msgstr "Λετονέζικα"
+
+msgid "ISO_639-2.MK"
+msgstr "Σλαβομακεδονικά"
+
+msgid "ISO_639-2.MN"
+msgstr "Μογκολικά"
+
+msgid "ISO_639-2.NN"
+msgstr "Νορβηγικά Nynorsk"
+
+msgid "ISO_639-2.NO"
+msgstr "Νορβηγικά"
+
+msgid "ISO_639-2.PL"
+msgstr "Πολωνέζικα"
+
+msgid "ISO_639-2.PT"
+msgstr "Πορτογαλικά"
+
+msgid "ISO_639-2.RM"
+msgstr "Ρουμάνικα"
+
+msgid "ISO_639-2.RO"
+msgstr "Μολδαβιανά"
+
+msgid "ISO_639-2.RU"
+msgstr "Ρώσικα"
+
+msgid "ISO_639-2.SA"
+msgstr "Σανσκριτικά"
+
+msgid "ISO_639-2.SK"
+msgstr "Σλοβακικά"
+
+msgid "ISO_639-2.SL"
+msgstr "Σλοβενικά"
+
+msgid "ISO_639-2.SO"
+msgstr "Σομαλικά"
+
+msgid "ISO_639-2.SQ"
+msgstr "Αλβανικά"
+
+msgid "ISO_639-2.SR"
+msgstr "Σερβικά"
+
+msgid "ISO_639-2.SV"
+msgstr "Σουηδικά"
+
+msgid "ISO_639-2.SW"
+msgstr "Σουαχίλι"
+
+msgid "ISO_639-2.TA"
+msgstr "Ταϊλανδέζικα"
+
+msgid "ISO_639-2.TH"
+msgstr "Ταϊλανδέζικη"
+
+msgid "ISO_639-2.TR"
+msgstr "Τουρκικά"
+
+msgid "ISO_639-2.UK"
+msgstr "Ουκρανικά"
+
+msgid "ISO_639-2.VI"
+msgstr "Βιετναμέζικα"
+
+msgid "ISO_639-2.ZH"
+msgstr "Κινέζικα"

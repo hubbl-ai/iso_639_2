@@ -1,0 +1,281 @@
+# Translation of ISO-639 (language names) to Macedonian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Danko Ilik <danko@mindless.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-05 19:35+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Macedonian\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AB"
+msgstr "Српски"
+
+msgid "ISO_639-2.AF"
+msgstr "Африкански"
+
+msgid "ISO_639-2.AK"
+msgstr "Српски"
+
+msgid "ISO_639-2.AM"
+msgstr "Арапски"
+
+msgid "ISO_639-2.AR"
+msgstr "Арапски"
+
+msgid "ISO_639-2.AV"
+msgstr "Арапски"
+
+msgid "ISO_639-2.AZ"
+msgstr "Српски"
+
+msgid "ISO_639-2.BE"
+msgstr "Бугарски"
+
+msgid "ISO_639-2.BG"
+msgstr "Бугарски"
+
+msgid "ISO_639-2.BH"
+msgstr "Корејски"
+
+msgid "ISO_639-2.BR"
+msgstr "Бретонски"
+
+msgid "ISO_639-2.BS"
+msgstr "Романски"
+
+msgid "ISO_639-2.CE"
+msgstr "Чешки"
+
+msgid "ISO_639-2.CO"
+msgstr "Естонски"
+
+msgid "ISO_639-2.CR"
+msgstr "Грчки"
+
+msgid "ISO_639-2.CS"
+msgstr "Чешки"
+
+msgid "ISO_639-2.CY"
+msgstr "WebTree"
+
+msgid "ISO_639-2.DA"
+msgstr "Дански"
+
+msgid "ISO_639-2.DE"
+msgstr "Германски"
+
+msgid "ISO_639-2.EN"
+msgstr "Англиски (Британски)"
+
+msgid "ISO_639-2.EO"
+msgstr "Есперанто"
+
+msgid "ISO_639-2.ET"
+msgstr "Естонски"
+
+msgid "ISO_639-2.EU"
+msgstr "Баскиски"
+
+msgid "ISO_639-2.FA"
+msgstr "Српски"
+
+msgid "ISO_639-2.FI"
+msgstr "Фински"
+
+msgid "ISO_639-2.FR"
+msgstr "Француски"
+
+msgid "ISO_639-2.FY"
+msgstr "Украински"
+
+msgid "ISO_639-2.GA"
+msgstr "Ирски"
+
+msgid "ISO_639-2.GL"
+msgstr "Galician"
+
+msgid "ISO_639-2.GN"
+msgstr "Бугарски"
+
+msgid "ISO_639-2.HE"
+msgstr "Еврејски"
+
+msgid "ISO_639-2.HO"
+msgstr "Турски"
+
+msgid "ISO_639-2.HR"
+msgstr "Хрватски"
+
+msgid "ISO_639-2.HU"
+msgstr "Унгарски"
+
+msgid "ISO_639-2.HY"
+msgstr "Романски"
+
+msgid "ISO_639-2.HZ"
+msgstr "Еврејски"
+
+msgid "ISO_639-2.ID"
+msgstr "Естонски"
+
+msgid "ISO_639-2.II"
+msgstr "Литвански"
+
+msgid "ISO_639-2.IS"
+msgstr "Исландски"
+
+msgid "ISO_639-2.IT"
+msgstr "Италијански"
+
+msgid "ISO_639-2.JA"
+msgstr "Јапонски"
+
+msgid "ISO_639-2.JV"
+msgstr "Јапонски"
+
+msgid "ISO_639-2.KA"
+msgstr "Германски"
+
+msgid "ISO_639-2.KO"
+msgstr "Корејски"
+
+msgid "ISO_639-2.KR"
+msgstr "Турски"
+
+msgid "ISO_639-2.KU"
+msgstr "Турски"
+
+msgid "ISO_639-2.KW"
+msgstr "Ирски"
+
+msgid "ISO_639-2.LA"
+msgstr "Хрватска"
+
+msgid "ISO_639-2.LT"
+msgstr "Литвански"
+
+msgid "ISO_639-2.LV"
+msgstr "Хрватска"
+
+msgid "ISO_639-2.MH"
+msgstr "KStep"
+
+msgid "ISO_639-2.MI"
+msgstr "Маорски"
+
+msgid "ISO_639-2.MK"
+msgstr "Македонски"
+
+msgid "ISO_639-2.MN"
+msgstr "Македонски"
+
+msgid "ISO_639-2.MR"
+msgstr "Маорски"
+
+msgid "ISO_639-2.MT"
+msgstr "KStep"
+
+msgid "ISO_639-2.NG"
+msgstr "Естонски"
+
+msgid "ISO_639-2.NN"
+msgstr "Норвешки (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Корејски"
+
+msgid "ISO_639-2.OS"
+msgstr "Руски"
+
+msgid "ISO_639-2.PI"
+msgstr "Полски"
+
+msgid "ISO_639-2.PL"
+msgstr "Полски"
+
+msgid "ISO_639-2.PT"
+msgstr "Португалски"
+
+msgid "ISO_639-2.RM"
+msgstr "Романски"
+
+msgid "ISO_639-2.RO"
+msgstr "Хрватска"
+
+msgid "ISO_639-2.RU"
+msgstr "Руски"
+
+msgid "ISO_639-2.SC"
+msgstr "Македонски"
+
+msgid "ISO_639-2.SI"
+msgstr "Лоза"
+
+msgid "ISO_639-2.SK"
+msgstr "Словачки"
+
+msgid "ISO_639-2.SL"
+msgstr "Словенечки"
+
+msgid "ISO_639-2.SN"
+msgstr "XChat"
+
+msgid "ISO_639-2.SQ"
+msgstr "Српски"
+
+msgid "ISO_639-2.SR"
+msgstr "Српски"
+
+msgid "ISO_639-2.SV"
+msgstr "Шведски"
+
+msgid "ISO_639-2.TA"
+msgstr "Тамилски"
+
+msgid "ISO_639-2.TG"
+msgstr "Таи"
+
+msgid "ISO_639-2.TH"
+msgstr "Таи"
+
+msgid "ISO_639-2.TI"
+msgstr "Турски"
+
+msgid "ISO_639-2.TR"
+msgstr "Турски"
+
+msgid "ISO_639-2.TY"
+msgstr "Хрватска"
+
+msgid "ISO_639-2.UK"
+msgstr "Украински"
+
+msgid "ISO_639-2.VI"
+msgstr "Лоза"
+
+msgid "ISO_639-2.WA"
+msgstr "Валонски"
+
+msgid "ISO_639-2.XH"
+msgstr "XChat"
+
+msgid "ISO_639-2.ZH"
+msgstr "Кинески"
+
+msgid "ISO_639-2.ZU"
+msgstr "Јулија"

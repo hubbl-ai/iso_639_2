@@ -1,0 +1,272 @@
+# Translation of ISO-639 (language names) to Estonian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2000, 2004
+#   Margus Väli <mvali@hot.ee>, 2000.
+#   Tõivo Leedjärv <leedjarv@interest.ee>, 2000, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-12-02 00:10+0200\n"
+"Last-Translator: Tõivo Leedjärv <leedjarv@interest.ee>\n"
+"Language-Team: Estonian <gnome-et@linux.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AF"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-2.AK"
+msgstr "Lõuna-Aafrika"
+
+msgid "ISO_639-2.AM"
+msgstr "Araabia"
+
+msgid "ISO_639-2.AN"
+msgstr "Fääri"
+
+msgid "ISO_639-2.AR"
+msgstr "Araabia"
+
+msgid "ISO_639-2.AV"
+msgstr "Araabia"
+
+msgid "ISO_639-2.AZ"
+msgstr "Aserbaidžaani"
+
+msgid "ISO_639-2.BE"
+msgstr "Valgevene"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgaaria"
+
+msgid "ISO_639-2.BH"
+msgstr "Korea"
+
+msgid "ISO_639-2.BN"
+msgstr "Balti"
+
+msgid "ISO_639-2.BS"
+msgstr "Rumeenia"
+
+msgid "ISO_639-2.CE"
+msgstr "Tšehhi"
+
+msgid "ISO_639-2.CR"
+msgstr "Kreeka"
+
+msgid "ISO_639-2.CS"
+msgstr "Tšehhi"
+
+msgid "ISO_639-2.DA"
+msgstr "Taani"
+
+msgid "ISO_639-2.DE"
+msgstr "Saksa"
+
+msgid "ISO_639-2.EN"
+msgstr "Inglise"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Eesti"
+
+msgid "ISO_639-2.EU"
+msgstr "Baski"
+
+msgid "ISO_639-2.FA"
+msgstr "Prindi"
+
+msgid "ISO_639-2.FI"
+msgstr "Soome"
+
+msgid "ISO_639-2.FJ"
+msgstr "Otsi"
+
+msgid "ISO_639-2.FO"
+msgstr "Fääri"
+
+msgid "ISO_639-2.FR"
+msgstr "Prantsuse"
+
+msgid "ISO_639-2.FY"
+msgstr "Ukraina"
+
+msgid "ISO_639-2.GA"
+msgstr "Iiri"
+
+msgid "ISO_639-2.GL"
+msgstr "Galeon"
+
+msgid "ISO_639-2.HA"
+msgstr "Paus"
+
+msgid "ISO_639-2.HE"
+msgstr "Heebrea"
+
+msgid "ISO_639-2.HI"
+msgstr "Otsi"
+
+msgid "ISO_639-2.HO"
+msgstr "Otsi"
+
+msgid "ISO_639-2.HR"
+msgstr "Horvaatia"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungari"
+
+msgid "ISO_639-2.HZ"
+msgstr "Heebrea"
+
+msgid "ISO_639-2.ID"
+msgstr "Indoneesia"
+
+msgid "ISO_639-2.IE"
+msgstr "Renderdamine"
+
+msgid "ISO_639-2.II"
+msgstr "Leedu"
+
+msgid "ISO_639-2.IK"
+msgstr "India"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandi"
+
+msgid "ISO_639-2.IT"
+msgstr "Itaalia"
+
+msgid "ISO_639-2.JA"
+msgstr "Jaapani"
+
+msgid "ISO_639-2.JV"
+msgstr "Jaapani"
+
+msgid "ISO_639-2.KO"
+msgstr "Korea"
+
+msgid "ISO_639-2.KR"
+msgstr "Türgi"
+
+msgid "ISO_639-2.KU"
+msgstr "Türgi"
+
+msgid "ISO_639-2.KW"
+msgstr "Värvid"
+
+msgid "ISO_639-2.LA"
+msgstr "Asukoht"
+
+msgid "ISO_639-2.LN"
+msgstr "Le_gal"
+
+msgid "ISO_639-2.LT"
+msgstr "Leedu"
+
+msgid "ISO_639-2.LV"
+msgstr "Läti"
+
+msgid "ISO_639-2.MH"
+msgstr "ei"
+
+msgid "ISO_639-2.MI"
+msgstr "Ääred"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedoonia"
+
+msgid "ISO_639-2.MT"
+msgstr "ei"
+
+msgid "ISO_639-2.NN"
+msgstr "Norra"
+
+msgid "ISO_639-2.NO"
+msgstr "Norra"
+
+msgid "ISO_639-2.OM"
+msgstr "alates"
+
+msgid "ISO_639-2.OS"
+msgstr "Vene"
+
+msgid "ISO_639-2.PI"
+msgstr "Poola"
+
+msgid "ISO_639-2.PL"
+msgstr "Poola"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugali"
+
+msgid "ISO_639-2.RM"
+msgstr "Rumeenia"
+
+msgid "ISO_639-2.RU"
+msgstr "Vene"
+
+msgid "ISO_639-2.SA"
+msgstr "seriifideta"
+
+msgid "ISO_639-2.SC"
+msgstr "Makedoonia"
+
+msgid "ISO_639-2.SD"
+msgstr "Otsi"
+
+msgid "ISO_639-2.SI"
+msgstr "Vietnami"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovakkia"
+
+msgid "ISO_639-2.SL"
+msgstr "Sloveenia"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albaania"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbia"
+
+msgid "ISO_639-2.SV"
+msgstr "Rootsi"
+
+msgid "ISO_639-2.TA"
+msgstr "Tai"
+
+msgid "ISO_639-2.TG"
+msgstr "Tai"
+
+msgid "ISO_639-2.TH"
+msgstr "Tai"
+
+msgid "ISO_639-2.TI"
+msgstr "Türgi"
+
+msgid "ISO_639-2.TR"
+msgstr "Türgi"
+
+msgid "ISO_639-2.TY"
+msgstr "Läti"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukraina"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnami"
+
+msgid "ISO_639-2.ZH"
+msgstr "Hiina"

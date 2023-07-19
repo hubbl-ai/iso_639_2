@@ -1,0 +1,574 @@
+# Korean translations of ISO 639 Language names
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C) 2000 Free Software Foundation, Inc.
+# Kang, JeongHee <Keizi@mail.co.kr>, 2000.
+# Eungkyu Song <eungkyu@sparcs.org>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Changwoo Ryu <cwryu@debian.org>, 2011, 2013.
+#
+# 위키백과 페이지 참고
+# http://ko.wikipedia.org/wiki/ISO_639
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-03-12 02:56+0900\n"
+"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
+"Language-Team: Korean <translation-team-ko@lists.sourceforge.net>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "아파르어"
+
+msgid "ISO_639-2.AB"
+msgstr "압하스어"
+
+msgid "ISO_639-2.AE"
+msgstr "아베스타어"
+
+msgid "ISO_639-2.AF"
+msgstr "아프리칸스어"
+
+msgid "ISO_639-2.AK"
+msgstr "아칸어"
+
+msgid "ISO_639-2.AM"
+msgstr "암하라어"
+
+msgid "ISO_639-2.AN"
+msgstr "아라곤어"
+
+msgid "ISO_639-2.AR"
+msgstr "아랍어"
+
+msgid "ISO_639-2.AS"
+msgstr "아삼어"
+
+msgid "ISO_639-2.AV"
+msgstr "아바르어"
+
+msgid "ISO_639-2.AY"
+msgstr "아이마라어"
+
+msgid "ISO_639-2.AZ"
+msgstr "아제르바이잔어"
+
+msgid "ISO_639-2.BA"
+msgstr "바시키르어"
+
+msgid "ISO_639-2.BE"
+msgstr "벨로루시어"
+
+msgid "ISO_639-2.BG"
+msgstr "불가리아어"
+
+msgid "ISO_639-2.BH"
+msgstr "비하르어"
+
+msgid "ISO_639-2.BI"
+msgstr "비슬라마"
+
+msgid "ISO_639-2.BM"
+msgstr "밤바라어"
+
+msgid "ISO_639-2.BN"
+msgstr "방글라데시어"
+
+msgid "ISO_639-2.BO"
+msgstr "티베트어"
+
+msgid "ISO_639-2.BR"
+msgstr "브르타뉴어"
+
+msgid "ISO_639-2.BS"
+msgstr "보스니아어"
+
+msgid "ISO_639-2.CA"
+msgstr "카탈루냐어"
+
+msgid "ISO_639-2.CE"
+msgstr "체첸어"
+
+msgid "ISO_639-2.CH"
+msgstr "차모로어"
+
+msgid "ISO_639-2.CO"
+msgstr "코르시카어"
+
+msgid "ISO_639-2.CR"
+msgstr "크리어"
+
+msgid "ISO_639-2.CS"
+msgstr "체코어"
+
+msgid "ISO_639-2.CV"
+msgstr "추바슈어"
+
+msgid "ISO_639-2.CY"
+msgstr "웨일스어"
+
+msgid "ISO_639-2.DA"
+msgstr "덴마크어"
+
+msgid "ISO_639-2.DE"
+msgstr "독일어"
+
+msgid "ISO_639-2.DV"
+msgstr "디베히어"
+
+msgid "ISO_639-2.DZ"
+msgstr "종카어"
+
+msgid "ISO_639-2.EE"
+msgstr "에웨어"
+
+msgid "ISO_639-2.EL"
+msgstr "그리스어 (현대) (1453년 이후)"
+
+msgid "ISO_639-2.EN"
+msgstr "영어"
+
+msgid "ISO_639-2.EO"
+msgstr "에스페란토어"
+
+msgid "ISO_639-2.ES"
+msgstr "스페인어"
+
+msgid "ISO_639-2.ET"
+msgstr "에스토니아어"
+
+msgid "ISO_639-2.EU"
+msgstr "바스크어"
+
+msgid "ISO_639-2.FA"
+msgstr "페르시아어"
+
+msgid "ISO_639-2.FF"
+msgstr "풀라어"
+
+msgid "ISO_639-2.FI"
+msgstr "핀란드어"
+
+msgid "ISO_639-2.FJ"
+msgstr "피지어"
+
+msgid "ISO_639-2.FO"
+msgstr "페로스어"
+
+msgid "ISO_639-2.FR"
+msgstr "프랑스어"
+
+msgid "ISO_639-2.FY"
+msgstr "프리지아어"
+
+msgid "ISO_639-2.GA"
+msgstr "아일랜드어"
+
+msgid "ISO_639-2.GD"
+msgstr "고이델어"
+
+msgid "ISO_639-2.GL"
+msgstr "갈리시아어"
+
+msgid "ISO_639-2.GN"
+msgstr "과라니어"
+
+msgid "ISO_639-2.GU"
+msgstr "구자라트어"
+
+msgid "ISO_639-2.GV"
+msgstr "맨어"
+
+msgid "ISO_639-2.HA"
+msgstr "하우사어"
+
+msgid "ISO_639-2.HE"
+msgstr "히브리어"
+
+msgid "ISO_639-2.HI"
+msgstr "힌두어"
+
+msgid "ISO_639-2.HO"
+msgstr "히리 모투"
+
+msgid "ISO_639-2.HR"
+msgstr "크로아티아어"
+
+msgid "ISO_639-2.HT"
+msgstr "아이티어"
+
+msgid "ISO_639-2.HU"
+msgstr "헝가리어"
+
+msgid "ISO_639-2.HY"
+msgstr "아르메니아어"
+
+msgid "ISO_639-2.HZ"
+msgstr "헤레로어"
+
+msgid "ISO_639-2.IA"
+msgstr "인테르링구아 (국제보조어협회)"
+
+msgid "ISO_639-2.ID"
+msgstr "인도네시아어"
+
+msgid "ISO_639-2.IE"
+msgstr "인테르링구어 (옥시덴탈)"
+
+msgid "ISO_639-2.IG"
+msgstr "이그보어"
+
+msgid "ISO_639-2.II"
+msgstr "쓰촨 이어"
+
+msgid "ISO_639-2.IK"
+msgstr "이누피아크어"
+
+msgid "ISO_639-2.IO"
+msgstr "이도"
+
+msgid "ISO_639-2.IS"
+msgstr "아이슬란드어"
+
+msgid "ISO_639-2.IT"
+msgstr "이탈리아어"
+
+msgid "ISO_639-2.IU"
+msgstr "이누이트어"
+
+msgid "ISO_639-2.JA"
+msgstr "일본어"
+
+msgid "ISO_639-2.JV"
+msgstr "자와어"
+
+msgid "ISO_639-2.KA"
+msgstr "조지아어"
+
+msgid "ISO_639-2.KG"
+msgstr "콩고어"
+
+msgid "ISO_639-2.KI"
+msgstr "키쿠유어"
+
+msgid "ISO_639-2.KJ"
+msgstr "콰냐마어"
+
+msgid "ISO_639-2.KK"
+msgstr "카자흐어"
+
+msgid "ISO_639-2.KL"
+msgstr "그린란드어"
+
+msgid "ISO_639-2.KM"
+msgstr "중부 크메르어"
+
+msgid "ISO_639-2.KN"
+msgstr "칸나다어"
+
+msgid "ISO_639-2.KO"
+msgstr "한국어"
+
+msgid "ISO_639-2.KR"
+msgstr "카누리어"
+
+msgid "ISO_639-2.KS"
+msgstr "카슈미르어"
+
+msgid "ISO_639-2.KU"
+msgstr "쿠르드어"
+
+msgid "ISO_639-2.KV"
+msgstr "코미어"
+
+msgid "ISO_639-2.KW"
+msgstr "콘월어"
+
+msgid "ISO_639-2.KY"
+msgstr "키르기스어"
+
+msgid "ISO_639-2.LA"
+msgstr "라틴어"
+
+msgid "ISO_639-2.LB"
+msgstr "룩셈부르크어"
+
+msgid "ISO_639-2.LG"
+msgstr "간다어"
+
+msgid "ISO_639-2.LI"
+msgstr "림뷔르흐어"
+
+msgid "ISO_639-2.LN"
+msgstr "링갈라어"
+
+msgid "ISO_639-2.LO"
+msgstr "라오어"
+
+msgid "ISO_639-2.LT"
+msgstr "리투아니아어"
+
+msgid "ISO_639-2.LU"
+msgstr "루바카탕가어"
+
+msgid "ISO_639-2.LV"
+msgstr "라트비아어"
+
+msgid "ISO_639-2.MG"
+msgstr "말라가시어"
+
+msgid "ISO_639-2.MH"
+msgstr "마셜어"
+
+msgid "ISO_639-2.MI"
+msgstr "마오리어"
+
+msgid "ISO_639-2.MK"
+msgstr "마케도니아어"
+
+msgid "ISO_639-2.ML"
+msgstr "말라얄람어"
+
+msgid "ISO_639-2.MN"
+msgstr "몽골어"
+
+msgid "ISO_639-2.MR"
+msgstr "마라티어"
+
+msgid "ISO_639-2.MS"
+msgstr "말레이어"
+
+msgid "ISO_639-2.MT"
+msgstr "몰타어"
+
+msgid "ISO_639-2.MY"
+msgstr "미얀마어"
+
+msgid "ISO_639-2.NA"
+msgstr "나우루어"
+
+msgid "ISO_639-2.NB"
+msgstr "보크몰"
+
+msgid "ISO_639-2.ND"
+msgstr "은데벨레어 (북)"
+
+msgid "ISO_639-2.NE"
+msgstr "네팔어"
+
+msgid "ISO_639-2.NG"
+msgstr "은동가어"
+
+msgid "ISO_639-2.NL"
+msgstr "네덜란드어"
+
+msgid "ISO_639-2.NN"
+msgstr "뉘노리스크"
+
+msgid "ISO_639-2.NO"
+msgstr "노르웨이어"
+
+msgid "ISO_639-2.NR"
+msgstr "은데벨레어 (남)"
+
+msgid "ISO_639-2.NV"
+msgstr "나바호어"
+
+msgid "ISO_639-2.NY"
+msgstr "니안자어"
+
+msgid "ISO_639-2.OC"
+msgstr "오크어 (1500년 이후)"
+
+msgid "ISO_639-2.OJ"
+msgstr "오지브와어"
+
+msgid "ISO_639-2.OM"
+msgstr "오로모어"
+
+msgid "ISO_639-2.OR"
+msgstr "오리야어"
+
+msgid "ISO_639-2.OS"
+msgstr "오세트어"
+
+msgid "ISO_639-2.PA"
+msgstr "펀자브어"
+
+msgid "ISO_639-2.PI"
+msgstr "팔리어"
+
+msgid "ISO_639-2.PL"
+msgstr "폴란드어"
+
+msgid "ISO_639-2.PS"
+msgstr "파슈토어"
+
+msgid "ISO_639-2.PT"
+msgstr "포르투갈어"
+
+msgid "ISO_639-2.QU"
+msgstr "케추아어족"
+
+msgid "ISO_639-2.RM"
+msgstr "로만슈어"
+
+msgid "ISO_639-2.RN"
+msgstr "룬디어"
+
+msgid "ISO_639-2.RO"
+msgstr "몰도바어"
+
+msgid "ISO_639-2.RU"
+msgstr "러시아어"
+
+msgid "ISO_639-2.RW"
+msgstr "르완다어"
+
+msgid "ISO_639-2.SA"
+msgstr "산스크리트어"
+
+msgid "ISO_639-2.SC"
+msgstr "사르데냐어"
+
+msgid "ISO_639-2.SD"
+msgstr "신디어"
+
+msgid "ISO_639-2.SE"
+msgstr "사미어 (북)"
+
+msgid "ISO_639-2.SG"
+msgstr "상고어"
+
+msgid "ISO_639-2.SI"
+msgstr "싱할라어"
+
+msgid "ISO_639-2.SK"
+msgstr "슬로바키아어"
+
+msgid "ISO_639-2.SL"
+msgstr "슬로베니아어"
+
+msgid "ISO_639-2.SM"
+msgstr "사모아어"
+
+msgid "ISO_639-2.SN"
+msgstr "쇼나어"
+
+msgid "ISO_639-2.SO"
+msgstr "소말리아어"
+
+msgid "ISO_639-2.SQ"
+msgstr "알바니아어"
+
+msgid "ISO_639-2.SR"
+msgstr "세르비아어"
+
+msgid "ISO_639-2.SS"
+msgstr "스와티어"
+
+msgid "ISO_639-2.ST"
+msgstr "소토어 (남)"
+
+msgid "ISO_639-2.SU"
+msgstr "순다어"
+
+msgid "ISO_639-2.SV"
+msgstr "스웨덴어"
+
+msgid "ISO_639-2.SW"
+msgstr "스와힐리어"
+
+msgid "ISO_639-2.TA"
+msgstr "타밀어"
+
+msgid "ISO_639-2.TE"
+msgstr "텔루구어"
+
+msgid "ISO_639-2.TG"
+msgstr "타지크어"
+
+msgid "ISO_639-2.TH"
+msgstr "타이어"
+
+msgid "ISO_639-2.TI"
+msgstr "티그리냐어"
+
+msgid "ISO_639-2.TK"
+msgstr "투르크멘어"
+
+msgid "ISO_639-2.TL"
+msgstr "타갈로그어"
+
+msgid "ISO_639-2.TN"
+msgstr "츠와나어"
+
+msgid "ISO_639-2.TO"
+msgstr "통가어 (통가 제도)"
+
+msgid "ISO_639-2.TR"
+msgstr "터키어"
+
+msgid "ISO_639-2.TS"
+msgstr "총가어"
+
+msgid "ISO_639-2.TT"
+msgstr "타타르어"
+
+msgid "ISO_639-2.TW"
+msgstr "알칸어군"
+
+msgid "ISO_639-2.TY"
+msgstr "타히티어"
+
+msgid "ISO_639-2.UG"
+msgstr "위구르어"
+
+msgid "ISO_639-2.UK"
+msgstr "우크라이나어"
+
+msgid "ISO_639-2.UR"
+msgstr "우르두어"
+
+msgid "ISO_639-2.UZ"
+msgstr "우즈베크어"
+
+msgid "ISO_639-2.VE"
+msgstr "벤다어"
+
+msgid "ISO_639-2.VI"
+msgstr "베트남어"
+
+msgid "ISO_639-2.VO"
+msgstr "볼라퓌크"
+
+msgid "ISO_639-2.WA"
+msgstr "왈론어"
+
+msgid "ISO_639-2.WO"
+msgstr "월로프어"
+
+msgid "ISO_639-2.XH"
+msgstr "코사어"
+
+msgid "ISO_639-2.YI"
+msgstr "이디시어"
+
+msgid "ISO_639-2.YO"
+msgstr "요루바어"
+
+msgid "ISO_639-2.ZA"
+msgstr "좡어"
+
+msgid "ISO_639-2.ZH"
+msgstr "중국어"
+
+msgid "ISO_639-2.ZU"
+msgstr "줄루어"

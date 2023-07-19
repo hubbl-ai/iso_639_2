@@ -1,0 +1,570 @@
+# Translation of ISO 639 (language names) to Telugu
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-08-06 18:26+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <Fedora-trans-te@redhat.com>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "అఫర్"
+
+msgid "ISO_639-2.AB"
+msgstr "అబ్‌ఖజియాన్"
+
+msgid "ISO_639-2.AE"
+msgstr "అవెస్టన్"
+
+msgid "ISO_639-2.AF"
+msgstr "ఆఫ్రికాన్స్"
+
+msgid "ISO_639-2.AK"
+msgstr "అకన్"
+
+msgid "ISO_639-2.AM"
+msgstr "అమ్హారిక్"
+
+msgid "ISO_639-2.AN"
+msgstr "అర్గోనీస్"
+
+msgid "ISO_639-2.AR"
+msgstr "అరబిక్"
+
+msgid "ISO_639-2.AS"
+msgstr "అస్సామి"
+
+msgid "ISO_639-2.AV"
+msgstr "అవరిక్"
+
+msgid "ISO_639-2.AY"
+msgstr "అయ్‌మర"
+
+msgid "ISO_639-2.AZ"
+msgstr "అజెర్‌బైజని"
+
+msgid "ISO_639-2.BA"
+msgstr "బష్కిర్"
+
+msgid "ISO_639-2.BE"
+msgstr "బెలరూసియన్"
+
+msgid "ISO_639-2.BG"
+msgstr "బల్గేరియన్"
+
+msgid "ISO_639-2.BH"
+msgstr "థాయ్ భాషలు"
+
+msgid "ISO_639-2.BI"
+msgstr "బిస్లమ"
+
+msgid "ISO_639-2.BM"
+msgstr "బంబర"
+
+msgid "ISO_639-2.BN"
+msgstr "బెంగాలి"
+
+msgid "ISO_639-2.BO"
+msgstr "టిబెటన్"
+
+msgid "ISO_639-2.BR"
+msgstr "బ్రెటన్"
+
+msgid "ISO_639-2.BS"
+msgstr "బొస్నియన్"
+
+msgid "ISO_639-2.CA"
+msgstr "కాటలాన్; వాలెన్‌సియన్"
+
+msgid "ISO_639-2.CE"
+msgstr "చెచెన్"
+
+msgid "ISO_639-2.CH"
+msgstr "చామొర్రొ"
+
+msgid "ISO_639-2.CO"
+msgstr "కార్సియన్"
+
+msgid "ISO_639-2.CR"
+msgstr "క్రీ"
+
+msgid "ISO_639-2.CS"
+msgstr "చెక్"
+
+msgid "ISO_639-2.CV"
+msgstr "చువాష్"
+
+msgid "ISO_639-2.CY"
+msgstr "వెల్ష్"
+
+msgid "ISO_639-2.DA"
+msgstr "డానిష్"
+
+msgid "ISO_639-2.DE"
+msgstr "జెర్మన్"
+
+msgid "ISO_639-2.DV"
+msgstr "దివేహి; ధివేహి; మాల్దీవియన్"
+
+msgid "ISO_639-2.DZ"
+msgstr "ఝొంఖా"
+
+msgid "ISO_639-2.EE"
+msgstr "ఈవ్"
+
+msgid "ISO_639-2.EL"
+msgstr "గ్రీక్, ఆధునిక (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "ఇంగ్లీష్"
+
+msgid "ISO_639-2.EO"
+msgstr "ఎస్పెరాంటొ"
+
+msgid "ISO_639-2.ES"
+msgstr "స్పానిష్; కాస్టిలియన్"
+
+msgid "ISO_639-2.ET"
+msgstr "ఎస్తోనియన్"
+
+msgid "ISO_639-2.EU"
+msgstr "బస్క్వే"
+
+msgid "ISO_639-2.FA"
+msgstr "పర్షియన్"
+
+msgid "ISO_639-2.FF"
+msgstr "ఫులాహ్"
+
+msgid "ISO_639-2.FI"
+msgstr "ఫిన్నిష్"
+
+msgid "ISO_639-2.FJ"
+msgstr "ఫిజిని"
+
+msgid "ISO_639-2.FO"
+msgstr "ఫరోసీ"
+
+msgid "ISO_639-2.FR"
+msgstr "ఫ్రెంచ్"
+
+msgid "ISO_639-2.FY"
+msgstr "పశ్చిమ ఫ్రిసియన్"
+
+msgid "ISO_639-2.GA"
+msgstr "ఐరిష్"
+
+msgid "ISO_639-2.GD"
+msgstr "గెయిలిక్; స్కాటిష్ గెయిలిక్"
+
+msgid "ISO_639-2.GL"
+msgstr "గెలిసియన్"
+
+msgid "ISO_639-2.GN"
+msgstr "గురాని"
+
+msgid "ISO_639-2.GU"
+msgstr "గుజరాతి"
+
+msgid "ISO_639-2.GV"
+msgstr "మాంక్స్"
+
+msgid "ISO_639-2.HA"
+msgstr "హౌసా"
+
+msgid "ISO_639-2.HE"
+msgstr "హెబ్రూ"
+
+msgid "ISO_639-2.HI"
+msgstr "హింది"
+
+msgid "ISO_639-2.HO"
+msgstr "హిరి మొటు"
+
+msgid "ISO_639-2.HR"
+msgstr "క్రౌటైన్"
+
+msgid "ISO_639-2.HT"
+msgstr "హైటియన్; హైటియన్ క్రియోల్"
+
+msgid "ISO_639-2.HU"
+msgstr "హంగేరియన్"
+
+msgid "ISO_639-2.HY"
+msgstr "అర్మేనియన్"
+
+msgid "ISO_639-2.HZ"
+msgstr "హెరెరొ"
+
+msgid "ISO_639-2.IA"
+msgstr "ఇంటర్‌లింగ్వా (ఇంటర్నేషనల్ ఆగ్జలరి లాంగ్వేజ్ అస్సోసియేషన్)"
+
+msgid "ISO_639-2.ID"
+msgstr "ఇండోనేషియన్"
+
+msgid "ISO_639-2.IE"
+msgstr "ఇంటర్‌లింగ్వే;ఒకిడెంటల్"
+
+msgid "ISO_639-2.IG"
+msgstr "ఇగ్బొ"
+
+msgid "ISO_639-2.II"
+msgstr "సిచుయన్ యై; నౌసు"
+
+msgid "ISO_639-2.IK"
+msgstr "ఇనుపియాక్"
+
+msgid "ISO_639-2.IO"
+msgstr "ఇడొ"
+
+msgid "ISO_639-2.IS"
+msgstr "ఐస్‌లాండిక్"
+
+msgid "ISO_639-2.IT"
+msgstr "ఇటాలియన్"
+
+msgid "ISO_639-2.IU"
+msgstr "ఐనుక్తిటట్"
+
+msgid "ISO_639-2.JA"
+msgstr "జపనీస్"
+
+msgid "ISO_639-2.JV"
+msgstr "జవనీస్"
+
+msgid "ISO_639-2.KA"
+msgstr "జార్జియన్"
+
+msgid "ISO_639-2.KG"
+msgstr "కాంగొ"
+
+msgid "ISO_639-2.KI"
+msgstr "కికుయు; గికుయు"
+
+msgid "ISO_639-2.KJ"
+msgstr "కుఅన్యమ; కుఅన్యమ"
+
+msgid "ISO_639-2.KK"
+msgstr "కజఖ్"
+
+msgid "ISO_639-2.KL"
+msgstr "కలాల్లిసట్; గ్రీన్‌లాండిక్"
+
+msgid "ISO_639-2.KM"
+msgstr "సెంట్రల్ ఖ్మెర్"
+
+msgid "ISO_639-2.KN"
+msgstr "కన్నడ"
+
+msgid "ISO_639-2.KO"
+msgstr "కొరియన్"
+
+msgid "ISO_639-2.KR"
+msgstr "కనురి"
+
+msgid "ISO_639-2.KS"
+msgstr "కాశ్మీరి"
+
+msgid "ISO_639-2.KU"
+msgstr "కుర్దిష్"
+
+msgid "ISO_639-2.KV"
+msgstr "కొమి"
+
+msgid "ISO_639-2.KW"
+msgstr "కార్నిష్"
+
+msgid "ISO_639-2.KY"
+msgstr "కిర్‌ఘిజ్; క్యర్‌గైజ్"
+
+msgid "ISO_639-2.LA"
+msgstr "లాటిన్"
+
+msgid "ISO_639-2.LB"
+msgstr "లంగ్జెంబర్గిష్; లెట్జెబర్గెక్"
+
+msgid "ISO_639-2.LG"
+msgstr "గండా"
+
+msgid "ISO_639-2.LI"
+msgstr "లింబర్గన్; లింబర్గర్; లింబర్గిష్"
+
+msgid "ISO_639-2.LN"
+msgstr "లింగాల"
+
+msgid "ISO_639-2.LO"
+msgstr "లౌ"
+
+msgid "ISO_639-2.LT"
+msgstr "లిథుయేనియన్"
+
+msgid "ISO_639-2.LU"
+msgstr "లుబా-కటన్గా"
+
+msgid "ISO_639-2.LV"
+msgstr "లాట్విన్"
+
+msgid "ISO_639-2.MG"
+msgstr "మలగసి"
+
+msgid "ISO_639-2.MH"
+msgstr "మర్షాల్లీస్"
+
+msgid "ISO_639-2.MI"
+msgstr "మౌరి"
+
+msgid "ISO_639-2.MK"
+msgstr "మెసెడొనియన్"
+
+msgid "ISO_639-2.ML"
+msgstr "మలయాళం"
+
+msgid "ISO_639-2.MN"
+msgstr "మంగోలియన్"
+
+msgid "ISO_639-2.MR"
+msgstr "మరాఠి"
+
+msgid "ISO_639-2.MS"
+msgstr "మలయ్"
+
+msgid "ISO_639-2.MT"
+msgstr "మాల్టీస్"
+
+msgid "ISO_639-2.MY"
+msgstr "బర్మీస్"
+
+msgid "ISO_639-2.NA"
+msgstr "నౌరు"
+
+msgid "ISO_639-2.NB"
+msgstr "బొక్‌మల్, నార్వేజియన్; నార్వేజియన్ బోక్‌మల్"
+
+msgid "ISO_639-2.ND"
+msgstr "న్డెబెలె, ఉత్తర, ఉత్తర న్డెబెలె"
+
+msgid "ISO_639-2.NE"
+msgstr "నేపాలి"
+
+msgid "ISO_639-2.NG"
+msgstr "న్డోన్గా"
+
+msgid "ISO_639-2.NL"
+msgstr "డచ్, ఫ్లెమిష్"
+
+msgid "ISO_639-2.NN"
+msgstr "నార్వేజియన్ నైనొర్‌స్క్; నైనొర్‌స్క్, నార్వేజియన్"
+
+msgid "ISO_639-2.NO"
+msgstr "నార్వేజియన్"
+
+msgid "ISO_639-2.NR"
+msgstr "న్డెబెలె; దక్షిణ; దక్షిణ న్డెబెలె"
+
+msgid "ISO_639-2.NV"
+msgstr "నవజొ; నవహొ"
+
+msgid "ISO_639-2.NY"
+msgstr "చిచెవ; చిచెవ; న్యాన్జా"
+
+msgid "ISO_639-2.OC"
+msgstr "ఆక్టియన్ (పోస్ట్ 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "ఒజిబ్వా"
+
+msgid "ISO_639-2.OM"
+msgstr "ఒరొమో"
+
+msgid "ISO_639-2.OR"
+msgstr "ఒరియా"
+
+msgid "ISO_639-2.OS"
+msgstr "ఒస్సెటియన్; ఒస్సెటిక్"
+
+msgid "ISO_639-2.PA"
+msgstr "పంజాబి; పంజాబి"
+
+msgid "ISO_639-2.PI"
+msgstr "పలి"
+
+msgid "ISO_639-2.PL"
+msgstr "పోలిష్"
+
+msgid "ISO_639-2.PS"
+msgstr "పుష్టో; పష్టో"
+
+msgid "ISO_639-2.PT"
+msgstr "పోర్చుగీస్"
+
+msgid "ISO_639-2.QU"
+msgstr "క్వెచువా"
+
+msgid "ISO_639-2.RM"
+msgstr "రోమన్ష్"
+
+msgid "ISO_639-2.RN"
+msgstr "రున్డి"
+
+msgid "ISO_639-2.RO"
+msgstr "మాల్డావియన్; మాల్డొవన్"
+
+msgid "ISO_639-2.RU"
+msgstr "రష్యన్"
+
+msgid "ISO_639-2.RW"
+msgstr "కిన్యర్‌వండ"
+
+msgid "ISO_639-2.SA"
+msgstr "సంస్కృతము"
+
+msgid "ISO_639-2.SC"
+msgstr "సార్డీనియన్"
+
+msgid "ISO_639-2.SD"
+msgstr "సింధి"
+
+msgid "ISO_639-2.SE"
+msgstr "ఉత్తర సమి"
+
+msgid "ISO_639-2.SG"
+msgstr "సాంగొ"
+
+msgid "ISO_639-2.SI"
+msgstr "సిన్హాలా; సిన్హాలీస్"
+
+msgid "ISO_639-2.SK"
+msgstr "స్లోవక్"
+
+msgid "ISO_639-2.SL"
+msgstr "స్లవెనియన్"
+
+msgid "ISO_639-2.SM"
+msgstr "సమొయన్"
+
+msgid "ISO_639-2.SN"
+msgstr "షోన"
+
+msgid "ISO_639-2.SO"
+msgstr "సొమాలి"
+
+msgid "ISO_639-2.SQ"
+msgstr "అల్బేనియన్"
+
+msgid "ISO_639-2.SR"
+msgstr "సెర్బియన్"
+
+msgid "ISO_639-2.SS"
+msgstr "స్వాతి"
+
+msgid "ISO_639-2.ST"
+msgstr "సౌతో, దక్షిణ"
+
+msgid "ISO_639-2.SU"
+msgstr "సుండనీస్"
+
+msgid "ISO_639-2.SV"
+msgstr "స్వీడిష్"
+
+msgid "ISO_639-2.SW"
+msgstr "స్వాహిలి"
+
+msgid "ISO_639-2.TA"
+msgstr "తమిళం"
+
+msgid "ISO_639-2.TE"
+msgstr "తెలుగు"
+
+msgid "ISO_639-2.TG"
+msgstr "తజిక్"
+
+msgid "ISO_639-2.TH"
+msgstr "థాయ్"
+
+msgid "ISO_639-2.TI"
+msgstr "టిగ్రిన్యా"
+
+msgid "ISO_639-2.TK"
+msgstr "టర్క్‌మెన్"
+
+msgid "ISO_639-2.TL"
+msgstr "టాగలాగ్"
+
+msgid "ISO_639-2.TN"
+msgstr "త్సవన"
+
+msgid "ISO_639-2.TO"
+msgstr "టాంగొ (టాంగొ ఐలాండ్స్)"
+
+msgid "ISO_639-2.TR"
+msgstr "టర్కిష్"
+
+msgid "ISO_639-2.TS"
+msgstr "త్సొంగా"
+
+msgid "ISO_639-2.TT"
+msgstr "తతర్"
+
+msgid "ISO_639-2.TW"
+msgstr "త్వై"
+
+msgid "ISO_639-2.TY"
+msgstr "తాహితియన్"
+
+msgid "ISO_639-2.UG"
+msgstr "ఐఘుర్; ఉయిఘుర్"
+
+msgid "ISO_639-2.UK"
+msgstr "ఉక్రైనియన్"
+
+msgid "ISO_639-2.UR"
+msgstr "ఉర్దు"
+
+msgid "ISO_639-2.UZ"
+msgstr "ఉజ్బెక్"
+
+msgid "ISO_639-2.VE"
+msgstr "వెండా"
+
+msgid "ISO_639-2.VI"
+msgstr "వియత్నాంసీ"
+
+msgid "ISO_639-2.VO"
+msgstr "వొలపుక్"
+
+msgid "ISO_639-2.WA"
+msgstr "వల్లూన్"
+
+msgid "ISO_639-2.WO"
+msgstr "వొలోఫ్"
+
+msgid "ISO_639-2.XH"
+msgstr "క్సొస"
+
+msgid "ISO_639-2.YI"
+msgstr "ఇద్దీష్"
+
+msgid "ISO_639-2.YO"
+msgstr "యొరుబ"
+
+msgid "ISO_639-2.ZA"
+msgstr "ఝువాంగ్; ఛువాంగ్"
+
+msgid "ISO_639-2.ZH"
+msgstr "చైనీస్"
+
+msgid "ISO_639-2.ZU"
+msgstr "జులు"

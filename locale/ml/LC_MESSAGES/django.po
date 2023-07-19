@@ -1,0 +1,570 @@
+# Translation of ISO 639 (3.15) to Malayalam
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Ani Peter <peter.ani@gmail.com>, 2009
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-08-05 15:56+0530\n"
+"Last-Translator: അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
+"Language-Team:  Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_639-2.AA"
+msgstr "അഫാര്‍"
+
+msgid "ISO_639-2.AB"
+msgstr "അബ്ഖാസിയാന്‍"
+
+msgid "ISO_639-2.AE"
+msgstr "അവസ്റ്റന്‍"
+
+msgid "ISO_639-2.AF"
+msgstr "ആഫ്രിക്കാന്‍സ്"
+
+msgid "ISO_639-2.AK"
+msgstr "അഖാന്‍"
+
+msgid "ISO_639-2.AM"
+msgstr "അമ്ഹാരിക്"
+
+msgid "ISO_639-2.AN"
+msgstr "അരാഗനീസ്"
+
+msgid "ISO_639-2.AR"
+msgstr "അറബിക്"
+
+msgid "ISO_639-2.AS"
+msgstr "ആസാമീസ്"
+
+msgid "ISO_639-2.AV"
+msgstr "അവാറിക്"
+
+msgid "ISO_639-2.AY"
+msgstr "അയ്മാരാ"
+
+msgid "ISO_639-2.AZ"
+msgstr "അസര്‍ബജാനി"
+
+msgid "ISO_639-2.BA"
+msgstr "ബാഷ്കിര്‍"
+
+msgid "ISO_639-2.BE"
+msgstr "ബെലാറൂശ്യന്‍"
+
+msgid "ISO_639-2.BG"
+msgstr "ബള്‍ഗേറിയന്‍"
+
+msgid "ISO_639-2.BH"
+msgstr "തായി ഭാഷകള്‍"
+
+msgid "ISO_639-2.BI"
+msgstr "ബിസ്‌ലാമാ"
+
+msgid "ISO_639-2.BM"
+msgstr "ബാംബാറാ"
+
+msgid "ISO_639-2.BN"
+msgstr "ബംഗാളി"
+
+msgid "ISO_639-2.BO"
+msgstr "ടിബറ്റിയന്‍"
+
+msgid "ISO_639-2.BR"
+msgstr "ബ്രെട്ടണ്‍"
+
+msgid "ISO_639-2.BS"
+msgstr "ബോസ്നിയന്‍"
+
+msgid "ISO_639-2.CA"
+msgstr "കാറ്റലന്‍; വാലെന്‍ശ്യന്‍"
+
+msgid "ISO_639-2.CE"
+msgstr "ചെഛന്‍"
+
+msgid "ISO_639-2.CH"
+msgstr "ക്യാമൊറോ"
+
+msgid "ISO_639-2.CO"
+msgstr "കോര്‍സിക്കന്‍"
+
+msgid "ISO_639-2.CR"
+msgstr "ക്രീ"
+
+msgid "ISO_639-2.CS"
+msgstr "ചെക്ക്"
+
+msgid "ISO_639-2.CV"
+msgstr "ചുവാഷ്"
+
+msgid "ISO_639-2.CY"
+msgstr "വെല്‍ഷ്"
+
+msgid "ISO_639-2.DA"
+msgstr "ഡാനിഷ്"
+
+msgid "ISO_639-2.DE"
+msgstr "ജര്‍മന്‍"
+
+msgid "ISO_639-2.DV"
+msgstr "ദിവേഹി; മാല്‍ദീവിയന്‍"
+
+msgid "ISO_639-2.DZ"
+msgstr "സോങ്കാ"
+
+msgid "ISO_639-2.EE"
+msgstr "എയ്‌വേ"
+
+msgid "ISO_639-2.EL"
+msgstr "ആധുനിക ഗ്രീക്ക് (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "ഇംഗ്ലിഷ്"
+
+msgid "ISO_639-2.EO"
+msgstr "എസ്പറാന്റോ"
+
+msgid "ISO_639-2.ES"
+msgstr "സ്പാനിഷ്; കാസ്റ്റിലിയന്‍"
+
+msgid "ISO_639-2.ET"
+msgstr "എസ്ടോണിയന്‍"
+
+msgid "ISO_639-2.EU"
+msgstr "ബാസ്ക്"
+
+msgid "ISO_639-2.FA"
+msgstr "പേര്‍ശ്യന്‍"
+
+msgid "ISO_639-2.FF"
+msgstr "ഫൂലാ"
+
+msgid "ISO_639-2.FI"
+msgstr "ഫിന്നിഷ്"
+
+msgid "ISO_639-2.FJ"
+msgstr "ഫിജിയന്‍"
+
+msgid "ISO_639-2.FO"
+msgstr "ഫെറൊവീസ്"
+
+msgid "ISO_639-2.FR"
+msgstr "ഫ്രെഞ്ച്"
+
+msgid "ISO_639-2.FY"
+msgstr "പടിഞ്ഞാറന്‍ ഫ്രിഷന്‍"
+
+msgid "ISO_639-2.GA"
+msgstr "ഐറിഷ്"
+
+msgid "ISO_639-2.GD"
+msgstr "ഗെയ്ലിക്; സ്ക്കോട്ടിഷ് ഗെയ്ലിക്"
+
+msgid "ISO_639-2.GL"
+msgstr "ഗലീഷ്യന്‍"
+
+msgid "ISO_639-2.GN"
+msgstr "ഗ്വറാനി"
+
+msgid "ISO_639-2.GU"
+msgstr "ഗുജറാത്തി"
+
+msgid "ISO_639-2.GV"
+msgstr "മാങ്ക്സ്"
+
+msgid "ISO_639-2.HA"
+msgstr "ഹൌസാ"
+
+msgid "ISO_639-2.HE"
+msgstr "ഹീബ്രൂ"
+
+msgid "ISO_639-2.HI"
+msgstr "ഹിന്ദി"
+
+msgid "ISO_639-2.HO"
+msgstr "ഹിരി മോട്ടു"
+
+msgid "ISO_639-2.HR"
+msgstr "ക്രൊയേഷ്യന്‍"
+
+msgid "ISO_639-2.HT"
+msgstr "ഹയാത്തിയന്‍, ഹയാത്തിയന്‍ ക്രിയോള്‍"
+
+msgid "ISO_639-2.HU"
+msgstr "ഹംഗേറിയന്‍"
+
+msgid "ISO_639-2.HY"
+msgstr "അര്‍മേനിയന്‍"
+
+msgid "ISO_639-2.HZ"
+msgstr "ഹെറേറോ"
+
+msgid "ISO_639-2.IA"
+msgstr "ഇന്റര്‍ലിങ്ക്വാ (ഇന്റര്‍നാഷണല്‍ ഓക്സിലിയറി ലാങ്ക്വേജ് അസോസിയേഷന്‍)"
+
+msgid "ISO_639-2.ID"
+msgstr "ഇന്‍ഡൊനേഷ്യന്‍"
+
+msgid "ISO_639-2.IE"
+msgstr "ഇന്റര്‍ലിങ്ക്വ; ഓക്സിഡന്റ‌ല്‍"
+
+msgid "ISO_639-2.IG"
+msgstr "ഇഗ്ബോ"
+
+msgid "ISO_639-2.II"
+msgstr "സിച്ച്വാന്‍ യി; ന്വോസു"
+
+msgid "ISO_639-2.IK"
+msgstr "ഇനൂപിയാക്"
+
+msgid "ISO_639-2.IO"
+msgstr "ഐഡോ"
+
+msgid "ISO_639-2.IS"
+msgstr "ഐസ്‌ലൈന്‍ഡിക്"
+
+msgid "ISO_639-2.IT"
+msgstr "ഇറ്റാലിയന്‍"
+
+msgid "ISO_639-2.IU"
+msgstr "ഇനൂക്ടിടൂട്ട്"
+
+msgid "ISO_639-2.JA"
+msgstr "ജാപ്പനീസ്"
+
+msgid "ISO_639-2.JV"
+msgstr "ജാവനീസ്"
+
+msgid "ISO_639-2.KA"
+msgstr "ജോര്‍ജ്യന്‍"
+
+msgid "ISO_639-2.KG"
+msgstr "കോങ്കോ"
+
+msgid "ISO_639-2.KI"
+msgstr "കിക്കൂയൂ; ഗിക്കൂയു"
+
+msgid "ISO_639-2.KJ"
+msgstr "ക്വാന്യാമാ"
+
+msgid "ISO_639-2.KK"
+msgstr "ഖസക്"
+
+msgid "ISO_639-2.KL"
+msgstr "കലാലിസട്ട്; ഗ്രീന്‍ലാന്‍ഡിക്"
+
+msgid "ISO_639-2.KM"
+msgstr "സെന്‍ട്രല്‍ ഖ്മര്‍"
+
+msgid "ISO_639-2.KN"
+msgstr "കന്നഡ"
+
+msgid "ISO_639-2.KO"
+msgstr "കൊറിയന്‍"
+
+msgid "ISO_639-2.KR"
+msgstr "കനൂരി"
+
+msgid "ISO_639-2.KS"
+msgstr "കാഷ്മീരി"
+
+msgid "ISO_639-2.KU"
+msgstr "കര്‍ഡിഷ്"
+
+msgid "ISO_639-2.KV"
+msgstr "കോമി"
+
+msgid "ISO_639-2.KW"
+msgstr "കോര്‍ണിഷ്"
+
+msgid "ISO_639-2.KY"
+msgstr "കിര്‍ഗിസ്"
+
+msgid "ISO_639-2.LA"
+msgstr "ലാറ്റിന്‍"
+
+msgid "ISO_639-2.LB"
+msgstr "ലക്സംബൂര്‍ജിഷ്; ലെറ്റ്സബൂര്‍ഗിഷ്"
+
+msgid "ISO_639-2.LG"
+msgstr "ഗാണ്ടാ"
+
+msgid "ISO_639-2.LI"
+msgstr "ലിംബര്‍ഗന്‍; ലിംബര്‍ഗര്‍; ലിംബര്‍ഗിഷ്"
+
+msgid "ISO_639-2.LN"
+msgstr "ലിങ്കാലാ"
+
+msgid "ISO_639-2.LO"
+msgstr "ലാവോ"
+
+msgid "ISO_639-2.LT"
+msgstr "ലിഥ്വാനിയന്‍"
+
+msgid "ISO_639-2.LU"
+msgstr "ല്യൂബാ-കട്ടാങ്കാ"
+
+msgid "ISO_639-2.LV"
+msgstr "ലാട്വിയന്‍"
+
+msgid "ISO_639-2.MG"
+msgstr "മലാഗസി"
+
+msgid "ISO_639-2.MH"
+msgstr "മാര്‍ഷലീസ്"
+
+msgid "ISO_639-2.MI"
+msgstr "മാവോരി"
+
+msgid "ISO_639-2.MK"
+msgstr "മസിഡോണിയന്‍"
+
+msgid "ISO_639-2.ML"
+msgstr "മലയാളം"
+
+msgid "ISO_639-2.MN"
+msgstr "മംഗോളിയന്‍"
+
+msgid "ISO_639-2.MR"
+msgstr "മറാത്തി"
+
+msgid "ISO_639-2.MS"
+msgstr "മലയ്"
+
+msgid "ISO_639-2.MT"
+msgstr "മാള്‍ട്ടീസ്"
+
+msgid "ISO_639-2.MY"
+msgstr "ബര്‍മീസ്"
+
+msgid "ISO_639-2.NA"
+msgstr "നൊറു"
+
+msgid "ISO_639-2.NB"
+msgstr "ബൂക്ക്മോള്‍, നോര്‍വീജിയന്‍; നോര്‍വീജിയന്‍ ബൂക്ക്മോള്‍"
+
+msgid "ISO_639-2.ND"
+msgstr "അണ്ടബീലി, വടക്ക്; വടക്കന്‍ അണ്ടബീലി"
+
+msgid "ISO_639-2.NE"
+msgstr "നേപ്പാളി"
+
+msgid "ISO_639-2.NG"
+msgstr "ഡോങ്കാ"
+
+msgid "ISO_639-2.NL"
+msgstr "ഡച്ച്, ഫ്ലെമിഷ്"
+
+msgid "ISO_639-2.NN"
+msgstr "നോര്‍വീജിയന്‍ നീനോഴ്സ്ക്; നീനോഴ്സ്ക്, നോര്‍വീജിയന്‍ "
+
+msgid "ISO_639-2.NO"
+msgstr "നോര്‍വീജിയന്‍"
+
+msgid "ISO_639-2.NR"
+msgstr "അണ്ടബീലി, തെക്ക്; തെക്കന്‍ അണ്ടബീലി"
+
+msgid "ISO_639-2.NV"
+msgstr "നാവഹോ"
+
+msgid "ISO_639-2.NY"
+msgstr "ചിച്ചേവാ; ചേവാ; ന്യാഞ്ചാ"
+
+msgid "ISO_639-2.OC"
+msgstr "ഓക്സിറ്റാന്‍ (1500-നു് ശേഷം)"
+
+msgid "ISO_639-2.OJ"
+msgstr "ഓജിബ്‌വേ"
+
+msgid "ISO_639-2.OM"
+msgstr "ഒറോമോ"
+
+msgid "ISO_639-2.OR"
+msgstr "ഒറിയ"
+
+msgid "ISO_639-2.OS"
+msgstr "ഒസീഷന്‍; ഒസീറ്റിക്"
+
+msgid "ISO_639-2.PA"
+msgstr "പഞ്ചാബി"
+
+msgid "ISO_639-2.PI"
+msgstr "പാലി"
+
+msgid "ISO_639-2.PL"
+msgstr "പോളിഷ്"
+
+msgid "ISO_639-2.PS"
+msgstr "പാഷ്തോ"
+
+msgid "ISO_639-2.PT"
+msgstr "പോര്‍ച്ചുഗീസ്"
+
+msgid "ISO_639-2.QU"
+msgstr "കെച്ച്വാ"
+
+msgid "ISO_639-2.RM"
+msgstr "റൊമാന്‍ഷ്"
+
+msgid "ISO_639-2.RN"
+msgstr "റുണ്ടി"
+
+msgid "ISO_639-2.RO"
+msgstr "മോള്‍ഡാവിയന്‍; മോള്‍ഡോവാന്‍"
+
+msgid "ISO_639-2.RU"
+msgstr "റഷ്യന്‍"
+
+msgid "ISO_639-2.RW"
+msgstr "കിന്യാര്‍വാണ്ടാ"
+
+msgid "ISO_639-2.SA"
+msgstr "സംസ്കൃതം"
+
+msgid "ISO_639-2.SC"
+msgstr "സാര്‍ഡീനിയന്‍"
+
+msgid "ISO_639-2.SD"
+msgstr "സിന്ദി"
+
+msgid "ISO_639-2.SE"
+msgstr "വടക്കന്‍ സാമി"
+
+msgid "ISO_639-2.SG"
+msgstr "സാങ്കോ"
+
+msgid "ISO_639-2.SI"
+msgstr "സിന്‍ഹാലാ; സിന്‍ഹാലീസ്"
+
+msgid "ISO_639-2.SK"
+msgstr "സ്ലോവാക്"
+
+msgid "ISO_639-2.SL"
+msgstr "സ്ലോവേനിയന്‍"
+
+msgid "ISO_639-2.SM"
+msgstr "സമോവന്‍"
+
+msgid "ISO_639-2.SN"
+msgstr "ഷോണാ"
+
+msgid "ISO_639-2.SO"
+msgstr "സോമാലി"
+
+msgid "ISO_639-2.SQ"
+msgstr "അല്‍ബാനിയന്‍"
+
+msgid "ISO_639-2.SR"
+msgstr "സെര്‍ബിയന്‍"
+
+msgid "ISO_639-2.SS"
+msgstr "സ്വാതി"
+
+msgid "ISO_639-2.ST"
+msgstr "സോഥോ, തെക്കന്‍"
+
+msgid "ISO_639-2.SU"
+msgstr "സുണ്ടനീസ്"
+
+msgid "ISO_639-2.SV"
+msgstr "സ്വീഡിഷ്"
+
+msgid "ISO_639-2.SW"
+msgstr "സ്വാഹിലി"
+
+msgid "ISO_639-2.TA"
+msgstr "തമിഴ്"
+
+msgid "ISO_639-2.TE"
+msgstr "തെലുങ്കു"
+
+msgid "ISO_639-2.TG"
+msgstr "താജിക്"
+
+msgid "ISO_639-2.TH"
+msgstr "തായി"
+
+msgid "ISO_639-2.TI"
+msgstr "തിങ്രിയാ"
+
+msgid "ISO_639-2.TK"
+msgstr "ടുര്‍ക്ക്മെന്‍"
+
+msgid "ISO_639-2.TL"
+msgstr "തഗാലോ"
+
+msgid "ISO_639-2.TN"
+msgstr "സ്വാനാ"
+
+msgid "ISO_639-2.TO"
+msgstr "ടോങ്കാ (ടോങ്കാ ദ്വീപുകള്‍)"
+
+msgid "ISO_639-2.TR"
+msgstr "ടര്‍ക്കിഷ്"
+
+msgid "ISO_639-2.TS"
+msgstr "സോങ്കാ"
+
+msgid "ISO_639-2.TT"
+msgstr "ടാട്ടര്‍"
+
+msgid "ISO_639-2.TW"
+msgstr "ട്വീ"
+
+msgid "ISO_639-2.TY"
+msgstr "തഹീതിയന്‍"
+
+msgid "ISO_639-2.UG"
+msgstr "വീഗോര്‍"
+
+msgid "ISO_639-2.UK"
+msgstr "യുക്രേനിയന്‍"
+
+msgid "ISO_639-2.UR"
+msgstr "ഉര്‍ദു"
+
+msgid "ISO_639-2.UZ"
+msgstr "ഉസ്ബെക്"
+
+msgid "ISO_639-2.VE"
+msgstr "വെന്‍ഡാ"
+
+msgid "ISO_639-2.VI"
+msgstr "വിയറ്റ്നാമീസ്"
+
+msgid "ISO_639-2.VO"
+msgstr "വോള്‍പീക്"
+
+msgid "ISO_639-2.WA"
+msgstr "വലൂണ്‍"
+
+msgid "ISO_639-2.WO"
+msgstr "വോളോഫ്"
+
+msgid "ISO_639-2.XH"
+msgstr "ഖ്സോസാ"
+
+msgid "ISO_639-2.YI"
+msgstr "യിഡിഷ്"
+
+msgid "ISO_639-2.YO"
+msgstr "യൊറൂബാ"
+
+msgid "ISO_639-2.ZA"
+msgstr "സ്വാങ്; ച്വാങ്"
+
+msgid "ISO_639-2.ZH"
+msgstr "ചൈനീസ്"
+
+msgid "ISO_639-2.ZU"
+msgstr "സുളു"

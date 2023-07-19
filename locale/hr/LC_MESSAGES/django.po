@@ -1,0 +1,417 @@
+# Croatian translations of ISO 639  Language names
+# Copyright © 2000, 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Vladimir Vuksan <vuksan@veus.hr>, 2000.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Tomislav Krznar <tomislav.krznar@gmail.com>, 2012, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-04-18 14:11+0200\n"
+"Last-Translator: Tomislav Krznar <tomislav.krznar@gmail.com>\n"
+"Language-Team: Croatian <lokalizacija@linux.hr>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "afarski"
+
+msgid "ISO_639-2.AB"
+msgstr "abhaski"
+
+msgid "ISO_639-2.AE"
+msgstr "avestički"
+
+msgid "ISO_639-2.AF"
+msgstr "afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "akanski"
+
+msgid "ISO_639-2.AM"
+msgstr "amharski"
+
+msgid "ISO_639-2.AN"
+msgstr "aragonski"
+
+msgid "ISO_639-2.AR"
+msgstr "arapski"
+
+msgid "ISO_639-2.AS"
+msgstr "asamski"
+
+msgid "ISO_639-2.AV"
+msgstr "avarski"
+
+msgid "ISO_639-2.AY"
+msgstr "ajmarski"
+
+msgid "ISO_639-2.AZ"
+msgstr "azerbejdžanski"
+
+msgid "ISO_639-2.BA"
+msgstr "baškirski"
+
+msgid "ISO_639-2.BE"
+msgstr "bjeloruski"
+
+msgid "ISO_639-2.BG"
+msgstr "bugarski"
+
+msgid "ISO_639-2.BH"
+msgstr "biharski jezici"
+
+msgid "ISO_639-2.BI"
+msgstr "bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "bambarski"
+
+msgid "ISO_639-2.BN"
+msgstr "bengalski"
+
+msgid "ISO_639-2.BO"
+msgstr "tibetski"
+
+msgid "ISO_639-2.BR"
+msgstr "bretonski"
+
+msgid "ISO_639-2.BS"
+msgstr "bosanski"
+
+msgid "ISO_639-2.CA"
+msgstr "katalonski; valencijski"
+
+msgid "ISO_639-2.CE"
+msgstr "čečenski"
+
+msgid "ISO_639-2.CO"
+msgstr "korzički"
+
+msgid "ISO_639-2.CR"
+msgstr "krijski"
+
+msgid "ISO_639-2.CS"
+msgstr "češki"
+
+msgid "ISO_639-2.CV"
+msgstr "čuvaški"
+
+msgid "ISO_639-2.CY"
+msgstr "velški"
+
+msgid "ISO_639-2.DA"
+msgstr "danski"
+
+msgid "ISO_639-2.DE"
+msgstr "njemački"
+
+msgid "ISO_639-2.DV"
+msgstr "divehi; maldivski"
+
+msgid "ISO_639-2.EL"
+msgstr "novogrčki (od 1453.)"
+
+msgid "ISO_639-2.EN"
+msgstr "engleski"
+
+msgid "ISO_639-2.EO"
+msgstr "esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "španjolski; kastiljanski"
+
+msgid "ISO_639-2.ET"
+msgstr "estonski"
+
+msgid "ISO_639-2.EU"
+msgstr "baskijski"
+
+msgid "ISO_639-2.FA"
+msgstr "perzijski"
+
+msgid "ISO_639-2.FF"
+msgstr "fulanski"
+
+msgid "ISO_639-2.FI"
+msgstr "finski"
+
+msgid "ISO_639-2.FJ"
+msgstr "fidžijski"
+
+msgid "ISO_639-2.FO"
+msgstr "ferojski"
+
+msgid "ISO_639-2.FR"
+msgstr "francuski"
+
+msgid "ISO_639-2.FY"
+msgstr "zapadnofrizijski"
+
+msgid "ISO_639-2.GA"
+msgstr "irski"
+
+msgid "ISO_639-2.GD"
+msgstr "škotski gaelski"
+
+msgid "ISO_639-2.GL"
+msgstr "galicijski"
+
+msgid "ISO_639-2.GU"
+msgstr "gudžaratski"
+
+msgid "ISO_639-2.GV"
+msgstr "manski"
+
+msgid "ISO_639-2.HA"
+msgstr "hauski"
+
+msgid "ISO_639-2.HE"
+msgstr "hebrejski"
+
+msgid "ISO_639-2.HI"
+msgstr "hindski"
+
+msgid "ISO_639-2.HR"
+msgstr "hrvatski"
+
+msgid "ISO_639-2.HT"
+msgstr "haićanski kreolski"
+
+msgid "ISO_639-2.HU"
+msgstr "mađarski"
+
+msgid "ISO_639-2.HY"
+msgstr "armenski"
+
+msgid "ISO_639-2.IA"
+msgstr "interlingua"
+
+msgid "ISO_639-2.ID"
+msgstr "indonezijski"
+
+msgid "ISO_639-2.IO"
+msgstr "ido"
+
+msgid "ISO_639-2.IS"
+msgstr "islandski"
+
+msgid "ISO_639-2.IT"
+msgstr "talijanski"
+
+msgid "ISO_639-2.JA"
+msgstr "japanski"
+
+msgid "ISO_639-2.JV"
+msgstr "javanski"
+
+msgid "ISO_639-2.KA"
+msgstr "gruzijski"
+
+msgid "ISO_639-2.KK"
+msgstr "kazaški"
+
+msgid "ISO_639-2.KL"
+msgstr "grenlandski"
+
+msgid "ISO_639-2.KM"
+msgstr "kmerski"
+
+msgid "ISO_639-2.KO"
+msgstr "korejski"
+
+msgid "ISO_639-2.KR"
+msgstr "kanurski"
+
+msgid "ISO_639-2.KS"
+msgstr "kašmirski"
+
+msgid "ISO_639-2.KU"
+msgstr "kurdski"
+
+msgid "ISO_639-2.KY"
+msgstr "kirgiški"
+
+msgid "ISO_639-2.LA"
+msgstr "latinski"
+
+msgid "ISO_639-2.LB"
+msgstr "luksemburški"
+
+msgid "ISO_639-2.LI"
+msgstr "limburški"
+
+msgid "ISO_639-2.LN"
+msgstr "lingala"
+
+msgid "ISO_639-2.LT"
+msgstr "litavski"
+
+msgid "ISO_639-2.LV"
+msgstr "latvijski"
+
+msgid "ISO_639-2.MG"
+msgstr "malgaški"
+
+msgid "ISO_639-2.MH"
+msgstr "maršalski"
+
+msgid "ISO_639-2.MI"
+msgstr "maorski"
+
+msgid "ISO_639-2.MK"
+msgstr "makedonski"
+
+msgid "ISO_639-2.ML"
+msgstr "malajalamski"
+
+msgid "ISO_639-2.MN"
+msgstr "mongolski"
+
+msgid "ISO_639-2.MS"
+msgstr "malajski"
+
+msgid "ISO_639-2.MT"
+msgstr "malteški"
+
+msgid "ISO_639-2.MY"
+msgstr "burmanski"
+
+msgid "ISO_639-2.NA"
+msgstr "nauruski"
+
+msgid "ISO_639-2.NB"
+msgstr "knjiški norveški (bokmål)"
+
+msgid "ISO_639-2.NE"
+msgstr "nepalski"
+
+msgid "ISO_639-2.NG"
+msgstr "ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "nizozemski; flamanski"
+
+msgid "ISO_639-2.NN"
+msgstr "novonorveški (nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "norveški"
+
+msgid "ISO_639-2.OC"
+msgstr "okcitanski (nakon 1500.)"
+
+msgid "ISO_639-2.OS"
+msgstr "osetski"
+
+msgid "ISO_639-2.PA"
+msgstr "istočnopandžapski"
+
+msgid "ISO_639-2.PL"
+msgstr "poljski"
+
+msgid "ISO_639-2.PS"
+msgstr "paštunski"
+
+msgid "ISO_639-2.PT"
+msgstr "portugalski"
+
+msgid "ISO_639-2.QU"
+msgstr "kečuanski"
+
+msgid "ISO_639-2.RM"
+msgstr "retoromanski"
+
+msgid "ISO_639-2.RO"
+msgstr "moldavski"
+
+msgid "ISO_639-2.RU"
+msgstr "ruski"
+
+msgid "ISO_639-2.SA"
+msgstr "sanskrt"
+
+msgid "ISO_639-2.SC"
+msgstr "sardinijski"
+
+msgid "ISO_639-2.SK"
+msgstr "slovački"
+
+msgid "ISO_639-2.SL"
+msgstr "slovenski"
+
+msgid "ISO_639-2.SM"
+msgstr "samoanski"
+
+msgid "ISO_639-2.SO"
+msgstr "somalski"
+
+msgid "ISO_639-2.SQ"
+msgstr "albanski"
+
+msgid "ISO_639-2.SR"
+msgstr "srpski"
+
+msgid "ISO_639-2.SV"
+msgstr "švedski"
+
+msgid "ISO_639-2.SW"
+msgstr "svahili"
+
+msgid "ISO_639-2.TA"
+msgstr "tamilski"
+
+msgid "ISO_639-2.TE"
+msgstr "teluški"
+
+msgid "ISO_639-2.TG"
+msgstr "tadžikistanski"
+
+msgid "ISO_639-2.TH"
+msgstr "tajlandski"
+
+msgid "ISO_639-2.TK"
+msgstr "turkmenski"
+
+msgid "ISO_639-2.TR"
+msgstr "turski"
+
+msgid "ISO_639-2.TT"
+msgstr "tatarski"
+
+msgid "ISO_639-2.TY"
+msgstr "tahićanski"
+
+msgid "ISO_639-2.UG"
+msgstr "ujgurski"
+
+msgid "ISO_639-2.UK"
+msgstr "ukrajinski"
+
+msgid "ISO_639-2.UR"
+msgstr "urdski"
+
+msgid "ISO_639-2.UZ"
+msgstr "uzbečki"
+
+msgid "ISO_639-2.VI"
+msgstr "vijetnamski"
+
+msgid "ISO_639-2.WA"
+msgstr "valonski"
+
+msgid "ISO_639-2.YI"
+msgstr "jidiš"
+
+msgid "ISO_639-2.ZH"
+msgstr "kineski"

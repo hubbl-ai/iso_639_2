@@ -1,0 +1,509 @@
+# Translation of ISO-639 (language names) to Persian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2004
+#   Sharif FarsiWeb, Inc., 2004
+#   Roozbeh Pournader <roozbeh@farsiweb.info>, 2004,2005.
+#   Alastair McKinstry <mckinstry@debian.org>, 2004
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2005-08-02 17:35+0430\n"
+"Last-Translator: Roozbeh Pournader <roozbeh@farsiweb.info>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "آفاری"
+
+msgid "ISO_639-2.AB"
+msgstr "آبخازی"
+
+msgid "ISO_639-2.AE"
+msgstr "اوستایی"
+
+msgid "ISO_639-2.AF"
+msgstr "آفریکانس"
+
+msgid "ISO_639-2.AM"
+msgstr "امهری"
+
+msgid "ISO_639-2.AR"
+msgstr "عربی"
+
+msgid "ISO_639-2.AS"
+msgstr "آسامی"
+
+msgid "ISO_639-2.AV"
+msgstr "آواری"
+
+msgid "ISO_639-2.AY"
+msgstr "آیمارایی"
+
+msgid "ISO_639-2.AZ"
+msgstr "آذربایجانی"
+
+msgid "ISO_639-2.BA"
+msgstr "باشغیری"
+
+msgid "ISO_639-2.BE"
+msgstr "بلوروسی"
+
+msgid "ISO_639-2.BG"
+msgstr "بلغاری"
+
+msgid "ISO_639-2.BH"
+msgstr "زبانهای توپیایی"
+
+msgid "ISO_639-2.BI"
+msgstr "بیسلاما"
+
+msgid "ISO_639-2.BM"
+msgstr "بامبارایی"
+
+msgid "ISO_639-2.BN"
+msgstr "بنگالی"
+
+msgid "ISO_639-2.BO"
+msgstr "تبتی"
+
+msgid "ISO_639-2.BR"
+msgstr "برتانیایی"
+
+msgid "ISO_639-2.BS"
+msgstr "بوسنیایی"
+
+msgid "ISO_639-2.CE"
+msgstr "چچنی"
+
+msgid "ISO_639-2.CH"
+msgstr "چامورویی"
+
+msgid "ISO_639-2.CR"
+msgstr "کریایی"
+
+msgid "ISO_639-2.CS"
+msgstr "چکی"
+
+msgid "ISO_639-2.CV"
+msgstr "چوواشی"
+
+msgid "ISO_639-2.CY"
+msgstr "ویلزی"
+
+msgid "ISO_639-2.DA"
+msgstr "دانمارکی"
+
+msgid "ISO_639-2.DE"
+msgstr "آلمانی"
+
+msgid "ISO_639-2.DZ"
+msgstr "بوتانی"
+
+msgid "ISO_639-2.EE"
+msgstr "اوه‌ای"
+
+msgid "ISO_639-2.EL"
+msgstr "یونانی امروزی (۱۴۵۳ م. به بعد)"
+
+msgid "ISO_639-2.EN"
+msgstr "انگلیسی"
+
+msgid "ISO_639-2.EO"
+msgstr "اسپرانتو"
+
+msgid "ISO_639-2.ET"
+msgstr "استونیایی"
+
+msgid "ISO_639-2.EU"
+msgstr "باسکی"
+
+msgid "ISO_639-2.FA"
+msgstr "فارسی"
+
+msgid "ISO_639-2.FF"
+msgstr "فولایی"
+
+msgid "ISO_639-2.FI"
+msgstr "فنلاندی"
+
+msgid "ISO_639-2.FJ"
+msgstr "فیجیایی"
+
+msgid "ISO_639-2.FO"
+msgstr "فارویی"
+
+msgid "ISO_639-2.FR"
+msgstr "فرانسوی"
+
+msgid "ISO_639-2.FY"
+msgstr "فریزی"
+
+msgid "ISO_639-2.GA"
+msgstr "ایرلندی"
+
+msgid "ISO_639-2.GD"
+msgstr "گیلی؛ اسکاتلندی"
+
+msgid "ISO_639-2.GN"
+msgstr "گوارانی"
+
+msgid "ISO_639-2.GU"
+msgstr "گجراتی"
+
+msgid "ISO_639-2.GV"
+msgstr "مانی"
+
+msgid "ISO_639-2.HA"
+msgstr "هوسیایی"
+
+msgid "ISO_639-2.HE"
+msgstr "عبری"
+
+msgid "ISO_639-2.HI"
+msgstr "هندی"
+
+msgid "ISO_639-2.HR"
+msgstr "کرواتی"
+
+msgid "ISO_639-2.HT"
+msgstr "هاییتیایی؛ کریولی هاییتیایی"
+
+msgid "ISO_639-2.HU"
+msgstr "مجاری"
+
+msgid "ISO_639-2.HY"
+msgstr "ارمنی"
+
+msgid "ISO_639-2.HZ"
+msgstr "هریرویی"
+
+msgid "ISO_639-2.ID"
+msgstr "اندونزیایی"
+
+msgid "ISO_639-2.IG"
+msgstr "ایگبویی"
+
+msgid "ISO_639-2.II"
+msgstr "یی سیچوان"
+
+msgid "ISO_639-2.IK"
+msgstr "اینوپیک"
+
+msgid "ISO_639-2.IS"
+msgstr "ایسلندی"
+
+msgid "ISO_639-2.IT"
+msgstr "ایتالیایی"
+
+msgid "ISO_639-2.IU"
+msgstr "اینوکیتوت"
+
+msgid "ISO_639-2.JA"
+msgstr "ژاپنی"
+
+msgid "ISO_639-2.JV"
+msgstr "جاوه‌ای"
+
+msgid "ISO_639-2.KA"
+msgstr "گرجی"
+
+msgid "ISO_639-2.KG"
+msgstr "کنگویی"
+
+msgid "ISO_639-2.KI"
+msgstr "کیکویویی"
+
+msgid "ISO_639-2.KK"
+msgstr "قزاقی"
+
+msgid "ISO_639-2.KN"
+msgstr "کاناده‌ای"
+
+msgid "ISO_639-2.KO"
+msgstr "کره‌ای"
+
+msgid "ISO_639-2.KR"
+msgstr "کانوریایی"
+
+msgid "ISO_639-2.KS"
+msgstr "کشمیری"
+
+msgid "ISO_639-2.KU"
+msgstr "کردی"
+
+msgid "ISO_639-2.KV"
+msgstr "کومیایی"
+
+msgid "ISO_639-2.KW"
+msgstr "کرنوالی"
+
+msgid "ISO_639-2.KY"
+msgstr "قرقیزی"
+
+msgid "ISO_639-2.LA"
+msgstr "لاتینی"
+
+msgid "ISO_639-2.LB"
+msgstr "لوکزامبورگی"
+
+msgid "ISO_639-2.LG"
+msgstr "گاندایی"
+
+msgid "ISO_639-2.LN"
+msgstr "لینگالا"
+
+msgid "ISO_639-2.LO"
+msgstr "لائوسی"
+
+msgid "ISO_639-2.LT"
+msgstr "لیتوانیایی"
+
+msgid "ISO_639-2.LU"
+msgstr "لوبایی-کاتانگا"
+
+msgid "ISO_639-2.LV"
+msgstr "لتونیایی"
+
+msgid "ISO_639-2.MG"
+msgstr "مالاگاسیایی"
+
+msgid "ISO_639-2.MH"
+msgstr "مارشالی"
+
+msgid "ISO_639-2.MI"
+msgstr "مائوریایی"
+
+msgid "ISO_639-2.MK"
+msgstr "مقدونی"
+
+msgid "ISO_639-2.ML"
+msgstr "مالایالامی"
+
+msgid "ISO_639-2.MN"
+msgstr "مغولی"
+
+msgid "ISO_639-2.MR"
+msgstr "مراتی"
+
+msgid "ISO_639-2.MS"
+msgstr "مالزیایی"
+
+msgid "ISO_639-2.MT"
+msgstr "مالتی"
+
+msgid "ISO_639-2.MY"
+msgstr "برمه‌ای"
+
+msgid "ISO_639-2.NA"
+msgstr "نائورویی"
+
+msgid "ISO_639-2.ND"
+msgstr "انده‌بله‌ای شمالی"
+
+msgid "ISO_639-2.NE"
+msgstr "نپالی"
+
+msgid "ISO_639-2.NG"
+msgstr "ندونگایی"
+
+msgid "ISO_639-2.NN"
+msgstr "نورسک جدید نروژی"
+
+msgid "ISO_639-2.NO"
+msgstr "نروژی"
+
+msgid "ISO_639-2.NR"
+msgstr "انده‌بله‌ای جنوبی"
+
+msgid "ISO_639-2.NV"
+msgstr "ناواهویی"
+
+msgid "ISO_639-2.NY"
+msgstr "چوایی؛ نیانجایی"
+
+msgid "ISO_639-2.OJ"
+msgstr "اوجیبوایی"
+
+msgid "ISO_639-2.OR"
+msgstr "اوریه‌ای"
+
+msgid "ISO_639-2.OS"
+msgstr "آسی"
+
+msgid "ISO_639-2.PA"
+msgstr "پنجابی"
+
+msgid "ISO_639-2.PI"
+msgstr "پالی"
+
+msgid "ISO_639-2.PL"
+msgstr "لهستانی"
+
+msgid "ISO_639-2.PS"
+msgstr "پشتو"
+
+msgid "ISO_639-2.PT"
+msgstr "پرتغالی"
+
+msgid "ISO_639-2.QU"
+msgstr "کچوایی"
+
+msgid "ISO_639-2.RM"
+msgstr "رومانویی"
+
+msgid "ISO_639-2.RN"
+msgstr "روندیایی"
+
+msgid "ISO_639-2.RO"
+msgstr "مولداویایی"
+
+msgid "ISO_639-2.RU"
+msgstr "روسی"
+
+msgid "ISO_639-2.RW"
+msgstr "کینیارواندایی"
+
+msgid "ISO_639-2.SA"
+msgstr "سنسکریت"
+
+msgid "ISO_639-2.SC"
+msgstr "ساردینیایی"
+
+msgid "ISO_639-2.SD"
+msgstr "سندی"
+
+msgid "ISO_639-2.SG"
+msgstr "سانگویی"
+
+msgid "ISO_639-2.SI"
+msgstr "سینهالی"
+
+msgid "ISO_639-2.SK"
+msgstr "اسلواکی"
+
+msgid "ISO_639-2.SL"
+msgstr "اسلووینیایی"
+
+msgid "ISO_639-2.SM"
+msgstr "ساموآیی"
+
+msgid "ISO_639-2.SN"
+msgstr "شونایی"
+
+msgid "ISO_639-2.SO"
+msgstr "سومالیایی"
+
+msgid "ISO_639-2.SQ"
+msgstr "آلبانیایی"
+
+msgid "ISO_639-2.SR"
+msgstr "صربی"
+
+msgid "ISO_639-2.ST"
+msgstr "سوتویی جنوبی"
+
+msgid "ISO_639-2.SU"
+msgstr "سوندایی"
+
+msgid "ISO_639-2.SV"
+msgstr "سوئدی"
+
+msgid "ISO_639-2.SW"
+msgstr "سواحلی"
+
+msgid "ISO_639-2.TA"
+msgstr "تامیلی"
+
+msgid "ISO_639-2.TE"
+msgstr "تلوگویی"
+
+msgid "ISO_639-2.TG"
+msgstr "تاجیکی"
+
+msgid "ISO_639-2.TH"
+msgstr "تایلندی"
+
+msgid "ISO_639-2.TI"
+msgstr "تیگرینیایی"
+
+msgid "ISO_639-2.TK"
+msgstr "ترکمنی"
+
+msgid "ISO_639-2.TL"
+msgstr "تاگالوگی"
+
+msgid "ISO_639-2.TN"
+msgstr "تسوانایی"
+
+msgid "ISO_639-2.TO"
+msgstr "تونگایی (جزایر تونگا)"
+
+msgid "ISO_639-2.TR"
+msgstr "ترکی"
+
+msgid "ISO_639-2.TS"
+msgstr "تسونگایی"
+
+msgid "ISO_639-2.TT"
+msgstr "تاتاری"
+
+msgid "ISO_639-2.TW"
+msgstr "توی‌یایی"
+
+msgid "ISO_639-2.TY"
+msgstr "تاهیتیایی"
+
+msgid "ISO_639-2.UG"
+msgstr "اویغوری"
+
+msgid "ISO_639-2.UK"
+msgstr "اوکراینی"
+
+msgid "ISO_639-2.UR"
+msgstr "اردو"
+
+msgid "ISO_639-2.UZ"
+msgstr "ازبکی"
+
+msgid "ISO_639-2.VE"
+msgstr "وندایی"
+
+msgid "ISO_639-2.VI"
+msgstr "ویتنامی"
+
+msgid "ISO_639-2.VO"
+msgstr "ولاپوک"
+
+msgid "ISO_639-2.WA"
+msgstr "والونی"
+
+msgid "ISO_639-2.WO"
+msgstr "ولوفی"
+
+msgid "ISO_639-2.XH"
+msgstr "خوسایی"
+
+msgid "ISO_639-2.YI"
+msgstr "یدی"
+
+msgid "ISO_639-2.YO"
+msgstr "یوروبایی"
+
+msgid "ISO_639-2.ZA"
+msgstr "چوانگی؛ ژوانگی"
+
+msgid "ISO_639-2.ZH"
+msgstr "چینی"
+
+msgid "ISO_639-2.ZU"
+msgstr "زولویی"

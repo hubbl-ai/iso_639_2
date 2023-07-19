@@ -1,0 +1,392 @@
+# Translation of ISO-639 (language names) to Hindi
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Alastair McKinstry <mckinstry@debian.org>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 21:21+0100\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Hindi\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "अफ़ार"
+
+msgid "ISO_639-2.AB"
+msgstr "अब्खाज़ियन्"
+
+msgid "ISO_639-2.AF"
+msgstr "अफ्रीकी"
+
+msgid "ISO_639-2.AM"
+msgstr "अम्हारिक्"
+
+msgid "ISO_639-2.AR"
+msgstr "अरबी"
+
+msgid "ISO_639-2.AS"
+msgstr "असामी"
+
+msgid "ISO_639-2.AY"
+msgstr "आयमारा"
+
+msgid "ISO_639-2.AZ"
+msgstr "अज़रबैंजानी"
+
+msgid "ISO_639-2.BA"
+msgstr "बशख़िर"
+
+msgid "ISO_639-2.BE"
+msgstr "बैलोरूशियन्"
+
+msgid "ISO_639-2.BG"
+msgstr "बल्गेरियन्"
+
+msgid "ISO_639-2.BH"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-2.BI"
+msgstr "बिस्लामा"
+
+msgid "ISO_639-2.BN"
+msgstr "बँगाली"
+
+msgid "ISO_639-2.BO"
+msgstr "तिब्बती"
+
+msgid "ISO_639-2.BR"
+msgstr "ब्रेटन"
+
+msgid "ISO_639-2.CO"
+msgstr "कोर्सीकन"
+
+msgid "ISO_639-2.CS"
+msgstr "चेक"
+
+msgid "ISO_639-2.CY"
+msgstr "वेल्श"
+
+msgid "ISO_639-2.DA"
+msgstr "डैनीश"
+
+msgid "ISO_639-2.DE"
+msgstr "ज़र्मन"
+
+msgid "ISO_639-2.DZ"
+msgstr "भुटानी"
+
+msgid "ISO_639-2.EN"
+msgstr "अंग्रेजी"
+
+msgid "ISO_639-2.EO"
+msgstr "एस्पेरान्तो"
+
+msgid "ISO_639-2.ET"
+msgstr "ऐस्तोनियन्"
+
+msgid "ISO_639-2.EU"
+msgstr "बास्क्"
+
+msgid "ISO_639-2.FA"
+msgstr "पर्शियन्"
+
+msgid "ISO_639-2.FI"
+msgstr "फिनिश"
+
+msgid "ISO_639-2.FJ"
+msgstr "फ़ीजी"
+
+msgid "ISO_639-2.FO"
+msgstr "फिरोज़ी"
+
+msgid "ISO_639-2.FR"
+msgstr "फ्रेंच"
+
+msgid "ISO_639-2.FY"
+msgstr "फ्रीज़न्"
+
+msgid "ISO_639-2.GA"
+msgstr "आईरिश"
+
+msgid "ISO_639-2.GL"
+msgstr "गैलिशियन्"
+
+msgid "ISO_639-2.GN"
+msgstr "गुआरानी"
+
+msgid "ISO_639-2.GU"
+msgstr "गुज़राती"
+
+msgid "ISO_639-2.HA"
+msgstr "होउसा"
+
+msgid "ISO_639-2.HE"
+msgstr "हिब्रीऊ"
+
+msgid "ISO_639-2.HI"
+msgstr "हिंदी"
+
+msgid "ISO_639-2.HR"
+msgstr "क्रोएशन्"
+
+msgid "ISO_639-2.HU"
+msgstr "हंगेरी"
+
+msgid "ISO_639-2.HY"
+msgstr "अरमेनियन्"
+
+msgid "ISO_639-2.ID"
+msgstr "इन्डोनेशियन्"
+
+msgid "ISO_639-2.IE"
+msgstr "ईन्टरलिंगुइ"
+
+msgid "ISO_639-2.IK"
+msgstr "इनुपियाक्"
+
+msgid "ISO_639-2.IS"
+msgstr "आईस्लैंडिक्"
+
+msgid "ISO_639-2.IT"
+msgstr "ईटालियन्"
+
+msgid "ISO_639-2.IU"
+msgstr "इनूकीटूत्"
+
+msgid "ISO_639-2.JA"
+msgstr "जापानी"
+
+msgid "ISO_639-2.JV"
+msgstr "जावानीस"
+
+msgid "ISO_639-2.KA"
+msgstr "जॉर्जीयन्"
+
+msgid "ISO_639-2.KK"
+msgstr "कज़ाख"
+
+msgid "ISO_639-2.KN"
+msgstr "कन्नड़"
+
+msgid "ISO_639-2.KO"
+msgstr "कोरीयन्"
+
+msgid "ISO_639-2.KS"
+msgstr "काश्मिरी"
+
+msgid "ISO_639-2.KU"
+msgstr "कुरदीश"
+
+msgid "ISO_639-2.KY"
+msgstr "किरघिज़"
+
+msgid "ISO_639-2.LA"
+msgstr "लैटीन"
+
+msgid "ISO_639-2.LN"
+msgstr "लिंगाला"
+
+msgid "ISO_639-2.LO"
+msgstr "लाओथीयन्"
+
+msgid "ISO_639-2.LT"
+msgstr "लिथुनियन्"
+
+msgid "ISO_639-2.LV"
+msgstr "लाटवियन् (लेट्टीश)"
+
+msgid "ISO_639-2.MG"
+msgstr "मालागासी"
+
+msgid "ISO_639-2.MI"
+msgstr "मेओरी"
+
+msgid "ISO_639-2.MK"
+msgstr "मैसेडोनियन्"
+
+msgid "ISO_639-2.ML"
+msgstr "मलयालम"
+
+msgid "ISO_639-2.MN"
+msgstr "मोंगोलियन"
+
+msgid "ISO_639-2.MR"
+msgstr "मराठी"
+
+msgid "ISO_639-2.MS"
+msgstr "मलय"
+
+msgid "ISO_639-2.MT"
+msgstr "मालटिस्"
+
+msgid "ISO_639-2.MY"
+msgstr "बर्लिस"
+
+msgid "ISO_639-2.NA"
+msgstr "नायरू"
+
+msgid "ISO_639-2.NE"
+msgstr "नेपाली"
+
+msgid "ISO_639-2.NO"
+msgstr "नार्वेजीयन्"
+
+msgid "ISO_639-2.OM"
+msgstr "ओरोमो (अफ़ान)"
+
+msgid "ISO_639-2.OR"
+msgstr "उड़िया"
+
+msgid "ISO_639-2.PL"
+msgstr "पॉलिश"
+
+msgid "ISO_639-2.PT"
+msgstr "पुर्तुगी"
+
+msgid "ISO_639-2.QU"
+msgstr "क्वेशुआ"
+
+msgid "ISO_639-2.RM"
+msgstr "रूमानीयन्"
+
+msgid "ISO_639-2.RN"
+msgstr "किरून्दी"
+
+msgid "ISO_639-2.RO"
+msgstr "मोलडावियन्"
+
+msgid "ISO_639-2.RU"
+msgstr "रुसी"
+
+msgid "ISO_639-2.RW"
+msgstr "किन्यारवाण्डा"
+
+msgid "ISO_639-2.SA"
+msgstr "संस्कृत"
+
+msgid "ISO_639-2.SD"
+msgstr "सिन्धी"
+
+msgid "ISO_639-2.SG"
+msgstr "साँग्रो"
+
+msgid "ISO_639-2.SI"
+msgstr "शिंघालीस्"
+
+msgid "ISO_639-2.SK"
+msgstr "स्लोवाक्"
+
+msgid "ISO_639-2.SL"
+msgstr "स्लोवेनियन्"
+
+msgid "ISO_639-2.SM"
+msgstr "सामोन"
+
+msgid "ISO_639-2.SN"
+msgstr "सोणा"
+
+msgid "ISO_639-2.SO"
+msgstr "सोमाली"
+
+msgid "ISO_639-2.SQ"
+msgstr "अल्बेनियन्"
+
+msgid "ISO_639-2.SR"
+msgstr "सर्बियन्"
+
+msgid "ISO_639-2.SS"
+msgstr "सीस्वाटि"
+
+msgid "ISO_639-2.ST"
+msgstr "सेसोथो"
+
+msgid "ISO_639-2.SU"
+msgstr "सुन्दानीस"
+
+msgid "ISO_639-2.SV"
+msgstr "स्विडिश"
+
+msgid "ISO_639-2.SW"
+msgstr "स्वाहिली"
+
+msgid "ISO_639-2.TA"
+msgstr "तमिल"
+
+msgid "ISO_639-2.TE"
+msgstr "तेलेगु"
+
+msgid "ISO_639-2.TG"
+msgstr "ताजिक्"
+
+msgid "ISO_639-2.TH"
+msgstr "थाई"
+
+msgid "ISO_639-2.TI"
+msgstr "तिग्रीन्या"
+
+msgid "ISO_639-2.TK"
+msgstr "तुक्रमेन"
+
+msgid "ISO_639-2.TL"
+msgstr "तागालोग"
+
+msgid "ISO_639-2.TN"
+msgstr "सेत्स्वाना"
+
+msgid "ISO_639-2.TO"
+msgstr "टोंगा"
+
+msgid "ISO_639-2.TR"
+msgstr "तुक्रीश"
+
+msgid "ISO_639-2.TS"
+msgstr "सोंगा"
+
+msgid "ISO_639-2.TT"
+msgstr "टाटर"
+
+msgid "ISO_639-2.TW"
+msgstr "ट्वी"
+
+msgid "ISO_639-2.UG"
+msgstr "उईघुर"
+
+msgid "ISO_639-2.UK"
+msgstr "यूक्रेनियन्"
+
+msgid "ISO_639-2.UR"
+msgstr "ऊर्दु"
+
+msgid "ISO_639-2.UZ"
+msgstr "उज़बेक्"
+
+msgid "ISO_639-2.VI"
+msgstr "वियेतनामी"
+
+msgid "ISO_639-2.WO"
+msgstr "वोलोफ"
+
+msgid "ISO_639-2.XH"
+msgstr "षोसा"
+
+msgid "ISO_639-2.YI"
+msgstr "येहुदी"
+
+msgid "ISO_639-2.YO"
+msgstr "योरूबा"
+
+msgid "ISO_639-2.ZH"
+msgstr "चीनी"
+
+msgid "ISO_639-2.ZU"
+msgstr "ज़ुलू"

@@ -1,0 +1,571 @@
+# Translation of ISO-639 (language names) to Japanese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2000, 2001, 2004, 2005, 2006
+#   Yukihiro Nakai <nakai@gnome.gr.jp>, 2000.
+#   Takuro Ashie <ashie@homa.ne.jp>, 2001.
+#   Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   IIDA Yosiaki <iida@gnu.org>, 2004, 2005, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-02-07 19:39+0900\n"
+"Last-Translator: IIDA Yosiaki <iida@gnu.org>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "アファル語"
+
+msgid "ISO_639-2.AB"
+msgstr "アブハジア語"
+
+msgid "ISO_639-2.AE"
+msgstr "アヴェスタ語"
+
+msgid "ISO_639-2.AF"
+msgstr "アフリカーンス語"
+
+msgid "ISO_639-2.AK"
+msgstr "アカン語"
+
+msgid "ISO_639-2.AM"
+msgstr "アムハラ語"
+
+msgid "ISO_639-2.AN"
+msgstr "アラゴン語"
+
+msgid "ISO_639-2.AR"
+msgstr "アラビア語"
+
+msgid "ISO_639-2.AS"
+msgstr "アッサム語"
+
+msgid "ISO_639-2.AV"
+msgstr "アヴァル語"
+
+msgid "ISO_639-2.AY"
+msgstr "アイマラ語"
+
+msgid "ISO_639-2.AZ"
+msgstr "アゼルバイジャン語"
+
+msgid "ISO_639-2.BA"
+msgstr "バシキール語"
+
+msgid "ISO_639-2.BE"
+msgstr "白ロシア語"
+
+msgid "ISO_639-2.BG"
+msgstr "ブルガリア語"
+
+msgid "ISO_639-2.BH"
+msgstr "ビハール語族"
+
+msgid "ISO_639-2.BI"
+msgstr "ビスラマ語"
+
+msgid "ISO_639-2.BM"
+msgstr "バンバラ語"
+
+msgid "ISO_639-2.BN"
+msgstr "ベンガル語"
+
+msgid "ISO_639-2.BO"
+msgstr "チベット語"
+
+msgid "ISO_639-2.BR"
+msgstr "ブルトン語"
+
+msgid "ISO_639-2.BS"
+msgstr "ボスニア語"
+
+msgid "ISO_639-2.CA"
+msgstr "カタロニア語; バレンシア語"
+
+msgid "ISO_639-2.CE"
+msgstr "チェチェン語"
+
+msgid "ISO_639-2.CH"
+msgstr "チャモロ語"
+
+msgid "ISO_639-2.CO"
+msgstr "コルシカ語"
+
+msgid "ISO_639-2.CR"
+msgstr "クリー語"
+
+msgid "ISO_639-2.CS"
+msgstr "チェコ語"
+
+msgid "ISO_639-2.CV"
+msgstr "チュヴァシュ語"
+
+msgid "ISO_639-2.CY"
+msgstr "ウェールズ語"
+
+msgid "ISO_639-2.DA"
+msgstr "デンマーク語"
+
+msgid "ISO_639-2.DE"
+msgstr "ドイツ語"
+
+msgid "ISO_639-2.DV"
+msgstr "ディベヒ語; ディヴェーヒー語; モルジブ語"
+
+msgid "ISO_639-2.DZ"
+msgstr "ゾンカ語"
+
+msgid "ISO_639-2.EE"
+msgstr "エウェ語"
+
+msgid "ISO_639-2.EL"
+msgstr "ギリシア語, 現代 (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "英語"
+
+msgid "ISO_639-2.EO"
+msgstr "エスペラント語"
+
+msgid "ISO_639-2.ES"
+msgstr "スペイン語; Castilian"
+
+msgid "ISO_639-2.ET"
+msgstr "エストニア語"
+
+msgid "ISO_639-2.EU"
+msgstr "バスク語"
+
+msgid "ISO_639-2.FA"
+msgstr "ペルシア語"
+
+msgid "ISO_639-2.FF"
+msgstr "フラ語"
+
+msgid "ISO_639-2.FI"
+msgstr "フィン語"
+
+msgid "ISO_639-2.FJ"
+msgstr "フィジー語"
+
+msgid "ISO_639-2.FO"
+msgstr "フェロー語"
+
+msgid "ISO_639-2.FR"
+msgstr "フランス語"
+
+msgid "ISO_639-2.FY"
+msgstr "西フリジア語"
+
+msgid "ISO_639-2.GA"
+msgstr "アイルランド語"
+
+msgid "ISO_639-2.GD"
+msgstr "ゲール語; スコットランド・ゲール語"
+
+msgid "ISO_639-2.GL"
+msgstr "ガリシア語"
+
+msgid "ISO_639-2.GN"
+msgstr "グアラニー語"
+
+msgid "ISO_639-2.GU"
+msgstr "グジャラーティー語"
+
+msgid "ISO_639-2.GV"
+msgstr "マン島語"
+
+msgid "ISO_639-2.HA"
+msgstr "ハウサ語"
+
+msgid "ISO_639-2.HE"
+msgstr "ヘブライ語"
+
+msgid "ISO_639-2.HI"
+msgstr "ヒンディー語"
+
+msgid "ISO_639-2.HO"
+msgstr "ヒリモトゥ語"
+
+msgid "ISO_639-2.HR"
+msgstr "クロアチア語"
+
+msgid "ISO_639-2.HT"
+msgstr "ハイチ; ハイチ混成語"
+
+msgid "ISO_639-2.HU"
+msgstr "ハンガリー語"
+
+msgid "ISO_639-2.HY"
+msgstr "アルメニア語"
+
+msgid "ISO_639-2.HZ"
+msgstr "ヘレロ語"
+
+msgid "ISO_639-2.IA"
+msgstr "インターリングア語 (国際補助語協会)"
+
+msgid "ISO_639-2.ID"
+msgstr "インドネシア語"
+
+msgid "ISO_639-2.IE"
+msgstr "インターリング"
+
+msgid "ISO_639-2.IG"
+msgstr "イボ語"
+
+msgid "ISO_639-2.II"
+msgstr "四川イ (彝) 語"
+
+msgid "ISO_639-2.IK"
+msgstr "イヌピアック語"
+
+msgid "ISO_639-2.IO"
+msgstr "イド語"
+
+msgid "ISO_639-2.IS"
+msgstr "アイスランド語"
+
+msgid "ISO_639-2.IT"
+msgstr "イタリア語"
+
+msgid "ISO_639-2.IU"
+msgstr "イヌクウティトット語"
+
+msgid "ISO_639-2.JA"
+msgstr "日本語"
+
+msgid "ISO_639-2.JV"
+msgstr "ジャワ語"
+
+msgid "ISO_639-2.KA"
+msgstr "グルジア語"
+
+msgid "ISO_639-2.KG"
+msgstr "コンゴ語"
+
+msgid "ISO_639-2.KI"
+msgstr "キクユ語; Gikuyu"
+
+msgid "ISO_639-2.KJ"
+msgstr "クアニャマ語; Kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "カザーフ語"
+
+msgid "ISO_639-2.KL"
+msgstr "カラアリス語; グリーンランド語"
+
+msgid "ISO_639-2.KM"
+msgstr "中央クメール語"
+
+msgid "ISO_639-2.KN"
+msgstr "カンナダ語"
+
+msgid "ISO_639-2.KO"
+msgstr "朝鮮語"
+
+msgid "ISO_639-2.KR"
+msgstr "カヌリ語"
+
+msgid "ISO_639-2.KS"
+msgstr "カシミーリー語"
+
+msgid "ISO_639-2.KU"
+msgstr "クルド語"
+
+msgid "ISO_639-2.KV"
+msgstr "コミ語"
+
+msgid "ISO_639-2.KW"
+msgstr "コーンウォール語"
+
+msgid "ISO_639-2.KY"
+msgstr "キルギス語; クルグズ語"
+
+msgid "ISO_639-2.LA"
+msgstr "ラテン語"
+
+msgid "ISO_639-2.LB"
+msgstr "ルクセンブルク語; レッツェブルク語"
+
+msgid "ISO_639-2.LG"
+msgstr "ガンダ語"
+
+msgid "ISO_639-2.LI"
+msgstr "リンブルフ語"
+
+msgid "ISO_639-2.LN"
+msgstr "リンガラ語"
+
+msgid "ISO_639-2.LO"
+msgstr "ラオ語"
+
+msgid "ISO_639-2.LT"
+msgstr "リトアニア語"
+
+msgid "ISO_639-2.LU"
+msgstr "ルバ語"
+
+msgid "ISO_639-2.LV"
+msgstr "ラトヴィア語"
+
+msgid "ISO_639-2.MG"
+msgstr "マラガシ語"
+
+msgid "ISO_639-2.MH"
+msgstr "マーシャル語"
+
+msgid "ISO_639-2.MI"
+msgstr "マオリ語"
+
+msgid "ISO_639-2.MK"
+msgstr "マケドニア語"
+
+msgid "ISO_639-2.ML"
+msgstr "マラヤーラム語"
+
+msgid "ISO_639-2.MN"
+msgstr "蒙古語"
+
+msgid "ISO_639-2.MR"
+msgstr "マラーティー語"
+
+msgid "ISO_639-2.MS"
+msgstr "マライ語"
+
+msgid "ISO_639-2.MT"
+msgstr "マルタ語"
+
+msgid "ISO_639-2.MY"
+msgstr "ビルマ語"
+
+msgid "ISO_639-2.NA"
+msgstr "ナウル語"
+
+msgid "ISO_639-2.ND"
+msgstr "マタベレ語, 北; 北ヌデベレ語"
+
+msgid "ISO_639-2.NE"
+msgstr "ネパール語"
+
+msgid "ISO_639-2.NG"
+msgstr "ンドンガ語"
+
+msgid "ISO_639-2.NL"
+msgstr "オランダ語; フラマン語"
+
+msgid "ISO_639-2.NN"
+msgstr "ニーノシュク・ノルウェー語; ノルウェー語, ニーノシュク"
+
+msgid "ISO_639-2.NO"
+msgstr "ノルウェー語"
+
+msgid "ISO_639-2.NR"
+msgstr "マタベレ語, 南; 南ヌデベレ語"
+
+msgid "ISO_639-2.NV"
+msgstr "ナヴァホ語"
+
+msgid "ISO_639-2.NY"
+msgstr "チチェワ語; チェワ語; ニャンジャ語"
+
+msgid "ISO_639-2.OC"
+msgstr "オック語 (1500以後); プロバンス語"
+
+msgid "ISO_639-2.OJ"
+msgstr "オジブワ語"
+
+msgid "ISO_639-2.OM"
+msgstr "オロモ語"
+
+msgid "ISO_639-2.OR"
+msgstr "オリヤー語"
+
+msgid "ISO_639-2.OS"
+msgstr "オセト語; オセット語"
+
+msgid "ISO_639-2.PA"
+msgstr "パンジャブ語; Punjabi"
+
+msgid "ISO_639-2.PI"
+msgstr "パーリ語"
+
+msgid "ISO_639-2.PL"
+msgstr "ポーランド語"
+
+msgid "ISO_639-2.PS"
+msgstr "プシュトゥー語"
+
+msgid "ISO_639-2.PT"
+msgstr "ポルトガル語"
+
+msgid "ISO_639-2.QU"
+msgstr "キチュワ語"
+
+msgid "ISO_639-2.RM"
+msgstr "ロマンシュ語"
+
+msgid "ISO_639-2.RN"
+msgstr "ルンディ語"
+
+msgid "ISO_639-2.RO"
+msgstr "モルダヴィア語"
+
+msgid "ISO_639-2.RU"
+msgstr "ロシア語"
+
+msgid "ISO_639-2.RW"
+msgstr "キンヤルワンダ語"
+
+msgid "ISO_639-2.SA"
+msgstr "梵語"
+
+msgid "ISO_639-2.SC"
+msgstr "サルデーニャ語"
+
+msgid "ISO_639-2.SD"
+msgstr "シンディー語"
+
+msgid "ISO_639-2.SE"
+msgstr "北サーミ語"
+
+msgid "ISO_639-2.SG"
+msgstr "サンゴ語"
+
+msgid "ISO_639-2.SI"
+msgstr "シンハラ語; シンハリーズ語"
+
+msgid "ISO_639-2.SK"
+msgstr "スロヴァキア語"
+
+msgid "ISO_639-2.SL"
+msgstr "スロヴェニア語"
+
+msgid "ISO_639-2.SM"
+msgstr "サモア語"
+
+msgid "ISO_639-2.SN"
+msgstr "ショナ語"
+
+msgid "ISO_639-2.SO"
+msgstr "ソマリ語"
+
+msgid "ISO_639-2.SQ"
+msgstr "アルバニア語"
+
+msgid "ISO_639-2.SR"
+msgstr "セルビア語"
+
+msgid "ISO_639-2.SS"
+msgstr "シスワティ語"
+
+msgid "ISO_639-2.ST"
+msgstr "ソト語, 南"
+
+msgid "ISO_639-2.SU"
+msgstr "スンダ語"
+
+msgid "ISO_639-2.SV"
+msgstr "スウェーデン語"
+
+msgid "ISO_639-2.SW"
+msgstr "スワヒリ語"
+
+msgid "ISO_639-2.TA"
+msgstr "タミル語"
+
+msgid "ISO_639-2.TE"
+msgstr "テルグ語"
+
+msgid "ISO_639-2.TG"
+msgstr "タジク語"
+
+msgid "ISO_639-2.TH"
+msgstr "タイ語"
+
+msgid "ISO_639-2.TI"
+msgstr "ティグリニア語"
+
+msgid "ISO_639-2.TK"
+msgstr "トゥルクメン語"
+
+msgid "ISO_639-2.TL"
+msgstr "タガログ語"
+
+msgid "ISO_639-2.TN"
+msgstr "ツワナ語"
+
+msgid "ISO_639-2.TO"
+msgstr "トンガ語 (トンガ諸島)"
+
+msgid "ISO_639-2.TR"
+msgstr "トルコ語"
+
+msgid "ISO_639-2.TS"
+msgstr "ツォンガ語"
+
+msgid "ISO_639-2.TT"
+msgstr "タタール語"
+
+msgid "ISO_639-2.TW"
+msgstr "トウィ語"
+
+msgid "ISO_639-2.TY"
+msgstr "タヒチ語"
+
+msgid "ISO_639-2.UG"
+msgstr "ウイグル語; Uyghur"
+
+msgid "ISO_639-2.UK"
+msgstr "ウクライナ語"
+
+msgid "ISO_639-2.UR"
+msgstr "ウルドゥー語"
+
+msgid "ISO_639-2.UZ"
+msgstr "ウズベク語"
+
+msgid "ISO_639-2.VE"
+msgstr "ベンダ語"
+
+msgid "ISO_639-2.VI"
+msgstr "ベトナム語"
+
+msgid "ISO_639-2.VO"
+msgstr "ボラピューク語"
+
+msgid "ISO_639-2.WA"
+msgstr "ワロン語"
+
+msgid "ISO_639-2.WO"
+msgstr "ウォロフ語"
+
+msgid "ISO_639-2.XH"
+msgstr "ホサ語"
+
+msgid "ISO_639-2.YI"
+msgstr "イディッシュ語"
+
+msgid "ISO_639-2.YO"
+msgstr "ヨルバ語"
+
+msgid "ISO_639-2.ZA"
+msgstr "チュワン語; チワン語"
+
+msgid "ISO_639-2.ZH"
+msgstr "中国語"
+
+msgid "ISO_639-2.ZU"
+msgstr "ズールー語"

@@ -1,0 +1,570 @@
+# Vietnamese translation for iso_639.
+# Copyright © 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>, 2001.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-03-09 13:55+0100\n"
+"Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
+"Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.8\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Tiếng A-pha"
+
+msgid "ISO_639-2.AB"
+msgstr "Tiếng Ap-kha-xi-a"
+
+msgid "ISO_639-2.AE"
+msgstr "Tiếng A-ve-x-tanh"
+
+msgid "ISO_639-2.AF"
+msgstr "Tiếng Hoà Lan Nam Phi"
+
+msgid "ISO_639-2.AK"
+msgstr "Tiếng A-can"
+
+msgid "ISO_639-2.AM"
+msgstr "Tiếng Am-ha-ri"
+
+msgid "ISO_639-2.AN"
+msgstr "Tiếng A-ra-gon"
+
+msgid "ISO_639-2.AR"
+msgstr "Tiếng A Rập"
+
+msgid "ISO_639-2.AS"
+msgstr "Tiếng A-xam"
+
+msgid "ISO_639-2.AV"
+msgstr "Tiếng A-va-ric"
+
+msgid "ISO_639-2.AY"
+msgstr "Tiếng Ai-ma-ra"
+
+msgid "ISO_639-2.AZ"
+msgstr "Tiếng A-xợ-bai-gianh"
+
+msgid "ISO_639-2.BA"
+msgstr "Tiếng Ba-x-kia"
+
+msgid "ISO_639-2.BE"
+msgstr "Tiếng Be-la-ruxợ"
+
+msgid "ISO_639-2.BG"
+msgstr "Tiếng Bảo Gai Lơi"
+
+msgid "ISO_639-2.BH"
+msgstr "Hệ ngôn ngữ Bihari"
+
+msgid "ISO_639-2.BI"
+msgstr "Tiếng Bix-la-ma"
+
+msgid "ISO_639-2.BM"
+msgstr "Tiếng Bam-ba-ra"
+
+msgid "ISO_639-2.BN"
+msgstr "Tiếng Bengal"
+
+msgid "ISO_639-2.BO"
+msgstr "Tiếng Tây Tạng"
+
+msgid "ISO_639-2.BR"
+msgstr "Tiếng Boue-ton (Pháp)"
+
+msgid "ISO_639-2.BS"
+msgstr "Tiếng Bô-xni-a"
+
+msgid "ISO_639-2.CA"
+msgstr "Tiếng Ca-ta-lan"
+
+msgid "ISO_639-2.CE"
+msgstr "Tiếng Che-chẹnh"
+
+msgid "ISO_639-2.CH"
+msgstr "Tiếng Cha-mo-ro"
+
+msgid "ISO_639-2.CO"
+msgstr "Tiếng Coa-si-ca"
+
+msgid "ISO_639-2.CR"
+msgstr "Tiếng Cợ-ri"
+
+msgid "ISO_639-2.CS"
+msgstr "Tiếng Séc"
+
+msgid "ISO_639-2.CV"
+msgstr "Tiếng Chu-vas"
+
+msgid "ISO_639-2.CY"
+msgstr "Tiếng Oue-l-s"
+
+msgid "ISO_639-2.DA"
+msgstr "Tiếng Đan Mạch"
+
+msgid "ISO_639-2.DE"
+msgstr "Tiếng Đức"
+
+msgid "ISO_639-2.DV"
+msgstr "Tiếng Đi-ve-hi"
+
+msgid "ISO_639-2.DZ"
+msgstr "Tiếng Đ-xong-kha"
+
+msgid "ISO_639-2.EE"
+msgstr "Tiếng E-oue"
+
+msgid "ISO_639-2.EL"
+msgstr "Tiếng Hy Lạp, Cận Đại (từ năm 1453)"
+
+msgid "ISO_639-2.EN"
+msgstr "Tiếng Anh"
+
+msgid "ISO_639-2.EO"
+msgstr "Tiếng E-x-pê-ran-tô"
+
+msgid "ISO_639-2.ES"
+msgstr "Tiếng Tây Ban Nhà kiểu Cax-ti-le"
+
+msgid "ISO_639-2.ET"
+msgstr "Tiếng E-x-tô-ni-a"
+
+msgid "ISO_639-2.EU"
+msgstr "Tiếng Baxcơ"
+
+msgid "ISO_639-2.FA"
+msgstr "Tiếng Ba Tư"
+
+msgid "ISO_639-2.FF"
+msgstr "Tiếng Phu-la"
+
+msgid "ISO_639-2.FI"
+msgstr "Tiếng Phần Lan"
+
+msgid "ISO_639-2.FJ"
+msgstr "Tiếng Phi-gi"
+
+msgid "ISO_639-2.FO"
+msgstr "Tiếng Pha-rô"
+
+msgid "ISO_639-2.FR"
+msgstr "Tiếng Pháp"
+
+msgid "ISO_639-2.FY"
+msgstr "Tiếng Tây Phợ-ri-xi"
+
+msgid "ISO_639-2.GA"
+msgstr "Tiếng Ái Nhĩ Lan"
+
+msgid "ISO_639-2.GD"
+msgstr "Tiếng Xen-tơ, Ê-cốt"
+
+msgid "ISO_639-2.GL"
+msgstr "Tiếng Ga-li-xi"
+
+msgid "ISO_639-2.GN"
+msgstr "Tiếng Gua-ra-ni"
+
+msgid "ISO_639-2.GU"
+msgstr "Tiếng Gu-gia-ra-ti"
+
+msgid "ISO_639-2.GV"
+msgstr "Tiếng Man-khơ-x"
+
+msgid "ISO_639-2.HA"
+msgstr "Tiếng Hau-xa"
+
+msgid "ISO_639-2.HE"
+msgstr "Tiếng Do Thái"
+
+msgid "ISO_639-2.HI"
+msgstr "Tiếng Hin-đi"
+
+msgid "ISO_639-2.HO"
+msgstr "Tiếng Mo-tu"
+
+msgid "ISO_639-2.HR"
+msgstr "Tiếng Cợ-rô-áth"
+
+msgid "ISO_639-2.HT"
+msgstr "Tiếng Hai-ti"
+
+msgid "ISO_639-2.HU"
+msgstr "Tiếng Hung Gia Lợi"
+
+msgid "ISO_639-2.HY"
+msgstr "Tiếng Ác-mê-ni"
+
+msgid "ISO_639-2.HZ"
+msgstr "Tiếng He-re-rô"
+
+msgid "ISO_639-2.IA"
+msgstr "Ngôn ngữ lẫn nhau In-tơ-lin-gua (Liên Hiệp Ngôn Ngữ Bổ Trợ Quốc Tế)"
+
+msgid "ISO_639-2.ID"
+msgstr "Tiếng Nam Dương"
+
+msgid "ISO_639-2.IE"
+msgstr "Ngôn ngữ lẫn nhau In-tơ-ling; Phương Tây"
+
+msgid "ISO_639-2.IG"
+msgstr "Tiếng Ic-bô"
+
+msgid "ISO_639-2.II"
+msgstr "Sichuan Yi; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "Tiếng In-u-pi-ac"
+
+msgid "ISO_639-2.IO"
+msgstr "Tiếng I-đo"
+
+msgid "ISO_639-2.IS"
+msgstr "Tiếng Băng Đảo"
+
+msgid "ISO_639-2.IT"
+msgstr "Tiếng Ý"
+
+msgid "ISO_639-2.IU"
+msgstr "Tiếng I-nuc-ti-tuc"
+
+msgid "ISO_639-2.JA"
+msgstr "Tiếng Nhật"
+
+msgid "ISO_639-2.JV"
+msgstr "Tiếng Gia-va"
+
+msgid "ISO_639-2.KA"
+msgstr "Tiếng Gi-oa-gi-a"
+
+msgid "ISO_639-2.KG"
+msgstr "Tiếng Kon-gô"
+
+msgid "ISO_639-2.KI"
+msgstr "Tiếng Khi-ku-iu"
+
+msgid "ISO_639-2.KJ"
+msgstr "Tiếng Kou-an-i-am-a"
+
+msgid "ISO_639-2.KK"
+msgstr "Tiếng Ca-xakh"
+
+msgid "ISO_639-2.KL"
+msgstr "Tiếng Đảo Băng"
+
+msgid "ISO_639-2.KM"
+msgstr "Tiếng Khơ-me miền Trung"
+
+msgid "ISO_639-2.KN"
+msgstr "Tiếng Kan-na-đa"
+
+msgid "ISO_639-2.KO"
+msgstr "Tiếng Hàn"
+
+msgid "ISO_639-2.KR"
+msgstr "Tiếng Ca-nu-ri"
+
+msgid "ISO_639-2.KS"
+msgstr "Tiếng Ca-s-mi-ri"
+
+msgid "ISO_639-2.KU"
+msgstr "Tiếng Kurd"
+
+msgid "ISO_639-2.KV"
+msgstr "Tiếng Kô-mi"
+
+msgid "ISO_639-2.KW"
+msgstr "Tiếng Khoanh-uoănh"
+
+msgid "ISO_639-2.KY"
+msgstr "Tiếng Khia-ki-xơ"
+
+msgid "ISO_639-2.LA"
+msgstr "Tiếng La-tinh"
+
+msgid "ISO_639-2.LB"
+msgstr "Tiếng Lục Xâm Bảo"
+
+msgid "ISO_639-2.LG"
+msgstr "Tiếng Gan-đa"
+
+msgid "ISO_639-2.LI"
+msgstr "Tiếng Lim-bua-ga"
+
+msgid "ISO_639-2.LN"
+msgstr "Tiếng Lin-ga-la"
+
+msgid "ISO_639-2.LO"
+msgstr "Tiếng Lào"
+
+msgid "ISO_639-2.LT"
+msgstr "Tiếng Li-tu-a-ni"
+
+msgid "ISO_639-2.LU"
+msgstr "Tiếng Lu-ba-Ka-tan-ga"
+
+msgid "ISO_639-2.LV"
+msgstr "Tiếng Lát-vi-a"
+
+msgid "ISO_639-2.MG"
+msgstr "Tiếng Ma-la-ga-si"
+
+msgid "ISO_639-2.MH"
+msgstr "Tiếng Ma-san"
+
+msgid "ISO_639-2.MI"
+msgstr "Tiếng Mao-ri"
+
+msgid "ISO_639-2.MK"
+msgstr "Tiếng Ma-xê-đô-ni"
+
+msgid "ISO_639-2.ML"
+msgstr "Tiếng Ma-lay-am"
+
+msgid "ISO_639-2.MN"
+msgstr "Tiếng Mông Cổ"
+
+msgid "ISO_639-2.MR"
+msgstr "Tiếng Ma-ra-ti"
+
+msgid "ISO_639-2.MS"
+msgstr "Tiếng Mã lai"
+
+msgid "ISO_639-2.MT"
+msgstr "Tiếng Mantơ"
+
+msgid "ISO_639-2.MY"
+msgstr "Tiếng Miến Điện"
+
+msgid "ISO_639-2.NA"
+msgstr "Tiếng Nau-ru"
+
+msgid "ISO_639-2.NB"
+msgstr "Na Uy (Bóc-man)"
+
+msgid "ISO_639-2.ND"
+msgstr "Tiếng Bắc N-đe-be-lê"
+
+msgid "ISO_639-2.NE"
+msgstr "Tiếng Nê-pan"
+
+msgid "ISO_639-2.NG"
+msgstr "Tiếng N-đon-ga"
+
+msgid "ISO_639-2.NL"
+msgstr "Tiếng Hoà Lan; Tiếng Ph-le-mi"
+
+msgid "ISO_639-2.NN"
+msgstr "Tiếng Na Uy (Ni-noa-x-kh)"
+
+msgid "ISO_639-2.NO"
+msgstr "Tiếng Na Uy"
+
+msgid "ISO_639-2.NR"
+msgstr "Tiếng Nam N-đe-be-lê"
+
+msgid "ISO_639-2.NV"
+msgstr "Tiếng Na-va-hô"
+
+msgid "ISO_639-2.NY"
+msgstr "Tiếng Chi-che-oua"
+
+msgid "ISO_639-2.OC"
+msgstr "Tiếng Oc-xi-tan (từ năm 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Tiếng O-gip-oua"
+
+msgid "ISO_639-2.OM"
+msgstr "Tiếng O-ro-mô"
+
+msgid "ISO_639-2.OR"
+msgstr "Tiếng O-ri-a"
+
+msgid "ISO_639-2.OS"
+msgstr "Tiếng O-set"
+
+msgid "ISO_639-2.PA"
+msgstr "Tiếng Pun-gia-bi"
+
+msgid "ISO_639-2.PI"
+msgstr "Tiếng Pa-li"
+
+msgid "ISO_639-2.PL"
+msgstr "Tiếng Ba Lan"
+
+msgid "ISO_639-2.PS"
+msgstr "Tiếng Pu-s-tô"
+
+msgid "ISO_639-2.PT"
+msgstr "Tiếng Bồ Đào Nha"
+
+msgid "ISO_639-2.QU"
+msgstr "Tiếng Cue-chu-a"
+
+msgid "ISO_639-2.RM"
+msgstr "Tiếng Gip-xi (Romansh)"
+
+msgid "ISO_639-2.RN"
+msgstr "Tiếng Run-đi"
+
+msgid "ISO_639-2.RO"
+msgstr "Tiếng Mon-đa-vi"
+
+msgid "ISO_639-2.RU"
+msgstr "Tiếng Nga"
+
+msgid "ISO_639-2.RW"
+msgstr "Tiếng Kin-ia-ouanh-đa"
+
+msgid "ISO_639-2.SA"
+msgstr "Tiếng Phạn"
+
+msgid "ISO_639-2.SC"
+msgstr "Tiếng Xă-đi-ni-a"
+
+msgid "ISO_639-2.SD"
+msgstr "Tiếng Xin-đi"
+
+msgid "ISO_639-2.SE"
+msgstr "Tiếng Bắc Xa-mi"
+
+msgid "ISO_639-2.SG"
+msgstr "Tiếng Xan-gô"
+
+msgid "ISO_639-2.SI"
+msgstr "Tiếng Xin-ha-la"
+
+msgid "ISO_639-2.SK"
+msgstr "Tiếng Xlô-vác"
+
+msgid "ISO_639-2.SL"
+msgstr "Tiếng Xlô-ven"
+
+msgid "ISO_639-2.SM"
+msgstr "Tiếng Xa-mô-a"
+
+msgid "ISO_639-2.SN"
+msgstr "Tiếng Sô-na"
+
+msgid "ISO_639-2.SO"
+msgstr "Tiếng Xô-ma-li"
+
+msgid "ISO_639-2.SQ"
+msgstr "Tiếng An-ba-ni"
+
+msgid "ISO_639-2.SR"
+msgstr "Tiếng Xéc bi"
+
+msgid "ISO_639-2.SS"
+msgstr "Tiếng Xoua-thi"
+
+msgid "ISO_639-2.ST"
+msgstr "Tiếng Nam Xo-tô"
+
+msgid "ISO_639-2.SU"
+msgstr "Tiếng Xunh-đan"
+
+msgid "ISO_639-2.SV"
+msgstr "Tiếng Thuỵ Điển"
+
+msgid "ISO_639-2.SW"
+msgstr "Tiếng Xoua-hi-li"
+
+msgid "ISO_639-2.TA"
+msgstr "Tiếng Ta-min"
+
+msgid "ISO_639-2.TE"
+msgstr "Tiếng Te-lu-gu"
+
+msgid "ISO_639-2.TG"
+msgstr "Tiếng Ta-gíc"
+
+msgid "ISO_639-2.TH"
+msgstr "Tiếng Thái"
+
+msgid "ISO_639-2.TI"
+msgstr "Tiếng Thi-gơ-rin-ya"
+
+msgid "ISO_639-2.TK"
+msgstr "Tiếng Thổ-kh-men"
+
+msgid "ISO_639-2.TL"
+msgstr "Tiếng Ta-ga-lọc"
+
+msgid "ISO_639-2.TN"
+msgstr "Tiếng T-xoua-na"
+
+msgid "ISO_639-2.TO"
+msgstr "Tiếng Ton-ga (Quần đảo Ton-ga)"
+
+msgid "ISO_639-2.TR"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+msgid "ISO_639-2.TS"
+msgstr "Tiếng T-xong-ga"
+
+msgid "ISO_639-2.TT"
+msgstr "Tiếng Tác-ta"
+
+msgid "ISO_639-2.TW"
+msgstr "Tiếng Toui"
+
+msgid "ISO_639-2.TY"
+msgstr "Tiếng Ta-hi-ti"
+
+msgid "ISO_639-2.UG"
+msgstr "Tiếng Ui-gua"
+
+msgid "ISO_639-2.UK"
+msgstr "Tiếng U-cợ-rainh"
+
+msgid "ISO_639-2.UR"
+msgstr "Tiếng Ua-đu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Tiếng U-x-bếkh"
+
+msgid "ISO_639-2.VE"
+msgstr "Tiếng Ven-đa"
+
+msgid "ISO_639-2.VI"
+msgstr "Tiếng Việt"
+
+msgid "ISO_639-2.VO"
+msgstr "Tiếng Vo-la-puk"
+
+msgid "ISO_639-2.WA"
+msgstr "Tiếng Oua-lunh"
+
+msgid "ISO_639-2.WO"
+msgstr "Tiếng Ou-o-lo-v"
+
+msgid "ISO_639-2.XH"
+msgstr "Tiếng X-hô-xa"
+
+msgid "ISO_639-2.YI"
+msgstr "Tiếng Y-đit"
+
+msgid "ISO_639-2.YO"
+msgstr "Tiếng Yo-ru-ba"
+
+msgid "ISO_639-2.ZA"
+msgstr "Tiếng Xuang; Tiếng Chuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "Tiếng Trung Quốc"
+
+msgid "ISO_639-2.ZU"
+msgstr "Tiếng Xu-lu"

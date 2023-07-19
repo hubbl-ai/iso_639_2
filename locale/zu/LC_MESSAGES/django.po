@@ -1,0 +1,282 @@
+# Translation of ISO-639 (language names) to Zulu
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Thobile Mhlongo <thobile@translate.org.za>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2001-12-11 13:58SAST\n"
+"Last-Translator: Thobile Mhlongo <thobile@translate.org.za>\n"
+"Language-Team: Zulu <zulu@translate.org.za>\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.5\n"
+
+msgid "ISO_639-2.AB"
+msgstr "Isi-Azerbaijani"
+
+msgid "ISO_639-2.AF"
+msgstr "Isibhunu"
+
+msgid "ISO_639-2.AK"
+msgstr "Isi-Azerbaijani"
+
+msgid "ISO_639-2.AM"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AR"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AV"
+msgstr "isi-Arabhu"
+
+msgid "ISO_639-2.AZ"
+msgstr "Isi-Azerbaijani"
+
+msgid "ISO_639-2.BE"
+msgstr "Isi-Buligariyana"
+
+msgid "ISO_639-2.BG"
+msgstr "Isi-Buligariyana"
+
+msgid "ISO_639-2.BH"
+msgstr "Isi-Koreyani"
+
+msgid "ISO_639-2.BR"
+msgstr "Isi-Bretoni"
+
+msgid "ISO_639-2.BS"
+msgstr "Isi-Romayinani"
+
+msgid "ISO_639-2.CE"
+msgstr "Isi Czechiya"
+
+msgid "ISO_639-2.CO"
+msgstr "Isi-Bosniyani"
+
+msgid "ISO_639-2.CR"
+msgstr "isi-Grike"
+
+msgid "ISO_639-2.CS"
+msgstr "Isi Czechiya"
+
+msgid "ISO_639-2.CY"
+msgstr "Isi Welsh"
+
+msgid "ISO_639-2.DA"
+msgstr "Isi-Danishi"
+
+msgid "ISO_639-2.DE"
+msgstr "isi-Jalimani"
+
+msgid "ISO_639-2.EN"
+msgstr "Isi-Ngisi (UK)"
+
+msgid "ISO_639-2.EO"
+msgstr "Isi-Esperanto"
+
+msgid "ISO_639-2.ET"
+msgstr "Isi-Estoniyani"
+
+msgid "ISO_639-2.EU"
+msgstr "Isi-Basque"
+
+msgid "ISO_639-2.FA"
+msgstr "Isi-Sebhiyani"
+
+msgid "ISO_639-2.FI"
+msgstr "Isi-Finishi"
+
+msgid "ISO_639-2.FR"
+msgstr "Isi-Frentshi"
+
+msgid "ISO_639-2.FY"
+msgstr "Isi-Ukraniyani"
+
+msgid "ISO_639-2.GA"
+msgstr "Isi-Irishi"
+
+msgid "ISO_639-2.GL"
+msgstr "Isi-Galashiyani"
+
+msgid "ISO_639-2.GN"
+msgstr "Isi-Buligariyana"
+
+msgid "ISO_639-2.HE"
+msgstr "Isi-Hebheru"
+
+msgid "ISO_639-2.HO"
+msgstr "Isi-Thekishi"
+
+msgid "ISO_639-2.HR"
+msgstr "Isi-Croshiyani"
+
+msgid "ISO_639-2.HU"
+msgstr "Isi-Hangariyani"
+
+msgid "ISO_639-2.HY"
+msgstr "Isi-Romayinani"
+
+msgid "ISO_639-2.HZ"
+msgstr "Isi-Hebheru"
+
+msgid "ISO_639-2.ID"
+msgstr "Indoneshiya"
+
+msgid "ISO_639-2.II"
+msgstr "Isi-Lithuwaniya"
+
+msgid "ISO_639-2.IS"
+msgstr "isi-Icilendikhi"
+
+msgid "ISO_639-2.IT"
+msgstr "Isi-Taliyane"
+
+msgid "ISO_639-2.JA"
+msgstr "Isi-Jaliphani"
+
+msgid "ISO_639-2.JV"
+msgstr "Isi-Jaliphani"
+
+msgid "ISO_639-2.KA"
+msgstr "isi-Jalimani"
+
+msgid "ISO_639-2.KO"
+msgstr "Isi-Koreyani"
+
+msgid "ISO_639-2.KR"
+msgstr "isi-Kedishi"
+
+msgid "ISO_639-2.KU"
+msgstr "isi-Kedishi"
+
+msgid "ISO_639-2.KW"
+msgstr "Isi-Irishi"
+
+msgid "ISO_639-2.LA"
+msgstr "Isi-Lavithiyani"
+
+msgid "ISO_639-2.LT"
+msgstr "Isi-Lithuwaniya"
+
+msgid "ISO_639-2.LV"
+msgstr "Isi-Lavithiyani"
+
+msgid "ISO_639-2.MH"
+msgstr "Isi-Malithalise"
+
+msgid "ISO_639-2.MI"
+msgstr "Isi-Mawori"
+
+msgid "ISO_639-2.MK"
+msgstr "Isi-Makhedoniya"
+
+msgid "ISO_639-2.MN"
+msgstr "Isi-Makhedoniya"
+
+msgid "ISO_639-2.MR"
+msgstr "Isi-Mawori"
+
+msgid "ISO_639-2.MT"
+msgstr "Isi-Malithalise"
+
+msgid "ISO_639-2.NG"
+msgstr "Isi-Bosniyani"
+
+msgid "ISO_639-2.NN"
+msgstr "Isi-Nowejiyani (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "Isi-Koreyani"
+
+msgid "ISO_639-2.OS"
+msgstr "Isi-Rashiyani"
+
+msgid "ISO_639-2.PI"
+msgstr "Isi-Pholishi"
+
+msgid "ISO_639-2.PL"
+msgstr "Isi-Pholishi"
+
+msgid "ISO_639-2.PT"
+msgstr "Isi-Phuthukesi"
+
+msgid "ISO_639-2.RM"
+msgstr "Isi-Romayinani"
+
+msgid "ISO_639-2.RO"
+msgstr "Isi-Lavithiyani"
+
+msgid "ISO_639-2.RU"
+msgstr "Isi-Rashiyani"
+
+msgid "ISO_639-2.SC"
+msgstr "Isi-Makhedoniya"
+
+msgid "ISO_639-2.SI"
+msgstr "Isi-Vitheyinamise"
+
+msgid "ISO_639-2.SK"
+msgstr "Isi-Silovaki"
+
+msgid "ISO_639-2.SL"
+msgstr "Isi-Siloveniyani"
+
+msgid "ISO_639-2.SN"
+msgstr "Isi-Xhosa"
+
+msgid "ISO_639-2.SQ"
+msgstr "Isi-Azerbaijani"
+
+msgid "ISO_639-2.SR"
+msgstr "Isi-Sebhiyani"
+
+msgid "ISO_639-2.SV"
+msgstr "Isi-Swedishi"
+
+msgid "ISO_639-2.TA"
+msgstr "Isi-Thamili"
+
+msgid "ISO_639-2.TG"
+msgstr "Isi-Thayi"
+
+msgid "ISO_639-2.TH"
+msgstr "Isi-Thayi"
+
+msgid "ISO_639-2.TI"
+msgstr "Isi-Thekishi"
+
+msgid "ISO_639-2.TR"
+msgstr "Isi-Thekishi"
+
+msgid "ISO_639-2.TY"
+msgstr "Isi-Lavithiyani"
+
+msgid "ISO_639-2.UK"
+msgstr "Isi-Ukraniyani"
+
+msgid "ISO_639-2.VI"
+msgstr "Isi-Vitheyinamise"
+
+msgid "ISO_639-2.WA"
+msgstr "Isi-Waloni"
+
+msgid "ISO_639-2.XH"
+msgstr "Isi-Xhosa"
+
+msgid "ISO_639-2.ZH"
+msgstr "Isi-Shayina"
+
+msgid "ISO_639-2.ZU"
+msgstr "Isi-Zulu"

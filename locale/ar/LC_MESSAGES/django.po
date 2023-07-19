@@ -1,0 +1,317 @@
+# Translation of ISO-639 (language names) to Arabic
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002, 2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations from kde-i18n/desktop.po:
+#   Mohammad Gamal <f2c2001@yahoo.com>, 2001.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2002-01-04 22:08+0000\n"
+"Last-Translator: Mohammad Gamal <f2c2001@yahoo.com>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AB"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-2.AF"
+msgstr "الأفريكانس"
+
+msgid "ISO_639-2.AK"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-2.AM"
+msgstr "العربية"
+
+msgid "ISO_639-2.AR"
+msgstr "العربية"
+
+msgid "ISO_639-2.AV"
+msgstr "العربية"
+
+msgid "ISO_639-2.AZ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-2.BE"
+msgstr "بلاروسي"
+
+msgid "ISO_639-2.BG"
+msgstr "البلغارية"
+
+msgid "ISO_639-2.BH"
+msgstr "الكورية"
+
+msgid "ISO_639-2.BN"
+msgstr "البنغالية"
+
+msgid "ISO_639-2.BO"
+msgstr "التبتية"
+
+msgid "ISO_639-2.BR"
+msgstr "البريتون"
+
+msgid "ISO_639-2.BS"
+msgstr "الرومانية"
+
+msgid "ISO_639-2.CE"
+msgstr "التشيكية"
+
+msgid "ISO_639-2.CO"
+msgstr "البوسنية"
+
+msgid "ISO_639-2.CR"
+msgstr "اليونانية"
+
+msgid "ISO_639-2.CS"
+msgstr "التشيكية"
+
+msgid "ISO_639-2.CY"
+msgstr "الويلزية"
+
+msgid "ISO_639-2.DA"
+msgstr "الدنماركية"
+
+msgid "ISO_639-2.DE"
+msgstr "الألمانية"
+
+msgid "ISO_639-2.DZ"
+msgstr "الزونخاية"
+
+msgid "ISO_639-2.EN"
+msgstr "الإنجليزية"
+
+msgid "ISO_639-2.EO"
+msgstr "الإسبرانتو"
+
+msgid "ISO_639-2.ET"
+msgstr "الإستونية"
+
+msgid "ISO_639-2.EU"
+msgstr "الباسك"
+
+msgid "ISO_639-2.FA"
+msgstr "الفارسي"
+
+msgid "ISO_639-2.FI"
+msgstr "الفنلندية"
+
+msgid "ISO_639-2.FR"
+msgstr "الفرنسية"
+
+msgid "ISO_639-2.FY"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-2.GA"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-2.GL"
+msgstr "الغاليكية"
+
+msgid "ISO_639-2.GN"
+msgstr "البلغارية"
+
+msgid "ISO_639-2.GU"
+msgstr "الغوجاراتية"
+
+msgid "ISO_639-2.HE"
+msgstr "العبرية"
+
+msgid "ISO_639-2.HI"
+msgstr "الهندية"
+
+msgid "ISO_639-2.HO"
+msgstr "التركية"
+
+msgid "ISO_639-2.HR"
+msgstr "الكرواتية"
+
+msgid "ISO_639-2.HU"
+msgstr "الهنغارية (المجرية)"
+
+msgid "ISO_639-2.HY"
+msgstr "الرومانية"
+
+msgid "ISO_639-2.HZ"
+msgstr "العبرية"
+
+msgid "ISO_639-2.ID"
+msgstr "الإندونيسية"
+
+msgid "ISO_639-2.II"
+msgstr "الليتوانية"
+
+msgid "ISO_639-2.IS"
+msgstr "الآيسلندية"
+
+msgid "ISO_639-2.IT"
+msgstr "الإيطالية"
+
+msgid "ISO_639-2.JA"
+msgstr "اليابانية"
+
+msgid "ISO_639-2.JV"
+msgstr "اليابانية"
+
+msgid "ISO_639-2.KA"
+msgstr "الألمانية"
+
+msgid "ISO_639-2.KO"
+msgstr "الكورية"
+
+msgid "ISO_639-2.KR"
+msgstr "الكردية"
+
+msgid "ISO_639-2.KU"
+msgstr "الكردية"
+
+msgid "ISO_639-2.KW"
+msgstr "الأيرلندية"
+
+msgid "ISO_639-2.LA"
+msgstr "اللاتفية"
+
+msgid "ISO_639-2.LT"
+msgstr "الليتوانية"
+
+msgid "ISO_639-2.LV"
+msgstr "اللاتفية"
+
+msgid "ISO_639-2.MH"
+msgstr "المالطية"
+
+msgid "ISO_639-2.MI"
+msgstr "الموري"
+
+msgid "ISO_639-2.MK"
+msgstr "المقدونية"
+
+msgid "ISO_639-2.MN"
+msgstr "المقدونية"
+
+msgid "ISO_639-2.MR"
+msgstr "الموري"
+
+msgid "ISO_639-2.MS"
+msgstr "لغة الملايو"
+
+msgid "ISO_639-2.MT"
+msgstr "المالطية"
+
+msgid "ISO_639-2.MY"
+msgstr "البورمية"
+
+msgid "ISO_639-2.NE"
+msgstr "النيبالية"
+
+msgid "ISO_639-2.NG"
+msgstr "البوسنية"
+
+msgid "ISO_639-2.NN"
+msgstr "النرويجية (نينورسك)"
+
+msgid "ISO_639-2.NO"
+msgstr "النرويجية"
+
+msgid "ISO_639-2.OS"
+msgstr "الروسية"
+
+msgid "ISO_639-2.PI"
+msgstr "البولندية"
+
+msgid "ISO_639-2.PL"
+msgstr "البولندية"
+
+msgid "ISO_639-2.PT"
+msgstr "البرتغالية"
+
+msgid "ISO_639-2.RM"
+msgstr "الرومانية"
+
+msgid "ISO_639-2.RO"
+msgstr "اللاتفية"
+
+msgid "ISO_639-2.RU"
+msgstr "الروسية"
+
+msgid "ISO_639-2.SC"
+msgstr "المقدونية"
+
+msgid "ISO_639-2.SI"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-2.SK"
+msgstr "السلوفاكية"
+
+msgid "ISO_639-2.SL"
+msgstr "السلوفينية"
+
+msgid "ISO_639-2.SN"
+msgstr "الهاوسا"
+
+msgid "ISO_639-2.SQ"
+msgstr "الأذربيجانية"
+
+msgid "ISO_639-2.SR"
+msgstr "الصربية"
+
+msgid "ISO_639-2.SV"
+msgstr "السويدية"
+
+msgid "ISO_639-2.SW"
+msgstr "السواحلية"
+
+msgid "ISO_639-2.TA"
+msgstr "التاميلية"
+
+msgid "ISO_639-2.TG"
+msgstr "التايلاندية"
+
+msgid "ISO_639-2.TH"
+msgstr "التايلاندية"
+
+msgid "ISO_639-2.TI"
+msgstr "التركية"
+
+msgid "ISO_639-2.TL"
+msgstr "التاغالوغية"
+
+msgid "ISO_639-2.TR"
+msgstr "التركية"
+
+msgid "ISO_639-2.TY"
+msgstr "اللاتفية"
+
+msgid "ISO_639-2.UG"
+msgstr "الاغورية"
+
+msgid "ISO_639-2.UK"
+msgstr "الأوكرانية"
+
+msgid "ISO_639-2.UR"
+msgstr "الاردية"
+
+msgid "ISO_639-2.VI"
+msgstr "الفييتنامية"
+
+msgid "ISO_639-2.WA"
+msgstr "الوالون"
+
+msgid "ISO_639-2.XH"
+msgstr "الهاوسا"
+
+msgid "ISO_639-2.ZH"
+msgstr "الصينية"
+
+msgid "ISO_639-2.ZU"
+msgstr "الزولو"

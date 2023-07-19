@@ -1,0 +1,573 @@
+# Hungarian translations of ISO 639 Language names
+# Copyright (C) 2000, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# http://www.unicode.org/cldr/data/diff/main/hu_HU.html
+#
+#   Andras TIMAR <timar@gnome.hu>, 2000-2001.
+#   VERÓK István <vi@fsf.hu>, 2004.
+#   Gabor Kelemen <kelemeng@gnome.hu>, 2006.
+#   Kálmán Kéménczy <kkemenczy@novell.com>, 2007, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-07-14 08:58+0200\n"
+"Last-Translator: Kalman Kemenczy <kkemenczy@gmail.com> \n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "afar"
+
+msgid "ISO_639-2.AB"
+msgstr "abház"
+
+msgid "ISO_639-2.AE"
+msgstr "avesztai"
+
+msgid "ISO_639-2.AF"
+msgstr "afrikaans"
+
+msgid "ISO_639-2.AK"
+msgstr "akan"
+
+msgid "ISO_639-2.AM"
+msgstr "amhara"
+
+msgid "ISO_639-2.AN"
+msgstr "aragóniai"
+
+msgid "ISO_639-2.AR"
+msgstr "arab"
+
+msgid "ISO_639-2.AS"
+msgstr "asszami"
+
+msgid "ISO_639-2.AV"
+msgstr "avar"
+
+msgid "ISO_639-2.AY"
+msgstr "ajmara"
+
+msgid "ISO_639-2.AZ"
+msgstr "azeri"
+
+msgid "ISO_639-2.BA"
+msgstr "baskír"
+
+msgid "ISO_639-2.BE"
+msgstr "belorusz"
+
+msgid "ISO_639-2.BG"
+msgstr "bolgár"
+
+msgid "ISO_639-2.BH"
+msgstr "bihari nyelvek"
+
+msgid "ISO_639-2.BI"
+msgstr "biszlama"
+
+msgid "ISO_639-2.BM"
+msgstr "bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "bánglá"
+
+msgid "ISO_639-2.BO"
+msgstr "tibeti"
+
+msgid "ISO_639-2.BR"
+msgstr "breton"
+
+msgid "ISO_639-2.BS"
+msgstr "bosnyák"
+
+msgid "ISO_639-2.CA"
+msgstr "katalán; valenciai"
+
+msgid "ISO_639-2.CE"
+msgstr "csecsen"
+
+msgid "ISO_639-2.CH"
+msgstr "csamorro"
+
+msgid "ISO_639-2.CO"
+msgstr "korzikai"
+
+msgid "ISO_639-2.CR"
+msgstr "krí"
+
+msgid "ISO_639-2.CS"
+msgstr "cseh"
+
+msgid "ISO_639-2.CV"
+msgstr "csuvas"
+
+msgid "ISO_639-2.CY"
+msgstr "walesi"
+
+msgid "ISO_639-2.DA"
+msgstr "dán"
+
+msgid "ISO_639-2.DE"
+msgstr "német"
+
+msgid "ISO_639-2.DV"
+msgstr "divehi; maldív"
+
+msgid "ISO_639-2.DZ"
+msgstr "dzongkha"
+
+msgid "ISO_639-2.EE"
+msgstr "eve"
+
+msgid "ISO_639-2.EL"
+msgstr "modern görög (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "angol"
+
+msgid "ISO_639-2.EO"
+msgstr "eszperantó"
+
+msgid "ISO_639-2.ES"
+msgstr "spanyol, kasztíliai"
+
+msgid "ISO_639-2.ET"
+msgstr "észt"
+
+msgid "ISO_639-2.EU"
+msgstr "baszk"
+
+msgid "ISO_639-2.FA"
+msgstr "perzsa"
+
+msgid "ISO_639-2.FF"
+msgstr "ful"
+
+msgid "ISO_639-2.FI"
+msgstr "finn"
+
+msgid "ISO_639-2.FJ"
+msgstr "fidzsi"
+
+msgid "ISO_639-2.FO"
+msgstr "feröeri"
+
+msgid "ISO_639-2.FR"
+msgstr "francia"
+
+msgid "ISO_639-2.FY"
+msgstr "nyugati fríz"
+
+msgid "ISO_639-2.GA"
+msgstr "ír"
+
+msgid "ISO_639-2.GD"
+msgstr "kelta; skót kelta"
+
+msgid "ISO_639-2.GL"
+msgstr "galíciai"
+
+msgid "ISO_639-2.GN"
+msgstr "guarani"
+
+msgid "ISO_639-2.GU"
+msgstr "gudzsaráti"
+
+msgid "ISO_639-2.GV"
+msgstr "manx"
+
+msgid "ISO_639-2.HA"
+msgstr "hausza"
+
+msgid "ISO_639-2.HE"
+msgstr "héber"
+
+msgid "ISO_639-2.HI"
+msgstr "hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "hiri-motu"
+
+msgid "ISO_639-2.HR"
+msgstr "horvát"
+
+msgid "ISO_639-2.HT"
+msgstr "haiti; haiti kreol"
+
+msgid "ISO_639-2.HU"
+msgstr "magyar"
+
+msgid "ISO_639-2.HY"
+msgstr "örmény"
+
+msgid "ISO_639-2.HZ"
+msgstr "herero"
+
+msgid "ISO_639-2.IA"
+msgstr "interlingva (Nemzetközi Segédnyelv Egyesület)"
+
+msgid "ISO_639-2.ID"
+msgstr "indonéz"
+
+msgid "ISO_639-2.IE"
+msgstr "interlingue; occidental"
+
+msgid "ISO_639-2.IG"
+msgstr "igbo"
+
+msgid "ISO_639-2.II"
+msgstr "Szecsuán Yi; Nuosu"
+
+msgid "ISO_639-2.IK"
+msgstr "inupiak"
+
+msgid "ISO_639-2.IO"
+msgstr "ido"
+
+msgid "ISO_639-2.IS"
+msgstr "izlandi"
+
+msgid "ISO_639-2.IT"
+msgstr "olasz"
+
+msgid "ISO_639-2.IU"
+msgstr "inuktitut"
+
+msgid "ISO_639-2.JA"
+msgstr "japán"
+
+msgid "ISO_639-2.JV"
+msgstr "jávai"
+
+msgid "ISO_639-2.KA"
+msgstr "grúz"
+
+msgid "ISO_639-2.KG"
+msgstr "kongo"
+
+msgid "ISO_639-2.KI"
+msgstr "kikuju; gikuju"
+
+msgid "ISO_639-2.KJ"
+msgstr "kuanyama; kwanyama"
+
+msgid "ISO_639-2.KK"
+msgstr "kazak"
+
+msgid "ISO_639-2.KL"
+msgstr "kalaallisut; grönlandi"
+
+msgid "ISO_639-2.KM"
+msgstr "középkhmer"
+
+msgid "ISO_639-2.KN"
+msgstr "kannada"
+
+msgid "ISO_639-2.KO"
+msgstr "koreai"
+
+msgid "ISO_639-2.KR"
+msgstr "kanuri"
+
+msgid "ISO_639-2.KS"
+msgstr "kasmíri"
+
+msgid "ISO_639-2.KU"
+msgstr "kurd"
+
+msgid "ISO_639-2.KV"
+msgstr "komi"
+
+msgid "ISO_639-2.KW"
+msgstr "cornwalli"
+
+msgid "ISO_639-2.KY"
+msgstr "kirgiz"
+
+msgid "ISO_639-2.LA"
+msgstr "latin"
+
+msgid "ISO_639-2.LB"
+msgstr "luxemburgi"
+
+msgid "ISO_639-2.LG"
+msgstr "ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "limburgi"
+
+msgid "ISO_639-2.LN"
+msgstr "lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "lao"
+
+msgid "ISO_639-2.LT"
+msgstr "litván"
+
+msgid "ISO_639-2.LU"
+msgstr "luba-katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "lett"
+
+msgid "ISO_639-2.MG"
+msgstr "malagas"
+
+msgid "ISO_639-2.MH"
+msgstr "Marshall-szigeteki"
+
+msgid "ISO_639-2.MI"
+msgstr "maori"
+
+msgid "ISO_639-2.MK"
+msgstr "macedón"
+
+msgid "ISO_639-2.ML"
+msgstr "malajálam"
+
+msgid "ISO_639-2.MN"
+msgstr "mongol"
+
+msgid "ISO_639-2.MR"
+msgstr "maráthi"
+
+msgid "ISO_639-2.MS"
+msgstr "maláj"
+
+msgid "ISO_639-2.MT"
+msgstr "máltai"
+
+msgid "ISO_639-2.MY"
+msgstr "burmai"
+
+msgid "ISO_639-2.NA"
+msgstr "nauru"
+
+msgid "ISO_639-2.NB"
+msgstr "Bokmal, norvég, norvég bokmal"
+
+msgid "ISO_639-2.ND"
+msgstr "ndebele, északi; északi ndebele"
+
+msgid "ISO_639-2.NE"
+msgstr "nepáli"
+
+msgid "ISO_639-2.NG"
+msgstr "ndonga"
+
+msgid "ISO_639-2.NL"
+msgstr "holland, flamand"
+
+msgid "ISO_639-2.NN"
+msgstr "norvég nynorsk; nynorsk, norvég"
+
+msgid "ISO_639-2.NO"
+msgstr "norvég"
+
+msgid "ISO_639-2.NR"
+msgstr "ndebele, déli; déli ndebele"
+
+msgid "ISO_639-2.NV"
+msgstr "navaho"
+
+msgid "ISO_639-2.NY"
+msgstr "csicseva; cseva; nyandzsa"
+
+msgid "ISO_639-2.OC"
+msgstr "okcitán (1500 után)"
+
+msgid "ISO_639-2.OJ"
+msgstr "ozsibva"
+
+msgid "ISO_639-2.OM"
+msgstr "oromo"
+
+msgid "ISO_639-2.OR"
+msgstr "orija"
+
+msgid "ISO_639-2.OS"
+msgstr "oszét"
+
+msgid "ISO_639-2.PA"
+msgstr "pandzsábi"
+
+msgid "ISO_639-2.PI"
+msgstr "páli"
+
+msgid "ISO_639-2.PL"
+msgstr "lengyel"
+
+msgid "ISO_639-2.PS"
+msgstr "Pushto; Pashto"
+
+msgid "ISO_639-2.PT"
+msgstr "portugál"
+
+msgid "ISO_639-2.QU"
+msgstr "kecsua"
+
+msgid "ISO_639-2.RM"
+msgstr "rétoromán"
+
+msgid "ISO_639-2.RN"
+msgstr "rundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldvai; moldovai"
+
+msgid "ISO_639-2.RU"
+msgstr "orosz"
+
+msgid "ISO_639-2.RW"
+msgstr "kinyarvanda"
+
+msgid "ISO_639-2.SA"
+msgstr "szankszrit"
+
+msgid "ISO_639-2.SC"
+msgstr "szárd"
+
+msgid "ISO_639-2.SD"
+msgstr "szindhi"
+
+msgid "ISO_639-2.SE"
+msgstr "északi lapp"
+
+msgid "ISO_639-2.SG"
+msgstr "szango"
+
+msgid "ISO_639-2.SI"
+msgstr "szimhala; szingaléz"
+
+msgid "ISO_639-2.SK"
+msgstr "szlovák"
+
+msgid "ISO_639-2.SL"
+msgstr "szlovén"
+
+msgid "ISO_639-2.SM"
+msgstr "szamoai"
+
+msgid "ISO_639-2.SN"
+msgstr "sona"
+
+msgid "ISO_639-2.SO"
+msgstr "szomáli"
+
+msgid "ISO_639-2.SQ"
+msgstr "albán"
+
+msgid "ISO_639-2.SR"
+msgstr "szerb"
+
+msgid "ISO_639-2.SS"
+msgstr "szvázi"
+
+msgid "ISO_639-2.ST"
+msgstr "szoto, déli"
+
+msgid "ISO_639-2.SU"
+msgstr "szundai"
+
+msgid "ISO_639-2.SV"
+msgstr "svéd"
+
+msgid "ISO_639-2.SW"
+msgstr "szuahéli"
+
+msgid "ISO_639-2.TA"
+msgstr "tamil"
+
+msgid "ISO_639-2.TE"
+msgstr "telugu"
+
+msgid "ISO_639-2.TG"
+msgstr "tádzsik"
+
+msgid "ISO_639-2.TH"
+msgstr "thai"
+
+msgid "ISO_639-2.TI"
+msgstr "tigrinya"
+
+msgid "ISO_639-2.TK"
+msgstr "türkmen"
+
+msgid "ISO_639-2.TL"
+msgstr "tagalog"
+
+msgid "ISO_639-2.TN"
+msgstr "csvana"
+
+msgid "ISO_639-2.TO"
+msgstr "tonga (Tonga-szigetek)"
+
+msgid "ISO_639-2.TR"
+msgstr "török"
+
+msgid "ISO_639-2.TS"
+msgstr "conga"
+
+msgid "ISO_639-2.TT"
+msgstr "tatár"
+
+msgid "ISO_639-2.TW"
+msgstr "tvi"
+
+msgid "ISO_639-2.TY"
+msgstr "tahiti"
+
+msgid "ISO_639-2.UG"
+msgstr "ujgur"
+
+msgid "ISO_639-2.UK"
+msgstr "ukrán"
+
+msgid "ISO_639-2.UR"
+msgstr "urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "üzbég"
+
+msgid "ISO_639-2.VE"
+msgstr "venda"
+
+msgid "ISO_639-2.VI"
+msgstr "vietnami"
+
+msgid "ISO_639-2.VO"
+msgstr "volapük"
+
+msgid "ISO_639-2.WA"
+msgstr "vallon"
+
+msgid "ISO_639-2.WO"
+msgstr "wolof"
+
+msgid "ISO_639-2.XH"
+msgstr "xhosza"
+
+msgid "ISO_639-2.YI"
+msgstr "jiddis"
+
+msgid "ISO_639-2.YO"
+msgstr "joruba"
+
+msgid "ISO_639-2.ZA"
+msgstr "dzsuang; csuang"
+
+msgid "ISO_639-2.ZH"
+msgstr "kínai"
+
+msgid "ISO_639-2.ZU"
+msgstr "zulu"

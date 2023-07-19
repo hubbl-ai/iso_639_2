@@ -1,0 +1,574 @@
+# Latvian translations of ISO 639 Latvian names
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Translations from KDE:
+# Andris Maziks <andzha@latnet.lv>
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011, 2014.
+# Rihards Prieditis <rihards.prieditis@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-20 16:50+0300\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afāru"
+
+msgid "ISO_639-2.AB"
+msgstr "Abhāzu"
+
+msgid "ISO_639-2.AE"
+msgstr "Avesta"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikandu"
+
+msgid "ISO_639-2.AK"
+msgstr "Akanu"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharu"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragoniešu"
+
+msgid "ISO_639-2.AR"
+msgstr "Arābu"
+
+msgid "ISO_639-2.AS"
+msgstr "Asamiešu"
+
+msgid "ISO_639-2.AV"
+msgstr "Avāru"
+
+msgid "ISO_639-2.AY"
+msgstr "Aimaru"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbaidžāņu"
+
+msgid "ISO_639-2.BA"
+msgstr "Baškīru"
+
+msgid "ISO_639-2.BE"
+msgstr "Baltkrievu"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgāru"
+
+msgid "ISO_639-2.BH"
+msgstr "Biharu"
+
+msgid "ISO_639-2.BI"
+msgstr "Bišlamā"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambaru"
+
+msgid "ISO_639-2.BN"
+msgstr "Bangalu"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetiešu"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretoņu"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosniešu"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalāņu"
+
+msgid "ISO_639-2.CE"
+msgstr "Čečenu"
+
+msgid "ISO_639-2.CH"
+msgstr "Čamorru"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikāņu"
+
+msgid "ISO_639-2.CR"
+msgstr "Krī"
+
+msgid "ISO_639-2.CS"
+msgstr "Čehu"
+
+msgid "ISO_639-2.CV"
+msgstr "Čuvašu"
+
+msgid "ISO_639-2.CY"
+msgstr "Velsiešu"
+
+msgid "ISO_639-2.DA"
+msgstr "Dāņu"
+
+msgid "ISO_639-2.DE"
+msgstr "Vācu"
+
+msgid "ISO_639-2.DV"
+msgstr "Maldīviešu"
+
+msgid "ISO_639-2.DZ"
+msgstr "Dzongke"
+
+msgid "ISO_639-2.EE"
+msgstr "Evu"
+
+msgid "ISO_639-2.EL"
+msgstr "Grieķu (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Angļu"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Spāņu"
+
+msgid "ISO_639-2.ET"
+msgstr "Igauņu"
+
+msgid "ISO_639-2.EU"
+msgstr "Basku"
+
+msgid "ISO_639-2.FA"
+msgstr "Persiešu"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulu"
+
+msgid "ISO_639-2.FI"
+msgstr "Somu"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidžiešu"
+
+msgid "ISO_639-2.FO"
+msgstr "Fēru"
+
+msgid "ISO_639-2.FR"
+msgstr "Franču"
+
+msgid "ISO_639-2.FY"
+msgstr "Rietumfrīzu"
+
+msgid "ISO_639-2.GA"
+msgstr "Īru"
+
+msgid "ISO_639-2.GD"
+msgstr "Gēlu"
+
+msgid "ISO_639-2.GL"
+msgstr "Galisiešu"
+
+msgid "ISO_639-2.GN"
+msgstr "Gvaranu"
+
+msgid "ISO_639-2.GU"
+msgstr "Gudžaratu"
+
+msgid "ISO_639-2.GV"
+msgstr "Meniešu"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausu"
+
+msgid "ISO_639-2.HE"
+msgstr "Ivrits"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hirimotu"
+
+msgid "ISO_639-2.HR"
+msgstr "Horvātu"
+
+msgid "ISO_639-2.HT"
+msgstr "Haitiešu"
+
+msgid "ISO_639-2.HU"
+msgstr "Ungāru"
+
+msgid "ISO_639-2.HY"
+msgstr "Armēņu"
+
+msgid "ISO_639-2.HZ"
+msgstr "Hereru"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingva"
+
+msgid "ISO_639-2.ID"
+msgstr "Indonēziešu"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingve"
+
+msgid "ISO_639-2.IG"
+msgstr "Igbo"
+
+msgid "ISO_639-2.II"
+msgstr "Sičuaņas ji"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiaku"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandiešu"
+
+msgid "ISO_639-2.IT"
+msgstr "Itāliešu"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuītu"
+
+msgid "ISO_639-2.JA"
+msgstr "Japāņu"
+
+msgid "ISO_639-2.JV"
+msgstr "Javiešu"
+
+msgid "ISO_639-2.KA"
+msgstr "Gruzīnu"
+
+msgid "ISO_639-2.KG"
+msgstr "Kongu"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikuju"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kvaņamu"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazahu"
+
+msgid "ISO_639-2.KL"
+msgstr "Grenlandiešu"
+
+msgid "ISO_639-2.KM"
+msgstr "Khmeru"
+
+msgid "ISO_639-2.KN"
+msgstr "Kannadu"
+
+msgid "ISO_639-2.KO"
+msgstr "Korejiešu"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanuru"
+
+msgid "ISO_639-2.KS"
+msgstr "Kašmiriešu"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurdu"
+
+msgid "ISO_639-2.KV"
+msgstr "Komiešu"
+
+msgid "ISO_639-2.KW"
+msgstr "Korniešu"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgīzu"
+
+msgid "ISO_639-2.LA"
+msgstr "Latīņu"
+
+msgid "ISO_639-2.LB"
+msgstr "Luksemburgiešu"
+
+msgid "ISO_639-2.LG"
+msgstr "Gandu"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgiešu"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laosiešu"
+
+msgid "ISO_639-2.LT"
+msgstr "Lietuviešu"
+
+msgid "ISO_639-2.LU"
+msgstr "Lubakatanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Latviešu"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasu"
+
+msgid "ISO_639-2.MH"
+msgstr "Māršaliešu"
+
+msgid "ISO_639-2.MI"
+msgstr "Maoru"
+
+msgid "ISO_639-2.MK"
+msgstr "Maķedoniešu"
+
+msgid "ISO_639-2.ML"
+msgstr "Malajalu"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongoļu"
+
+msgid "ISO_639-2.MR"
+msgstr "Maratu"
+
+msgid "ISO_639-2.MS"
+msgstr "Malajiešu"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltiešu"
+
+msgid "ISO_639-2.MY"
+msgstr "Birmiešu"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauruiešu"
+
+msgid "ISO_639-2.NB"
+msgstr "Norvēģu bukmols"
+
+msgid "ISO_639-2.ND"
+msgstr "Ziemeļndebelu"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepāliešu"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndongu"
+
+msgid "ISO_639-2.NL"
+msgstr "Holandiešu"
+
+msgid "ISO_639-2.NN"
+msgstr "Jaunnorvēģu"
+
+msgid "ISO_639-2.NO"
+msgstr "Norvēģu"
+
+msgid "ISO_639-2.NR"
+msgstr "Dienvidndebelu"
+
+msgid "ISO_639-2.NV"
+msgstr "Navahu"
+
+msgid "ISO_639-2.NY"
+msgstr "Čičeva"
+
+msgid "ISO_639-2.OC"
+msgstr "Oksitāņu"
+
+msgid "ISO_639-2.OJ"
+msgstr "Odžibvu"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromu"
+
+msgid "ISO_639-2.OR"
+msgstr "Oriju"
+
+msgid "ISO_639-2.OS"
+msgstr "Osetīnu"
+
+msgid "ISO_639-2.PA"
+msgstr "Pandžabu"
+
+msgid "ISO_639-2.PI"
+msgstr "Pāli"
+
+msgid "ISO_639-2.PL"
+msgstr "Poļu"
+
+msgid "ISO_639-2.PS"
+msgstr "Puštu"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugāļu"
+
+msgid "ISO_639-2.QU"
+msgstr "Kečvu"
+
+msgid "ISO_639-2.RM"
+msgstr "Retoromāņu"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundu"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldāvu"
+
+msgid "ISO_639-2.RU"
+msgstr "Krievu"
+
+msgid "ISO_639-2.RW"
+msgstr "Kiņaruanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskrits"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardīniešu"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhu"
+
+msgid "ISO_639-2.SE"
+msgstr "Ziemeļsāmu"
+
+msgid "ISO_639-2.SG"
+msgstr "Sangu"
+
+msgid "ISO_639-2.SI"
+msgstr "Singāļu"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovāku"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovēņu"
+
+msgid "ISO_639-2.SM"
+msgstr "Samoāņu"
+
+msgid "ISO_639-2.SN"
+msgstr "Šonu"
+
+msgid "ISO_639-2.SO"
+msgstr "Somāļu"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albāņu"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbu"
+
+msgid "ISO_639-2.SS"
+msgstr "Svatu"
+
+msgid "ISO_639-2.ST"
+msgstr "Sesoto"
+
+msgid "ISO_639-2.SU"
+msgstr "Sundaniešu"
+
+msgid "ISO_639-2.SV"
+msgstr "Zviedru"
+
+msgid "ISO_639-2.SW"
+msgstr "Svahili"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilu"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugu"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadžiku"
+
+msgid "ISO_639-2.TH"
+msgstr "Taju"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrinja"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmēņu"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalu"
+
+msgid "ISO_639-2.TN"
+msgstr "Cvanu"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongu"
+
+msgid "ISO_639-2.TR"
+msgstr "Turku"
+
+msgid "ISO_639-2.TS"
+msgstr "Congu"
+
+msgid "ISO_639-2.TT"
+msgstr "Tatāru"
+
+msgid "ISO_639-2.TW"
+msgstr "Tvī"
+
+msgid "ISO_639-2.TY"
+msgstr "Taitiešu"
+
+msgid "ISO_639-2.UG"
+msgstr "Uiguru"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukraiņu"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Uzbeku"
+
+msgid "ISO_639-2.VE"
+msgstr "Vendu"
+
+msgid "ISO_639-2.VI"
+msgstr "Vjetnamiešu"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapiks"
+
+msgid "ISO_639-2.WA"
+msgstr "Valoņu"
+
+msgid "ISO_639-2.WO"
+msgstr "Volofu"
+
+msgid "ISO_639-2.XH"
+msgstr "Khosu"
+
+msgid "ISO_639-2.YI"
+msgstr "Jidišs"
+
+msgid "ISO_639-2.YO"
+msgstr "Jorubu"
+
+msgid "ISO_639-2.ZA"
+msgstr "Džuanu"
+
+msgid "ISO_639-2.ZH"
+msgstr "Ķīniešu"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zulu"

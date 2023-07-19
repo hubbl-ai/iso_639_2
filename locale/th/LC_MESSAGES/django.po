@@ -1,0 +1,467 @@
+# Translation of ISO-639 (language names) to Thai
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002-2015
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Thanomsub Noppaburana <donga@midaassets.com> (Translations from KDE)
+#   Theppitak Karoonboonyanan <theppitak@gmail.com>, 2005-2015
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2016-03-30 22:30+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <theppitak@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroup.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "อาฟา"
+
+msgid "ISO_639-2.AB"
+msgstr "แอบกาเซีย"
+
+msgid "ISO_639-2.AE"
+msgstr "อเวสตะ"
+
+msgid "ISO_639-2.AF"
+msgstr "แอฟริกา"
+
+msgid "ISO_639-2.AM"
+msgstr "อัมฮาริก"
+
+msgid "ISO_639-2.AR"
+msgstr "อารบิก"
+
+msgid "ISO_639-2.AS"
+msgstr "อัสสมี"
+
+msgid "ISO_639-2.AY"
+msgstr "ไอมารา"
+
+msgid "ISO_639-2.AZ"
+msgstr "อาเซอร์ไบจาน"
+
+msgid "ISO_639-2.BA"
+msgstr "บาสช์กีร์"
+
+msgid "ISO_639-2.BE"
+msgstr "เบลารุส"
+
+msgid "ISO_639-2.BG"
+msgstr "บัลแกเรีย"
+
+msgid "ISO_639-2.BH"
+msgstr "กลุ่มภาษาพิหารี"
+
+msgid "ISO_639-2.BI"
+msgstr "บิสลามา"
+
+msgid "ISO_639-2.BN"
+msgstr "เบ็งกาลี"
+
+msgid "ISO_639-2.BO"
+msgstr "ทิเบต"
+
+msgid "ISO_639-2.BR"
+msgstr "เบรตัน"
+
+msgid "ISO_639-2.BS"
+msgstr "บอสเนีย"
+
+msgid "ISO_639-2.CA"
+msgstr "คาตะลาน; บาเลนเซีย"
+
+msgid "ISO_639-2.CE"
+msgstr "เชเชน"
+
+msgid "ISO_639-2.CS"
+msgstr "เช็ก"
+
+msgid "ISO_639-2.CY"
+msgstr "เวลส์"
+
+msgid "ISO_639-2.DA"
+msgstr "เดนมาร์ก"
+
+msgid "ISO_639-2.DE"
+msgstr "เยอรมัน"
+
+msgid "ISO_639-2.DV"
+msgstr "ทิเวหี; มัลดีฟส์"
+
+msgid "ISO_639-2.DZ"
+msgstr "ภูฏาน"
+
+msgid "ISO_639-2.EL"
+msgstr "กรีกสมัยใหม่ (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "อังกฤษ"
+
+msgid "ISO_639-2.EO"
+msgstr "เอสเปอรันโต"
+
+msgid "ISO_639-2.ES"
+msgstr "สเปนคัสติเลียน"
+
+msgid "ISO_639-2.ET"
+msgstr "เอสโตเนีย"
+
+msgid "ISO_639-2.EU"
+msgstr "แบ็ซค์"
+
+msgid "ISO_639-2.FA"
+msgstr "เปอร์เซีย"
+
+msgid "ISO_639-2.FI"
+msgstr "ฟินแลนด์"
+
+msgid "ISO_639-2.FJ"
+msgstr "ฟิจิ"
+
+msgid "ISO_639-2.FO"
+msgstr "แฟโร"
+
+msgid "ISO_639-2.FR"
+msgstr "ฝรั่งเศส"
+
+msgid "ISO_639-2.GA"
+msgstr "ไอริช"
+
+msgid "ISO_639-2.GL"
+msgstr "กาลิเซีย"
+
+msgid "ISO_639-2.GU"
+msgstr "คุชราตี"
+
+msgid "ISO_639-2.HA"
+msgstr "โฮซา"
+
+msgid "ISO_639-2.HE"
+msgstr "ฮีบรู"
+
+msgid "ISO_639-2.HI"
+msgstr "ฮินดี"
+
+msgid "ISO_639-2.HR"
+msgstr "โครเอเชีย"
+
+msgid "ISO_639-2.HT"
+msgstr "เฮติ; ลูกผสมเฮติ"
+
+msgid "ISO_639-2.HU"
+msgstr "ฮังการี"
+
+msgid "ISO_639-2.HY"
+msgstr "อาร์เมเนีย"
+
+msgid "ISO_639-2.HZ"
+msgstr "เฮเรโร"
+
+msgid "ISO_639-2.IA"
+msgstr "อินเทอร์ลิงกวา (องค์การภาษาช่วยสื่อสารนานาชาติ)"
+
+msgid "ISO_639-2.ID"
+msgstr "อินโดนีเซีย"
+
+msgid "ISO_639-2.IE"
+msgstr "อินเทอร์ลิงก์; ออกซิเดนทัล (อัสดงคต)"
+
+msgid "ISO_639-2.II"
+msgstr "อี้เสฉวน; นอซู"
+
+msgid "ISO_639-2.IK"
+msgstr "อินุเปียก"
+
+msgid "ISO_639-2.IO"
+msgstr "อีโด"
+
+msgid "ISO_639-2.IS"
+msgstr "ไอซ์แลนด์"
+
+msgid "ISO_639-2.IT"
+msgstr "อิตาลี"
+
+msgid "ISO_639-2.IU"
+msgstr "อินุกติตุต"
+
+msgid "ISO_639-2.JA"
+msgstr "ญี่ปุ่น"
+
+msgid "ISO_639-2.JV"
+msgstr "ชวา"
+
+msgid "ISO_639-2.KA"
+msgstr "จอร์เจีย"
+
+msgid "ISO_639-2.KG"
+msgstr "คองโก"
+
+msgid "ISO_639-2.KK"
+msgstr "คาซัคสถาน"
+
+msgid "ISO_639-2.KM"
+msgstr "เขมรกลาง"
+
+msgid "ISO_639-2.KN"
+msgstr "กัณณาท"
+
+msgid "ISO_639-2.KO"
+msgstr "เกาหลี"
+
+msgid "ISO_639-2.KS"
+msgstr "กัศมีรี"
+
+msgid "ISO_639-2.KU"
+msgstr "เคิร์ด"
+
+msgid "ISO_639-2.KY"
+msgstr "คีร์กีซสถาน"
+
+msgid "ISO_639-2.LA"
+msgstr "ละติน"
+
+msgid "ISO_639-2.LB"
+msgstr "ลักเซมเบิร์ก"
+
+msgid "ISO_639-2.LN"
+msgstr "ลิงกาลา"
+
+msgid "ISO_639-2.LO"
+msgstr "ลาว"
+
+msgid "ISO_639-2.LT"
+msgstr "ลิทัวเนีย"
+
+msgid "ISO_639-2.LV"
+msgstr "ลัตเวีย"
+
+msgid "ISO_639-2.MG"
+msgstr "มาลากาซี"
+
+msgid "ISO_639-2.MH"
+msgstr "มาร์แชลล์"
+
+msgid "ISO_639-2.MI"
+msgstr "เมารี"
+
+msgid "ISO_639-2.MK"
+msgstr "มาซิโดเนีย"
+
+msgid "ISO_639-2.ML"
+msgstr "มลยาฬัม"
+
+msgid "ISO_639-2.MN"
+msgstr "มองโกเลีย"
+
+msgid "ISO_639-2.MR"
+msgstr "มราฐี"
+
+msgid "ISO_639-2.MS"
+msgstr "มลายู"
+
+msgid "ISO_639-2.MT"
+msgstr "มอลตา"
+
+msgid "ISO_639-2.MY"
+msgstr "พม่า"
+
+msgid "ISO_639-2.NA"
+msgstr "นาอูรู"
+
+msgid "ISO_639-2.NB"
+msgstr "นอร์เวย์ (บุคมอล)"
+
+msgid "ISO_639-2.NE"
+msgstr "เนปาล"
+
+msgid "ISO_639-2.NN"
+msgstr "นอร์เวย์ (นีนอร์สก์)"
+
+msgid "ISO_639-2.NO"
+msgstr "นอร์เวย์"
+
+msgid "ISO_639-2.NV"
+msgstr "นาวาโฮ"
+
+msgid "ISO_639-2.OC"
+msgstr "ออกซิตัน (หลัง 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "โอจิบเว"
+
+msgid "ISO_639-2.OM"
+msgstr "โอโรโม"
+
+msgid "ISO_639-2.OR"
+msgstr "โอริยา"
+
+msgid "ISO_639-2.PA"
+msgstr "ปัญจาบี"
+
+msgid "ISO_639-2.PI"
+msgstr "บาลี"
+
+msgid "ISO_639-2.PL"
+msgstr "โปแลนด์"
+
+msgid "ISO_639-2.PS"
+msgstr "พาชโต"
+
+msgid "ISO_639-2.PT"
+msgstr "โปรตุเกส"
+
+msgid "ISO_639-2.QU"
+msgstr "เกชัว"
+
+msgid "ISO_639-2.RN"
+msgstr "รุนดี"
+
+msgid "ISO_639-2.RO"
+msgstr "มอลโดวา"
+
+msgid "ISO_639-2.RU"
+msgstr "รัสเซีย"
+
+msgid "ISO_639-2.RW"
+msgstr "คินยารวันดา"
+
+msgid "ISO_639-2.SA"
+msgstr "สันสกฤต"
+
+msgid "ISO_639-2.SC"
+msgstr "ซาร์ดิเนีย"
+
+msgid "ISO_639-2.SD"
+msgstr "สินธี"
+
+msgid "ISO_639-2.SE"
+msgstr "ซามิเหนือ"
+
+msgid "ISO_639-2.SG"
+msgstr "ซังโก"
+
+msgid "ISO_639-2.SI"
+msgstr "สิงหล"
+
+msgid "ISO_639-2.SK"
+msgstr "สโลวัก"
+
+msgid "ISO_639-2.SL"
+msgstr "สโลวีเนีย"
+
+msgid "ISO_639-2.SM"
+msgstr "ซามัว"
+
+msgid "ISO_639-2.SO"
+msgstr "โซมาเลีย"
+
+msgid "ISO_639-2.SQ"
+msgstr "แอลเบเนีย"
+
+msgid "ISO_639-2.SR"
+msgstr "เซอร์เบีย"
+
+msgid "ISO_639-2.SS"
+msgstr "สวาตี"
+
+msgid "ISO_639-2.ST"
+msgstr "ซูทูใต้"
+
+msgid "ISO_639-2.SU"
+msgstr "ซุนดา"
+
+msgid "ISO_639-2.SV"
+msgstr "สวีเดน"
+
+msgid "ISO_639-2.SW"
+msgstr "สวาฮีลี"
+
+msgid "ISO_639-2.TA"
+msgstr "ทมิฬ"
+
+msgid "ISO_639-2.TE"
+msgstr "เตลุคู"
+
+msgid "ISO_639-2.TG"
+msgstr "ทาจิกิสถาน"
+
+msgid "ISO_639-2.TH"
+msgstr "ไทย"
+
+msgid "ISO_639-2.TI"
+msgstr "ทิกริญญา"
+
+msgid "ISO_639-2.TK"
+msgstr "เติร์กเมนิสถาน"
+
+msgid "ISO_639-2.TL"
+msgstr "ตากาล็อก"
+
+msgid "ISO_639-2.TN"
+msgstr "เซตสวานา"
+
+msgid "ISO_639-2.TO"
+msgstr "ตองกา (หมู่เกาะตองกา)"
+
+msgid "ISO_639-2.TR"
+msgstr "ตุรกี"
+
+msgid "ISO_639-2.TS"
+msgstr "ซองกา"
+
+msgid "ISO_639-2.TT"
+msgstr "ตาด"
+
+msgid "ISO_639-2.TW"
+msgstr "จวี"
+
+msgid "ISO_639-2.TY"
+msgstr "ตาฮิติ"
+
+msgid "ISO_639-2.UG"
+msgstr "อุยกูร์"
+
+msgid "ISO_639-2.UK"
+msgstr "ยูเครน"
+
+msgid "ISO_639-2.UR"
+msgstr "อูรดู"
+
+msgid "ISO_639-2.UZ"
+msgstr "อุซเบกิสถาน"
+
+msgid "ISO_639-2.VI"
+msgstr "เวียดนาม"
+
+msgid "ISO_639-2.WA"
+msgstr "วอลลูน"
+
+msgid "ISO_639-2.WO"
+msgstr "โวลอฟ"
+
+msgid "ISO_639-2.XH"
+msgstr "คอซา"
+
+msgid "ISO_639-2.YI"
+msgstr "ยิดดิช"
+
+msgid "ISO_639-2.YO"
+msgstr "โยรูบา"
+
+msgid "ISO_639-2.ZA"
+msgstr "จ้วง"
+
+msgid "ISO_639-2.ZH"
+msgstr "จีน"
+
+msgid "ISO_639-2.ZU"
+msgstr "ซูลู"

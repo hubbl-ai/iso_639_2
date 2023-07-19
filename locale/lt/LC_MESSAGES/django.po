@@ -1,0 +1,569 @@
+# Translation of ISO-639 (language names) to Lithuanian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2000-2001, 2004
+#   Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
+#   Alastair McKinstry <mckinstry@computer.org>, 2001.
+#   Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2006, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-04-09 10:48+0300\n"
+"Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AA"
+msgstr "Afarų"
+
+msgid "ISO_639-2.AB"
+msgstr "Abchazų"
+
+msgid "ISO_639-2.AE"
+msgstr "Avestiškoji"
+
+msgid "ISO_639-2.AF"
+msgstr "Afrikanų"
+
+msgid "ISO_639-2.AK"
+msgstr "Akanų"
+
+msgid "ISO_639-2.AM"
+msgstr "Amharų"
+
+msgid "ISO_639-2.AN"
+msgstr "Aragonų"
+
+msgid "ISO_639-2.AR"
+msgstr "Arabų"
+
+msgid "ISO_639-2.AS"
+msgstr "Asamų"
+
+msgid "ISO_639-2.AV"
+msgstr "Avarų"
+
+msgid "ISO_639-2.AY"
+msgstr "Aimarų"
+
+msgid "ISO_639-2.AZ"
+msgstr "Azerbaidžaniečių"
+
+msgid "ISO_639-2.BA"
+msgstr "Baškirų"
+
+msgid "ISO_639-2.BE"
+msgstr "Baltarusių"
+
+msgid "ISO_639-2.BG"
+msgstr "Bulgarų"
+
+msgid "ISO_639-2.BH"
+msgstr "Tajų kalbos"
+
+msgid "ISO_639-2.BI"
+msgstr "Bislama"
+
+msgid "ISO_639-2.BM"
+msgstr "Bambara"
+
+msgid "ISO_639-2.BN"
+msgstr "Bengalų"
+
+msgid "ISO_639-2.BO"
+msgstr "Tibetiečių"
+
+msgid "ISO_639-2.BR"
+msgstr "Bretonų"
+
+msgid "ISO_639-2.BS"
+msgstr "Bosnių"
+
+msgid "ISO_639-2.CA"
+msgstr "Katalonų; Valencijos"
+
+msgid "ISO_639-2.CE"
+msgstr "Čečėnų"
+
+msgid "ISO_639-2.CH"
+msgstr "Čamorų"
+
+msgid "ISO_639-2.CO"
+msgstr "Korsikiečių"
+
+msgid "ISO_639-2.CR"
+msgstr "Kry"
+
+msgid "ISO_639-2.CS"
+msgstr "Čekų"
+
+msgid "ISO_639-2.CV"
+msgstr "Čiuvašų"
+
+msgid "ISO_639-2.CY"
+msgstr "Valų"
+
+msgid "ISO_639-2.DA"
+msgstr "Danų"
+
+msgid "ISO_639-2.DE"
+msgstr "Vokiečių"
+
+msgid "ISO_639-2.DV"
+msgstr "Maldivų"
+
+msgid "ISO_639-2.DZ"
+msgstr "Botijų"
+
+msgid "ISO_639-2.EE"
+msgstr "Ivių"
+
+msgid "ISO_639-2.EL"
+msgstr "Graikų, šiuolaikinė (1453-)"
+
+msgid "ISO_639-2.EN"
+msgstr "Anglų"
+
+msgid "ISO_639-2.EO"
+msgstr "Esperanto"
+
+msgid "ISO_639-2.ES"
+msgstr "Ispanų; Kastilijos"
+
+msgid "ISO_639-2.ET"
+msgstr "Estų"
+
+msgid "ISO_639-2.EU"
+msgstr "Baskų"
+
+msgid "ISO_639-2.FA"
+msgstr "Persų"
+
+msgid "ISO_639-2.FF"
+msgstr "Fulahų"
+
+msgid "ISO_639-2.FI"
+msgstr "Suomių"
+
+msgid "ISO_639-2.FJ"
+msgstr "Fidžių"
+
+msgid "ISO_639-2.FO"
+msgstr "Farerų"
+
+msgid "ISO_639-2.FR"
+msgstr "Prancūzų"
+
+msgid "ISO_639-2.FY"
+msgstr "Vakarų fryzų"
+
+msgid "ISO_639-2.GA"
+msgstr "Airių"
+
+msgid "ISO_639-2.GD"
+msgstr "Gėlų; škotų gėlų"
+
+msgid "ISO_639-2.GL"
+msgstr "Galisų"
+
+msgid "ISO_639-2.GN"
+msgstr "Gvranių"
+
+msgid "ISO_639-2.GU"
+msgstr "Gudžaratų"
+
+msgid "ISO_639-2.GV"
+msgstr "Menksiečių"
+
+msgid "ISO_639-2.HA"
+msgstr "Hausų"
+
+msgid "ISO_639-2.HE"
+msgstr "Hebrajų"
+
+msgid "ISO_639-2.HI"
+msgstr "Hindi"
+
+msgid "ISO_639-2.HO"
+msgstr "Hiri motu"
+
+msgid "ISO_639-2.HR"
+msgstr "Kroatų"
+
+msgid "ISO_639-2.HT"
+msgstr "Haičio; Haičio kreolų"
+
+msgid "ISO_639-2.HU"
+msgstr "Vengrų"
+
+msgid "ISO_639-2.HY"
+msgstr "Armėnų"
+
+msgid "ISO_639-2.HZ"
+msgstr "Hererų"
+
+msgid "ISO_639-2.IA"
+msgstr "Interlingua (tarpinė kalba) (Tarptautinė pagalbinės kalbos asociacija)"
+
+msgid "ISO_639-2.ID"
+msgstr "Indoneziečių"
+
+msgid "ISO_639-2.IE"
+msgstr "Interlingue"
+
+msgid "ISO_639-2.IG"
+msgstr "Igbo"
+
+msgid "ISO_639-2.IK"
+msgstr "Inupiakų"
+
+msgid "ISO_639-2.IO"
+msgstr "Ido"
+
+msgid "ISO_639-2.IS"
+msgstr "Islandų"
+
+msgid "ISO_639-2.IT"
+msgstr "Italų"
+
+msgid "ISO_639-2.IU"
+msgstr "Inuktitutas"
+
+msgid "ISO_639-2.JA"
+msgstr "Japonų"
+
+msgid "ISO_639-2.JV"
+msgstr "Javiečių"
+
+msgid "ISO_639-2.KA"
+msgstr "Gruzinų"
+
+msgid "ISO_639-2.KG"
+msgstr "Kongo"
+
+msgid "ISO_639-2.KI"
+msgstr "Kikui"
+
+msgid "ISO_639-2.KJ"
+msgstr "Kuaniama"
+
+msgid "ISO_639-2.KK"
+msgstr "Kazachų"
+
+msgid "ISO_639-2.KL"
+msgstr "Grenlandų"
+
+msgid "ISO_639-2.KM"
+msgstr "Khmerų centrinė"
+
+msgid "ISO_639-2.KN"
+msgstr "Kanadų"
+
+msgid "ISO_639-2.KO"
+msgstr "Korėjiečių"
+
+msgid "ISO_639-2.KR"
+msgstr "Kanūrių"
+
+msgid "ISO_639-2.KS"
+msgstr "Kašmyrų"
+
+msgid "ISO_639-2.KU"
+msgstr "Kurdų"
+
+msgid "ISO_639-2.KV"
+msgstr "Komių"
+
+msgid "ISO_639-2.KW"
+msgstr "Kornų"
+
+msgid "ISO_639-2.KY"
+msgstr "Kirgizų"
+
+msgid "ISO_639-2.LA"
+msgstr "Lotynų"
+
+msgid "ISO_639-2.LB"
+msgstr "Liuksemburgiečių"
+
+msgid "ISO_639-2.LG"
+msgstr "Ganda"
+
+msgid "ISO_639-2.LI"
+msgstr "Limburgo tarmė"
+
+msgid "ISO_639-2.LN"
+msgstr "Lingala"
+
+msgid "ISO_639-2.LO"
+msgstr "Laosiečių"
+
+msgid "ISO_639-2.LT"
+msgstr "Lietuvių"
+
+msgid "ISO_639-2.LU"
+msgstr "Luba katanga"
+
+msgid "ISO_639-2.LV"
+msgstr "Latvių"
+
+msgid "ISO_639-2.MG"
+msgstr "Malagasių"
+
+msgid "ISO_639-2.MH"
+msgstr "Maršalo salų"
+
+msgid "ISO_639-2.MI"
+msgstr "Maorių"
+
+msgid "ISO_639-2.MK"
+msgstr "Makedonų"
+
+msgid "ISO_639-2.ML"
+msgstr "Malajalių"
+
+msgid "ISO_639-2.MN"
+msgstr "Mongolų"
+
+msgid "ISO_639-2.MR"
+msgstr "Marathų"
+
+msgid "ISO_639-2.MS"
+msgstr "Malajų"
+
+msgid "ISO_639-2.MT"
+msgstr "Maltiečių"
+
+msgid "ISO_639-2.MY"
+msgstr "Birmiečių"
+
+msgid "ISO_639-2.NA"
+msgstr "Nauriečių"
+
+msgid "ISO_639-2.NB"
+msgstr "Bokmål; norvegų; norvegų bokmål"
+
+msgid "ISO_639-2.ND"
+msgstr "Šiaurės ndebelų"
+
+msgid "ISO_639-2.NE"
+msgstr "Nepalų"
+
+msgid "ISO_639-2.NG"
+msgstr "Ndongų"
+
+msgid "ISO_639-2.NL"
+msgstr "Olandų; Flamandų"
+
+msgid "ISO_639-2.NN"
+msgstr "Norvegų nynorsk; nynorsk, norvegų"
+
+msgid "ISO_639-2.NO"
+msgstr "Norvegų"
+
+msgid "ISO_639-2.NR"
+msgstr "Pietų ndebelų"
+
+msgid "ISO_639-2.NV"
+msgstr "Navahų"
+
+msgid "ISO_639-2.NY"
+msgstr "Nianja"
+
+msgid "ISO_639-2.OC"
+msgstr "Očitarų (po 1500)"
+
+msgid "ISO_639-2.OJ"
+msgstr "Ojibva"
+
+msgid "ISO_639-2.OM"
+msgstr "Oromų"
+
+msgid "ISO_639-2.OR"
+msgstr "Orijų"
+
+msgid "ISO_639-2.OS"
+msgstr "Osetinų"
+
+msgid "ISO_639-2.PA"
+msgstr "Pendžabų"
+
+msgid "ISO_639-2.PI"
+msgstr "Pali"
+
+msgid "ISO_639-2.PL"
+msgstr "Lenkų"
+
+msgid "ISO_639-2.PS"
+msgstr "Puštūnų"
+
+msgid "ISO_639-2.PT"
+msgstr "Portugalų"
+
+msgid "ISO_639-2.QU"
+msgstr "Kečujų"
+
+msgid "ISO_639-2.RM"
+msgstr "Retoromanų"
+
+msgid "ISO_639-2.RN"
+msgstr "Rundi"
+
+msgid "ISO_639-2.RO"
+msgstr "Moldavų"
+
+msgid "ISO_639-2.RU"
+msgstr "Rusų"
+
+msgid "ISO_639-2.RW"
+msgstr "Kinjaruanda"
+
+msgid "ISO_639-2.SA"
+msgstr "Sanskritas"
+
+msgid "ISO_639-2.SC"
+msgstr "Sardiniečių"
+
+msgid "ISO_639-2.SD"
+msgstr "Sindhų"
+
+msgid "ISO_639-2.SE"
+msgstr "Šiaurės sami"
+
+msgid "ISO_639-2.SG"
+msgstr "Sango"
+
+msgid "ISO_639-2.SI"
+msgstr "Sinhalų"
+
+msgid "ISO_639-2.SK"
+msgstr "Slovakų"
+
+msgid "ISO_639-2.SL"
+msgstr "Slovėnų"
+
+msgid "ISO_639-2.SM"
+msgstr "Samojiečių"
+
+msgid "ISO_639-2.SN"
+msgstr "Šonų"
+
+msgid "ISO_639-2.SO"
+msgstr "Somalių"
+
+msgid "ISO_639-2.SQ"
+msgstr "Albanų"
+
+msgid "ISO_639-2.SR"
+msgstr "Serbų"
+
+msgid "ISO_639-2.SS"
+msgstr "Svazių"
+
+msgid "ISO_639-2.ST"
+msgstr "Pietų sotų"
+
+msgid "ISO_639-2.SU"
+msgstr "Sudaniečių"
+
+msgid "ISO_639-2.SV"
+msgstr "Švedų"
+
+msgid "ISO_639-2.SW"
+msgstr "Svahilių"
+
+msgid "ISO_639-2.TA"
+msgstr "Tamilų"
+
+msgid "ISO_639-2.TE"
+msgstr "Telugų"
+
+msgid "ISO_639-2.TG"
+msgstr "Tadžikų"
+
+msgid "ISO_639-2.TH"
+msgstr "Tajų"
+
+msgid "ISO_639-2.TI"
+msgstr "Tigrajų"
+
+msgid "ISO_639-2.TK"
+msgstr "Turkmėnų"
+
+msgid "ISO_639-2.TL"
+msgstr "Tagalų"
+
+msgid "ISO_639-2.TN"
+msgstr "Tsvanų"
+
+msgid "ISO_639-2.TO"
+msgstr "Tongų (Tonga salų)"
+
+msgid "ISO_639-2.TR"
+msgstr "Turkų"
+
+msgid "ISO_639-2.TS"
+msgstr "Tsongų"
+
+msgid "ISO_639-2.TT"
+msgstr "Totorių"
+
+msgid "ISO_639-2.TW"
+msgstr "Tvi"
+
+msgid "ISO_639-2.TY"
+msgstr "Taitiečių"
+
+msgid "ISO_639-2.UG"
+msgstr "Uigūrų"
+
+msgid "ISO_639-2.UK"
+msgstr "Ukrainiečių"
+
+msgid "ISO_639-2.UR"
+msgstr "Urdu"
+
+msgid "ISO_639-2.UZ"
+msgstr "Uzbekų"
+
+msgid "ISO_639-2.VE"
+msgstr "Venda"
+
+msgid "ISO_639-2.VI"
+msgstr "Vietnamiečių"
+
+msgid "ISO_639-2.VO"
+msgstr "Volapiukas"
+
+msgid "ISO_639-2.WA"
+msgstr "Valonų"
+
+msgid "ISO_639-2.WO"
+msgstr "Volofų"
+
+msgid "ISO_639-2.XH"
+msgstr "Kosų"
+
+msgid "ISO_639-2.YI"
+msgstr "Jidiš"
+
+msgid "ISO_639-2.YO"
+msgstr "Jorubų"
+
+msgid "ISO_639-2.ZA"
+msgstr "Džuangų"
+
+msgid "ISO_639-2.ZH"
+msgstr "Kinų"
+
+msgid "ISO_639-2.ZU"
+msgstr "Zulų (zulusų)"

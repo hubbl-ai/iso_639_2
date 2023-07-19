@@ -1,0 +1,281 @@
+# Translation of ISO-639 (language names) to Hebrew
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2004
+#   Alastair McKinstry <mckinstry@computer.org>, 2002
+#   Translations from KDE:
+#   Meni Livne <livne@kde.org>, 2000.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-2\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2004-08-07 19:12+0000\n"
+"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
+"Language-Team: Hebrew <kde-il@yahoogroups.com>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_639-2.AB"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-2.AF"
+msgstr "אפריקנס"
+
+msgid "ISO_639-2.AK"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-2.AM"
+msgstr "ערבית"
+
+msgid "ISO_639-2.AR"
+msgstr "ערבית"
+
+msgid "ISO_639-2.AV"
+msgstr "ערבית"
+
+msgid "ISO_639-2.AZ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-2.BE"
+msgstr "בולגרית"
+
+msgid "ISO_639-2.BG"
+msgstr "בולגרית"
+
+msgid "ISO_639-2.BH"
+msgstr "קוריאנית"
+
+msgid "ISO_639-2.BR"
+msgstr "ברטונית"
+
+msgid "ISO_639-2.BS"
+msgstr "רומנית"
+
+msgid "ISO_639-2.CE"
+msgstr "צ'כית"
+
+msgid "ISO_639-2.CO"
+msgstr "בוסנית"
+
+msgid "ISO_639-2.CR"
+msgstr "יוונית"
+
+msgid "ISO_639-2.CS"
+msgstr "צ'כית"
+
+msgid "ISO_639-2.CY"
+msgstr "וולשית"
+
+msgid "ISO_639-2.DA"
+msgstr "דנית"
+
+msgid "ISO_639-2.DE"
+msgstr "גרמנית"
+
+msgid "ISO_639-2.EN"
+msgstr "אנגלית (בריטניה)"
+
+msgid "ISO_639-2.EO"
+msgstr "אספרנטו"
+
+msgid "ISO_639-2.ET"
+msgstr "אסטונית"
+
+msgid "ISO_639-2.EU"
+msgstr "בסקית"
+
+msgid "ISO_639-2.FA"
+msgstr "סרבית"
+
+msgid "ISO_639-2.FI"
+msgstr "פינית"
+
+msgid "ISO_639-2.FR"
+msgstr "צרפתית"
+
+msgid "ISO_639-2.FY"
+msgstr "אוקראינית"
+
+msgid "ISO_639-2.GA"
+msgstr "אירית"
+
+msgid "ISO_639-2.GL"
+msgstr "גליציאנית"
+
+msgid "ISO_639-2.GN"
+msgstr "בולגרית"
+
+msgid "ISO_639-2.HE"
+msgstr "עברית"
+
+msgid "ISO_639-2.HO"
+msgstr "טורקית"
+
+msgid "ISO_639-2.HR"
+msgstr "קרואטית"
+
+msgid "ISO_639-2.HU"
+msgstr "הונגרית"
+
+msgid "ISO_639-2.HY"
+msgstr "רומנית"
+
+msgid "ISO_639-2.HZ"
+msgstr "עברית"
+
+msgid "ISO_639-2.ID"
+msgstr "אינדונזית"
+
+msgid "ISO_639-2.II"
+msgstr "ליטאית"
+
+msgid "ISO_639-2.IS"
+msgstr "איסלנדית"
+
+msgid "ISO_639-2.IT"
+msgstr "איטלקית"
+
+msgid "ISO_639-2.JA"
+msgstr "יפנית"
+
+msgid "ISO_639-2.JV"
+msgstr "יפנית"
+
+msgid "ISO_639-2.KA"
+msgstr "גרמנית"
+
+msgid "ISO_639-2.KO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-2.KR"
+msgstr "כורדית"
+
+msgid "ISO_639-2.KU"
+msgstr "כורדית"
+
+msgid "ISO_639-2.KW"
+msgstr "אירית"
+
+msgid "ISO_639-2.LA"
+msgstr "לטבית"
+
+msgid "ISO_639-2.LT"
+msgstr "ליטאית"
+
+msgid "ISO_639-2.LV"
+msgstr "לטבית"
+
+msgid "ISO_639-2.MH"
+msgstr "מלטזית"
+
+msgid "ISO_639-2.MI"
+msgstr "מאורית"
+
+msgid "ISO_639-2.MK"
+msgstr "מקדונית"
+
+msgid "ISO_639-2.MN"
+msgstr "מקדונית"
+
+msgid "ISO_639-2.MR"
+msgstr "מאורית"
+
+msgid "ISO_639-2.MT"
+msgstr "מלטזית"
+
+msgid "ISO_639-2.NG"
+msgstr "בוסנית"
+
+msgid "ISO_639-2.NN"
+msgstr "נורבגית (Nynorsk)"
+
+msgid "ISO_639-2.NO"
+msgstr "קוריאנית"
+
+msgid "ISO_639-2.OS"
+msgstr "רוסית"
+
+msgid "ISO_639-2.PI"
+msgstr "פולנית"
+
+msgid "ISO_639-2.PL"
+msgstr "פולנית"
+
+msgid "ISO_639-2.PT"
+msgstr "פורטוגזית"
+
+msgid "ISO_639-2.RM"
+msgstr "רומנית"
+
+msgid "ISO_639-2.RO"
+msgstr "לטבית"
+
+msgid "ISO_639-2.RU"
+msgstr "רוסית"
+
+msgid "ISO_639-2.SC"
+msgstr "מקדונית"
+
+msgid "ISO_639-2.SI"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-2.SK"
+msgstr "סלובקית"
+
+msgid "ISO_639-2.SL"
+msgstr "סלובנית"
+
+msgid "ISO_639-2.SN"
+msgstr "קוזה"
+
+msgid "ISO_639-2.SQ"
+msgstr "אזרביג'נית"
+
+msgid "ISO_639-2.SR"
+msgstr "סרבית"
+
+msgid "ISO_639-2.SV"
+msgstr "שבדית"
+
+msgid "ISO_639-2.TA"
+msgstr "טמילית"
+
+msgid "ISO_639-2.TG"
+msgstr "תאילנדית"
+
+msgid "ISO_639-2.TH"
+msgstr "תאילנדית"
+
+msgid "ISO_639-2.TI"
+msgstr "טורקית"
+
+msgid "ISO_639-2.TR"
+msgstr "טורקית"
+
+msgid "ISO_639-2.TY"
+msgstr "לטבית"
+
+msgid "ISO_639-2.UK"
+msgstr "אוקראינית"
+
+msgid "ISO_639-2.VI"
+msgstr "וייטנאמית"
+
+msgid "ISO_639-2.WA"
+msgstr "וולונית"
+
+msgid "ISO_639-2.XH"
+msgstr "קוזה"
+
+msgid "ISO_639-2.ZH"
+msgstr "סינית"
+
+msgid "ISO_639-2.ZU"
+msgstr "זולו"
